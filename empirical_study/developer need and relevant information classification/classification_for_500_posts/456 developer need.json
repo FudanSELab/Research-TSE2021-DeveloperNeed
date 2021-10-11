@@ -1,0 +1,3765 @@
+[
+    {
+        "id": 355089,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "Difference between StringBuilder and StringBuffer",
+            "What is the main difference between StringBuffer and StringBuilder?",
+            "Is there any performance issues when deciding on any one of these?"
+        ]
+    },
+    {
+        "id": 1069066,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Get current stack trace in Java",
+            "BTW, Thread.dumpStack() is not what I want - I want to get the stack trace back, not print it out.",
+            "How do I get the current stack trace in Java, like how in .NET you can do Environment.StackTrace?"
+        ]
+    },
+    {
+        "id": 1069066,
+        "developer need type": "Alternative Solution",
+        "sentences": [
+            "How do I get the current stack trace in Java, like how in .NET you can do Environment.StackTrace?"
+        ]
+    },
+    {
+        "id": 10766492,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "What is the Simplest Way to Reverse an ArrayList?",
+            "-CODE- .",
+            "What is the simplest way to reverse this ArrayList?"
+        ]
+    },
+    {
+        "id": 10766492,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "What is the Simplest Way to Reverse an ArrayList?",
+            "What is the simplest way to reverse this ArrayList?"
+        ]
+    },
+    {
+        "id": 10766492,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "What is the Simplest Way to Reverse an ArrayList?",
+            "What is the simplest way to reverse this ArrayList?"
+        ]
+    },
+    {
+        "id": 1196192,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to read the value of a private field from a different class in Java?",
+            "I have a poorly designed class in a 3rd-party JAR and I need to access one of its private fields.",
+            "How can I use reflection to get the value of stuffIWant?"
+        ]
+    },
+    {
+        "id": 1816673,
+        "developer need type": "Alternative Solution",
+        "sentences": [
+            "How do I check if a file exists in Java?",
+            "How can I check whether a file exists, before opening it for reading in Java? (equivalent of Perl's -e $filename)."
+        ]
+    },
+    {
+        "id": 1816673,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I check if a file exists in Java?",
+            "How can I check whether a file exists, before opening it for reading in Java? (equivalent of Perl's -e $filename)."
+        ]
+    },
+    {
+        "id": 3072173,
+        "developer need type": "Alternative Solution",
+        "sentences": [
+            "How to call a method after a delay in Android",
+            "I want to be able to call the following method after a specified delay.",
+            "In objective c there was something like: -CODE- .",
+            "For example I need to be able to call a method after 5 seconds."
+        ]
+    },
+    {
+        "id": 3072173,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to call a method after a delay in Android",
+            "I want to be able to call the following method after a specified delay.",
+            "For example I need to be able to call a method after 5 seconds."
+        ]
+    },
+    {
+        "id": 275711,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "Add leading zeroes to number in Java?",
+            "This function fails if num has more digits than digits, and I feel like it should be in the library somewhere (like Integer.toString(x,\"%3d\") or something)",
+            "-CODE- ."
+        ]
+    },
+    {
+        "id": 275711,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Add leading zeroes to number in Java?"
+        ]
+    },
+    {
+        "id": 2889777,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "Difference between HashMap, LinkedHashMap and TreeMap",
+            "What is the difference between HashMap, LinkedHashMap and TreeMap in Java?",
+            "I don't see any difference in the output as all the three has keySet and values."
+        ]
+    },
+    {
+        "id": 2889777,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "What are Hashtables?"
+        ]
+    },
+    {
+        "id": 1306727,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Way to get number of digits in an int?",
+            "Is there a neater way for getting the length of an int than this method? -CODE- ."
+        ]
+    },
+    {
+        "id": 1306727,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "Way to get number of digits in an int?",
+            "Is there a neater way for getting the length of an int than this method? -CODE- ."
+        ]
+    },
+    {
+        "id": 20945049,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Is a Java string really immutable?"
+        ]
+    },
+    {
+        "id": 20945049,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Why does this program operate like this?",
+            "And why is the value of s1 and s2 changed, but not s3?"
+        ]
+    },
+    {
+        "id": 4645020,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "When to use StringBuilder in Java"
+        ]
+    },
+    {
+        "id": 4645020,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "If there is such a threshold, what does it depend on (perhaps the string length, but in which way)?"
+        ]
+    },
+    {
+        "id": 4645020,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "What I mean is this: Is the overhead of creating a StringBuilder object, calling the append() method and finally toString() already smaller then concatenating existing strings with the + operator for two strings, or is it only advisable for more (than two) strings?"
+        ]
+    },
+    {
+        "id": 4645020,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "And finally, would you trade the readability and conciseness of the + concatenation for the performance of the StringBuilder in smaller cases like two, three or four strings?"
+        ]
+    },
+    {
+        "id": 409784,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "What's the simplest way to print a Java array?"
+        ]
+    },
+    {
+        "id": 409784,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "What's the simplest way to print a Java array?",
+            "In Java, arrays don't override toString(), so if you try to print one directly, you get the className + @ + the hex of the hashCode of the array, as defined by Object.toString(): -CODE- .",
+            "But usually we'd actually want something more like [1, 2, 3, 4, 5]."
+        ]
+    },
+    {
+        "id": 7485670,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "Error: Could not find or load main class",
+            "-CODE- .",
+            "I get the following error: \"Error: Could not find or load main class SpatialModel \".",
+            "I am having trouble compiling and running my Java code, intended to allow me to interface Java with a shared object for Vensim, a simulation modeling package."
+        ]
+    },
+    {
+        "id": 3301635,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "Change private static final field using Java reflection",
+            "Using reflection I get this error: java.lang.IllegalAccessException: Can not set static final boolean field Is there any way to change the value?",
+            "-CODE- .",
+            "I have a class with a private static final field that, unfortunately, I need to change at run-time."
+        ]
+    },
+    {
+        "id": 51438,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Getting A File's Mime Type In Java",
+            "I was just wondering how most people fetch a mime type from a file in Java?"
+        ]
+    },
+    {
+        "id": 51438,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "Getting A File's Mime Type In Java",
+            "So far I've tried two utils: JMimeMagic & Mime-Util.",
+            "I was just wondering how most people fetch a mime type from a file in Java?",
+            "The first gave me memory exceptions, the second doesn't close its streams off properly."
+        ]
+    },
+    {
+        "id": 2965747,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "Why do I get an UnsupportedOperationException when trying to remove an element from a List?",
+            "I get this: -CODE- .",
+            "I have this code: -CODE- ."
+        ]
+    },
+    {
+        "id": 7438612,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "How to remove the last character from a string?",
+            "Getting the length of the string - 1 and replacing the last letter with nothing (deleting it), but every time I run the program, it deletes middle letters that are the same as the last letter.",
+            "\" I want it to return the word admire.",
+            "I want to remove the last character from a string.",
+            "I've tried doing this: -CODE- .",
+            "For example, the word is \"admirer\"; after I run the method, I get \"admie.\" I want it to return the word admire."
+        ]
+    },
+    {
+        "id": 7438612,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to remove the last character from a string?",
+            "I want to remove the last character from a string."
+        ]
+    },
+    {
+        "id": 338206,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Why can't I use switch statement on a String?",
+            "Can someone explain why I can't do this, as in, the technical way Java's switch statement works?"
+        ]
+    },
+    {
+        "id": 299304,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Why does Java's hashCode() in String use 31 as a multiplier?",
+            "Why is 31 used as a multiplier?",
+            "So why not 29, or 37, or even 97?"
+        ]
+    },
+    {
+        "id": 18448671,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "How to avoid \"ConcurrentModificationException\" while removing elements from `ArrayList` while iterating it?",
+            "I'm trying to remove some elements from an ArrayList while iterating it like this: -CODE- .",
+            "Of course, I get a ConcurrentModificationException when trying to remove items from the list at the same time when iterating myArrayList."
+        ]
+    },
+    {
+        "id": 6416706,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Easy way to convert Iterable to Collection",
+            "Is there any utility method somewhere that will let me quickly convert one to the other?"
+        ]
+    },
+    {
+        "id": 6416706,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "Easy way to convert Iterable to Collection",
+            "Methods of this library return Iterable<T>, while the rest of my code expects Collection<T>.",
+            "In my application I use 3rd party library (Spring Data for MongoDB to be exact).",
+            "Is there any utility method somewhere that will let me quickly convert one to the other?"
+        ]
+    },
+    {
+        "id": 6416706,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Easy way to convert Iterable to Collection",
+            "Is there any utility method somewhere that will let me quickly convert one to the other?"
+        ]
+    },
+    {
+        "id": 2986296,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "What are the differences between ArrayList and Vector?",
+            "What are the differences between the two data structures ArrayList and Vector, and where should you use each of them?"
+        ]
+    },
+    {
+        "id": 3342651,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "I get exception when using Thread.sleep(x) or wait()",
+            "I have tried to delay - or put to sleep - my Java program, but an error occurs.",
+            "The same error message appears: -CODE- .",
+            "I'm unable to use Thread.sleep(x) or wait()."
+        ]
+    },
+    {
+        "id": 3342651,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Is there any step required before using the Thread.sleep() or wait() methods?"
+        ]
+    },
+    {
+        "id": 20363719,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "Java 8 List<V> into Map<K, V>",
+            "-CODE- .",
+            "In Guava: -CODE- .",
+            "I can accomplish this easily using Java 8 and Guava but I would like to know how to do this without Guava.",
+            "I want to translate a List of objects into a Map using Java 8's streams and lambdas."
+        ]
+    },
+    {
+        "id": 20363719,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Java 8 List<V> into Map<K, V>",
+            "I want to translate a List of objects into a Map using Java 8's streams and lambdas."
+        ]
+    },
+    {
+        "id": 20363719,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Java 8 List<V> into Map<K, V>",
+            "I want to translate a List of objects into a Map using Java 8's streams and lambdas."
+        ]
+    },
+    {
+        "id": 1036754,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "Difference between wait() and sleep()",
+            "What is the difference between a wait() and sleep() in Threads?"
+        ]
+    },
+    {
+        "id": 1036754,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Why do we have both wait() and sleep(): how does their implementation vary at a lower level?"
+        ]
+    },
+    {
+        "id": 1036754,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Is my understanding that a wait()-ing Thread is still in running mode and uses CPU cycles but a sleep()-ing does not consume any CPU cycles correct?"
+        ]
+    },
+    {
+        "id": 299495,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to add an image to a JPanel?",
+            "I have a JPanel to which I'd like to add JPEG and PNG images that I generate on the fly.",
+            "How to add an image to a JPanel without using the ImageIcon class?"
+        ]
+    },
+    {
+        "id": 299495,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to add an image to a JPanel?",
+            "I have a JPanel to which I'd like to add JPEG and PNG images that I generate on the fly.",
+            "How to add an image to a JPanel without using the ImageIcon class?"
+        ]
+    },
+    {
+        "id": 299495,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "How to add an image to a JPanel?",
+            "How to add an image to a JPanel without using the ImageIcon class?",
+            "I have a JPanel to which I'd like to add JPEG and PNG images that I generate on the fly.",
+            "All the examples I've seen so far in the Swing Tutorials, specially in the Swing examples use ImageIcons."
+        ]
+    },
+    {
+        "id": 299495,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Is there any (performance or other) problem in using the ImageIcon class to display an image that size in a JPanel?"
+        ]
+    },
+    {
+        "id": 1978933,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "A quick and easy way to join array elements with a separator (the opposite of split) in Java",
+            "See Related .NET question I'm looking for a quick and easy way to do exactly the opposite of split so that it will cause [\"a\",\"b\",\"c\"] to become \"a,b,c\" Iterating through an array requires either adding a condition (if this is not the last element, add the seperator) or using substring to remove the last separator.",
+            "\" Iterating through an array requires either adding a condition (if this is not the last element, add the seperator) or using substring to remove the last separator.",
+            "I'm sure there is a certified, efficient way to do it (Apache Commons?)"
+        ]
+    },
+    {
+        "id": 1978933,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "A quick and easy way to join array elements with a separator (the opposite of split) in Java",
+            "See Related .NET question I'm looking for a quick and easy way to do exactly the opposite of split so that it will cause [\"a\",\"b\",\"c\"] to become \"a,b,c\" Iterating through an array requires either adding a condition (if this is not the last element, add the seperator) or using substring to remove the last separator."
+        ]
+    },
+    {
+        "id": 1348199,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "What is the difference between the HashMap and Map objects in Java?"
+        ]
+    },
+    {
+        "id": 156275,
+        "developer need type": "Alternative Solution",
+        "sentences": [
+            "What is the equivalent of the C++ Pair<L,R> in Java?"
+        ]
+    },
+    {
+        "id": 156275,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Is there a good reason why there is no Pair<L,R> in Java?"
+        ]
+    },
+    {
+        "id": 3695230,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "How to use java.String.format in Scala?",
+            "But if I place %1, %2, etc. in the string, java.util.UnknownFormatConversionException is thrown pointing to a confusing Java source code piece: -CODE- .",
+            "I am trying to use a .format method of a string."
+        ]
+    },
+    {
+        "id": 3695230,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to use java.String.format in Scala?"
+        ]
+    },
+    {
+        "id": 817856,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "When and how should I use a ThreadLocal variable?",
+            "When should I use a ThreadLocal variable?"
+        ]
+    },
+    {
+        "id": 2329358,
+        "developer need type": "Alternative Solution",
+        "sentences": [
+            "Is there anything like .NET's NotImplementedException in Java?"
+        ]
+    },
+    {
+        "id": 2793150,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to use java.net.URLConnection to fire and handle HTTP requests",
+            "So, how can I use java.net.URLConnection to fire and handle \"advanced\" HTTP requests?"
+        ]
+    },
+    {
+        "id": 2793150,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to use java.net.URLConnection to fire and handle HTTP requests",
+            "So, how can I use java.net.URLConnection to fire and handle \"advanced\" HTTP requests?"
+        ]
+    },
+    {
+        "id": 13375357,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Proper use cases for Android UserManager.isUserAGoat()?"
+        ]
+    },
+    {
+        "id": 3881,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "IllegalArgumentException or NullPointerException for a null parameter?",
+            "I have always been torn in this situation: should I throw an IllegalArgumentException, or a NullPointerException?"
+        ]
+    },
+    {
+        "id": 1464291,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "How to really read text file from classpath in Java",
+            "I am trying to read a text file which is set in CLASSPATH system variable.",
+            "But unfortunately NONE of them are working and I am always getting null into my InputStream in.",
+            "Place full path of file (D:\\myDir\\SomeTextFile.txt)in CLASSPATH and try the same above 3 lines of code.",
+            "I am trying to get input stream to the file as below: Place the directory of file (D:\\myDir)in CLASSPATH and try below: -CODE- ."
+        ]
+    },
+    {
+        "id": 1464291,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to really read text file from classpath in Java",
+            "I am trying to read a text file which is set in CLASSPATH system variable."
+        ]
+    },
+    {
+        "id": 6481627,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "Java Security: Illegal key size or default parameters?",
+            "-CODE- .",
+            "Today I installed Java 1.6.0.26 on my server user and when I try to run my application, I get the following exception."
+        ]
+    },
+    {
+        "id": 19431234,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Converting between java.time.LocalDateTime and java.util.Date"
+        ]
+    },
+    {
+        "id": 19431234,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Converting between java.time.LocalDateTime and java.util.Date"
+        ]
+    },
+    {
+        "id": 5374311,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "Convert ArrayList<String> to String[] array",
+            "-CODE- .",
+            "I'm working in the android environment and have tried the following code, but it doesn't seem to be working."
+        ]
+    },
+    {
+        "id": 43574426,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "How to resolve java.lang.NoClassDefFoundError: javax/xml/bind/JAXBException in Java 9",
+            "When I run the same code with Java 9, at runtime I get errors indicating that JAXB classes can not be found."
+        ]
+    },
+    {
+        "id": 43574426,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "The JAXB classes have been provided as a part of the JDK since Java 6, so why can Java 9 no longer find these classes?"
+        ]
+    },
+    {
+        "id": 5071040,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Java - Convert integer to string",
+            "Which would be the \"best\" way to convert this to a string: -CODE- ."
+        ]
+    },
+    {
+        "id": 4709175,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "What are enums and why are they useful?",
+            "Now why and what for should I use enum in day to day programming?"
+        ]
+    },
+    {
+        "id": 785973,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "What is the most appropriate way to store user settings in Android application",
+            "I would appreciate any suggestion on how to store user values/settings in Android application.",
+            "I am creating an application which connects to the server using username/password and I would like to enable the option \"Save password\" so the user wouldn't have to type the password each time the application starts.",
+            "I was trying to do it with Shared Preferences but am not sure if this is the best solution."
+        ]
+    },
+    {
+        "id": 785973,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "What is the most appropriate way to store user settings in Android application",
+            "I am creating an application which connects to the server using username/password and I would like to enable the option \"Save password\" so the user wouldn't have to type the password each time the application starts.",
+            "I would appreciate any suggestion on how to store user values/settings in Android application."
+        ]
+    },
+    {
+        "id": 2305973,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "java.util.Date vs java.sql.Date",
+            "java.util.Date vs java.sql.Date: when to use which and why?"
+        ]
+    },
+    {
+        "id": 6802483,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to directly initialize a HashMap (in a literal way)?",
+            "I am looking for the shortest/fastest way to put some \"final/static\" values in a map that never change and are known in advance when creating the Map."
+        ]
+    },
+    {
+        "id": 6802483,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to directly initialize a HashMap (in a literal way)?"
+        ]
+    },
+    {
+        "id": 1844688,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to read all files in a folder from Java?",
+            "How to read all the files in a folder through Java?"
+        ]
+    },
+    {
+        "id": 683518,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Java Class that implements Map and keeps insertion order?",
+            "Does anyone know of a free/open-source Java class that will do this, or a way to get values out of a Hashtable based on when they were added?",
+            "I'm looking for a class in java that has key-value association, but without using hashes."
+        ]
+    },
+    {
+        "id": 1235179,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Simple way to repeat a String in java",
+            "I'm looking for a simple commons method or operator that allows me to repeat some String n times."
+        ]
+    },
+    {
+        "id": 1235179,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Simple way to repeat a String in java",
+            "I'm looking for a simple commons method or operator that allows me to repeat some String n times."
+        ]
+    },
+    {
+        "id": 1235179,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "Simple way to repeat a String in java",
+            "I'm looking for a simple commons method or operator that allows me to repeat some String n times.",
+            "I know I could write this using a for loop, but I wish to avoid for loops whenever necessary and a simple direct method should exist somewhere.",
+            "-CODE- ."
+        ]
+    },
+    {
+        "id": 6784463,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "Error - trustAnchors parameter must be non-empty",
+            "I'm trying to configure my e-mail on Jenkins/Hudson, and I constantly receive the error: -CODE- ."
+        ]
+    },
+    {
+        "id": 5878952,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Cast Int to enum in Java",
+            "What is the correct way to cast an Int to an enum in Java given the following enum?"
+        ]
+    },
+    {
+        "id": 5878952,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Cast Int to enum in Java",
+            "What is the correct way to cast an Int to an enum in Java given the following enum?"
+        ]
+    },
+    {
+        "id": 320542,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to get the path of a running JAR file?",
+            "So, if foo.jar is in C:\\FOO\\, I want to get that path no matter what my current working directory is.",
+            "My code runs inside a JAR file, say foo.jar, and I need to know, in the code, in which folder the running foo.jar is."
+        ]
+    },
+    {
+        "id": 1154008,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Any way to declare an array in-line?",
+            "Is there a way I can just declare this array in-line when I make the call?",
+            "Can I just replace this with one line, and avoid declaring a named variable that I'm never going to use?"
+        ]
+    },
+    {
+        "id": 6952363,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "Replace a character at a specific index in a string?",
+            "This gives an error.",
+            "What I'm doing is: -CODE- .",
+            "I'm trying to replace a character at a specific index in a string."
+        ]
+    },
+    {
+        "id": 6952363,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Replace a character at a specific index in a string?",
+            "I'm trying to replace a character at a specific index in a string."
+        ]
+    },
+    {
+        "id": 6952363,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Replace a character at a specific index in a string?",
+            "I'm trying to replace a character at a specific index in a string."
+        ]
+    },
+    {
+        "id": 857420,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "What are the reasons why Map.get(Object key) is not (fully) generic",
+            "What are the reasons behind the decision to not have a fully generic get method in the interface of java.util.Map<K, V>."
+        ]
+    },
+    {
+        "id": 304268,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Getting a File's MD5 Checksum in Java",
+            "I was really surprised but I haven't been able to find anything that shows how to get the MD5 checksum of a file.",
+            "I am looking to use Java to get the MD5 checksum of a file."
+        ]
+    },
+    {
+        "id": 285793,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "What is a serialVersionUID and why should I use it?",
+            "What is serialVersionUID and why is it important?"
+        ]
+    },
+    {
+        "id": 1383797,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Java Hashmap: How to get key from value?",
+            "If I have the value \"foo\", and a HashMap<String> ftw for which ftw.containsValue(\"foo\") returns true, how can I get the corresponding key?"
+        ]
+    },
+    {
+        "id": 1383797,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Java Hashmap: How to get key from value?",
+            "If I have the value \"foo\", and a HashMap<String> ftw for which ftw.containsValue(\"foo\") returns true, how can I get the corresponding key?"
+        ]
+    },
+    {
+        "id": 23079003,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to Convert a Java 8 Stream to an Array?",
+            "What is the easiest/shortest way to convert a Java 8 Stream into an array?"
+        ]
+    },
+    {
+        "id": 23079003,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to Convert a Java 8 Stream to an Array?",
+            "What is the easiest/shortest way to convert a Java 8 Stream into an array?"
+        ]
+    },
+    {
+        "id": 8892360,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "Convert Set to List without creating new List",
+            "I want to avoid creating a new list in each iteration of the loop.",
+            "I am using this code to convert a Set to a List: -CODE- ."
+        ]
+    },
+    {
+        "id": 8892360,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Convert Set to List without creating new List"
+        ]
+    },
+    {
+        "id": 8892360,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Convert Set to List without creating new List"
+        ]
+    },
+    {
+        "id": 13950338,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to make an Android device vibrate?",
+            "Now, I want to make the device vibrate when a certain action occurs."
+        ]
+    },
+    {
+        "id": 5887709,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Getting random numbers in Java",
+            "How may I do that with the help of Math.random();?",
+            "I would like to get a random value between 1 to 50 in Java."
+        ]
+    },
+    {
+        "id": 5887709,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How may I do that with the help of Math.random();?",
+            "How do I bound the values that Math.random() returns?"
+        ]
+    },
+    {
+        "id": 5887709,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I bound the values that Math.random() returns?"
+        ]
+    },
+    {
+        "id": 1590831,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "Safely casting long to int in Java",
+            "What's the most idiomatic way in Java to verify that a cast from long to int does not lose any information?",
+            "This is my current implementation: -CODE- ."
+        ]
+    },
+    {
+        "id": 1590831,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Safely casting long to int in Java",
+            "What's the most idiomatic way in Java to verify that a cast from long to int does not lose any information?"
+        ]
+    },
+    {
+        "id": 693997,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to set HttpResponse timeout for Android in Java",
+            "Does anyone know how to set the timeout in order to avoid waiting too long?"
+        ]
+    },
+    {
+        "id": 693997,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to set HttpResponse timeout for Android in Java"
+        ]
+    },
+    {
+        "id": 20375176,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Should I always use a parallel stream when possible?"
+        ]
+    },
+    {
+        "id": 20375176,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "As long as I don't care about the order, would it always be beneficial to use the parallel?"
+        ]
+    },
+    {
+        "id": 20375176,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "When should parallel stream be used and when should the non-parallel be used? (This question is asked to trigger a discussion about how and when to use parallel streams, not because I think always using them is a good idea.)"
+        ]
+    },
+    {
+        "id": 14014086,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "What is difference between CrudRepository and JpaRepository interfaces in Spring Data JPA?",
+            "What is the difference between CrudRepository and JpaRepository interfaces in Spring Data JPA?"
+        ]
+    },
+    {
+        "id": 508665,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "Difference between parseInt and valueOf in java?",
+            "Edit: Also, which of these is preferable and used more often by convention?"
+        ]
+    },
+    {
+        "id": 2201925,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "Converting ISO 8601-compliant String to java.util.Date",
+            "However, using the java.text.SimpleDateFormat, I cannot convert the correctly formatted String 2010-01-01T12:00:00+01:00.",
+            "I am trying to convert an ISO 8601 formatted String to a java.util.Date."
+        ]
+    },
+    {
+        "id": 2201925,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "Converting ISO 8601-compliant String to java.util.Date",
+            "So, the current solution is -CODE- .",
+            "I am trying to convert an ISO 8601 formatted String to a java.util.Date."
+        ]
+    },
+    {
+        "id": 2201925,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Converting ISO 8601-compliant String to java.util.Date",
+            "I am trying to convert an ISO 8601 formatted String to a java.util.Date."
+        ]
+    },
+    {
+        "id": 2201925,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Converting ISO 8601-compliant String to java.util.Date",
+            "I am trying to convert an ISO 8601 formatted String to a java.util.Date."
+        ]
+    },
+    {
+        "id": 309424,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I read / convert an InputStream into a String in Java?",
+            "Suppose I have an InputStream that contains text data, and I want to convert it to a String, so for example I can write that to a log file.",
+            "What is the easiest way to take the InputStream and convert it to a String?",
+            "If you have a java.io.InputStream object, how should you process that object and produce a String?"
+        ]
+    },
+    {
+        "id": 309424,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How do I read / convert an InputStream into a String in Java?",
+            "Suppose I have an InputStream that contains text data, and I want to convert it to a String, so for example I can write that to a log file.",
+            "What is the easiest way to take the InputStream and convert it to a String?",
+            "If you have a java.io.InputStream object, how should you process that object and produce a String?"
+        ]
+    },
+    {
+        "id": 24511052,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to convert an iterator to a stream?",
+            "I am looking for a concise way to convert an Iterator to a Stream or more specifically to \"view\" the iterator as a stream."
+        ]
+    },
+    {
+        "id": 24511052,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to convert an iterator to a stream?",
+            "I am looking for a concise way to convert an Iterator to a Stream or more specifically to \"view\" the iterator as a stream."
+        ]
+    },
+    {
+        "id": 24511052,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "How to convert an iterator to a stream?",
+            "I am looking for a concise way to convert an Iterator to a Stream or more specifically to \"view\" the iterator as a stream.",
+            "For performance reason, I would like to avoid a copy of the iterator in a new list: -CODE- ."
+        ]
+    },
+    {
+        "id": 24511052,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "Based on the some suggestions in the comments, I have also tried to use Stream.generate: -CODE- .",
+            "However, I get a NoSuchElementException (since there is no invocation of hasNext) -CODE- ."
+        ]
+    },
+    {
+        "id": 81346,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Most efficient way to increment a Map value in Java",
+            "I wonder if you can suggest a more efficient way of incrementing such a value."
+        ]
+    },
+    {
+        "id": 81346,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Most efficient way to increment a Map value in Java",
+            "I wonder if you can suggest a more efficient way of incrementing such a value."
+        ]
+    },
+    {
+        "id": 81346,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "Most efficient way to increment a Map value in Java",
+            "In Perl, incrementing such a value would be trivially easy: -CODE- .",
+            "I wonder if you can suggest a more efficient way of incrementing such a value.",
+            "I'm wondering how to refactor some code for better performance that is getting run a bunch of times.",
+            "Here the way I'm currently doing it: -CODE- ."
+        ]
+    },
+    {
+        "id": 81346,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Are there even good performance reasons for eschewing the Collections framework and using a something else instead?"
+        ]
+    },
+    {
+        "id": 7229226,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Should I avoid the use of set(Preferred|Maximum|Minimum)Size methods in Java Swing?",
+            "What exactly are the negative consequences of using those methods? (I can only think adding portability between systems with different screen resolution).",
+            "So I have the following questions: Should I completely avoid the use of those methods?"
+        ]
+    },
+    {
+        "id": 7229226,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "In which context?",
+            "For what purposes?"
+        ]
+    },
+    {
+        "id": 7229226,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Do I really need to implement a new LayoutManager for every little variation on my layout ?",
+            "In a situation where I need to define proportions between children of a Component (eg, child1 should use 10% of space, child2 40% ,child3 50%), is it possible to achieve that without implementing a custom LayoutManager?",
+            "If the answer to 4 is \"yes\", won't this lead to a proliferation of LayoutManager classes which will become difficult to maintain?"
+        ]
+    },
+    {
+        "id": 7229226,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "So when should I use them?"
+        ]
+    },
+    {
+        "id": 180158,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I time a method's execution in Java?",
+            "How do I get a method's execution time?",
+            "Is there a Timer utility class for things like timing how long a task takes, etc?"
+        ]
+    },
+    {
+        "id": 279507,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Why is a String immutable?"
+        ]
+    },
+    {
+        "id": 279507,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "What are the advantages/disadvantages of immutable objects?"
+        ]
+    },
+    {
+        "id": 279507,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Why should a mutable object such as StringBuilder be preferred over String and vice-verse?"
+        ]
+    },
+    {
+        "id": 687833,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to get the last value of an ArrayList",
+            "How can I get the last value of an ArrayList?"
+        ]
+    },
+    {
+        "id": 687833,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to get the last value of an ArrayList",
+            "How can I get the last value of an ArrayList?"
+        ]
+    },
+    {
+        "id": 1102891,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to check if a String is numeric in Java",
+            "How would you check if a String was a number before parsing it?"
+        ]
+    },
+    {
+        "id": 703396,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to nicely format floating numbers to String without unnecessary decimal 0?",
+            "So how do I print these doubles nicely in Java?"
+        ]
+    },
+    {
+        "id": 703396,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "How to nicely format floating numbers to String without unnecessary decimal 0?",
+            "I have tried String.format(\"%f\", value), which is close, except I get a lot of trailing zeros for small values.",
+            "Sure I can write a function to trim those zeros, but that's lot of performance loss due to String manipulation.",
+            "Here's an example output of of %f -CODE- .",
+            "What I want is: -CODE- ."
+        ]
+    },
+    {
+        "id": 4716503,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Reading a plain text file in Java",
+            "I want to read ASCII data from a file."
+        ]
+    },
+    {
+        "id": 1555262,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "Calculating the difference between two Java date instances",
+            "Is there any simpler, nicer way to get a time delta?",
+            "I know I can calculate the delta by using getTime(): -CODE- .",
+            "I'm using Java's java.util.Date class in Scala and want to compare a Date object and the current time."
+        ]
+    },
+    {
+        "id": 1555262,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Calculating the difference between two Java date instances",
+            "Is there any simpler, nicer way to get a time delta?",
+            "I'm using Java's java.util.Date class in Scala and want to compare a Date object and the current time."
+        ]
+    },
+    {
+        "id": 1555262,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "I'm using Java's java.util.Date class in Scala and want to compare a Date object and the current time."
+        ]
+    },
+    {
+        "id": 3907929,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Should I declare Jackson's ObjectMapper as a static field?",
+            "Does this mean that I should declare my ObjectMapper as a static field like this -CODE- ."
+        ]
+    },
+    {
+        "id": 3395286,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Remove last character of a StringBuilder?",
+            "Gives something like : serverId_1, serverId_2, serverId_3, I would like to delete the last character in the StringBuilder (without converting it because I still need it after this loop)."
+        ]
+    },
+    {
+        "id": 3395286,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Remove last character of a StringBuilder?",
+            "Gives something like : serverId_1, serverId_2, serverId_3, I would like to delete the last character in the StringBuilder (without converting it because I still need it after this loop)."
+        ]
+    },
+    {
+        "id": 858572,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to make a new List in Java",
+            "How do we create a List in Java?"
+        ]
+    },
+    {
+        "id": 858572,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to make a new List in Java",
+            "How do we create a List in Java?"
+        ]
+    },
+    {
+        "id": 25147094,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How can I turn a List of Lists into a List in Java 8?",
+            "If I have a List<List<Object>>, how can I turn that into a List<Object> that contains all the objects in the same iteration order by using the features of Java 8?"
+        ]
+    },
+    {
+        "id": 25147094,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How can I turn a List of Lists into a List in Java 8?",
+            "If I have a List<List<Object>>, how can I turn that into a List<Object> that contains all the objects in the same iteration order by using the features of Java 8?"
+        ]
+    },
+    {
+        "id": 2642777,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "Trusting all certificates using HttpClient over HTTPS",
+            "Recently posted a question regarding the HttpClient over Https (found here).",
+            "So this is what I have: -CODE- .",
+            "And here's the error I'm getting: -CODE- .",
+            "Basically, I want my client to accept any certificate (because I'm only ever pointing to one server)",
+            "but I keep getting a javax.net.ssl.SSLException: Not trusted server certificate exception."
+        ]
+    },
+    {
+        "id": 299659,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "What's the difference between SoftReference and WeakReference in Java?"
+        ]
+    },
+    {
+        "id": 157944,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Create ArrayList from array",
+            "I would like to convert this array into an object of the ArrayList class."
+        ]
+    },
+    {
+        "id": 157944,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Create ArrayList from array",
+            "I would like to convert this array into an object of the ArrayList class."
+        ]
+    },
+    {
+        "id": 4234985,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "How to for each the hashmap?",
+            "By way of (non-functioning) demonstration: -CODE- ."
+        ]
+    },
+    {
+        "id": 4234985,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to for each the hashmap?"
+        ]
+    },
+    {
+        "id": 4234985,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to for each the hashmap?"
+        ]
+    },
+    {
+        "id": 6992608,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Why there is no ConcurrentHashSet against ConcurrentHashMap",
+            "Based on this, I am confused that why we don't have a ConcurrentHashSet which should be based on the ConcurrentHashMap?"
+        ]
+    },
+    {
+        "id": 6992608,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Also, If I want to create my own ConcurrentHashSet can I achieve it by just replacing the HashMap to ConcurrentHashMap and leaving the rest as is?"
+        ]
+    },
+    {
+        "id": 216894,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "Get an OutputStream into a String",
+            "What's the best way to pipe the output from an java.io.OutputStream to a String in Java?",
+            "I'm considering writing a class like this (untested): -CODE- .",
+            "However, I want to get this output into a String as easily as possible.",
+            "Say I have the method: -CODE- ."
+        ]
+    },
+    {
+        "id": 216894,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Get an OutputStream into a String",
+            "What's the best way to pipe the output from an java.io.OutputStream to a String in Java?"
+        ]
+    },
+    {
+        "id": 216894,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Get an OutputStream into a String",
+            "What's the best way to pipe the output from an java.io.OutputStream to a String in Java?"
+        ]
+    },
+    {
+        "id": 153724,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to round a number to n decimal places in Java",
+            "What I would like is a method to convert a double to a string which rounds using the half-up method - i.e. if the decimal to be rounded is 5"
+        ]
+    },
+    {
+        "id": 153724,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "How to round a number to n decimal places in Java",
+            "However as you can see this uses half-even rounding.",
+            "Another method is to use the DecimalFormatter: -CODE- .",
+            "What I'd like is this: -CODE- .",
+            "which is great, however it always displays numbers with 5 decimal places even if they are not significant: -CODE- .",
+            "That is it will round down if the previous digit is even.",
+            "What I would like is a method to convert a double to a string which rounds using the half-up method - i.e. if the decimal to be rounded is 5",
+            "I know one method of doing this is to use the String.format method: -CODE- .",
+            "I also would like only significant digits to be displayed - i.e. there should not be any trailing zeroes."
+        ]
+    },
+    {
+        "id": 4240080,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Generating all permutations of a given string",
+            "What is an elegant way to find all the permutations of a string."
+        ]
+    },
+    {
+        "id": 4334970,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "Hibernate cannot simultaneously fetch multiple bags",
+            "This is my test case: Parent.java -CODE- .",
+            "Hibernate throws this exception during SessionFactory creation: -CODE- .",
+            "Child.java -CODE- ."
+        ]
+    },
+    {
+        "id": 1196586,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Calling remove in foreach loop in Java",
+            "As an addendum, is it legal to remove items that have not been iterated over yet?",
+            "In Java, is it legal to call remove on a collection when iterating through the collection using a foreach loop?"
+        ]
+    },
+    {
+        "id": 3802893,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Number of days between two dates in Joda-Time",
+            "How do I find the difference in Days between two Joda-Time DateTime instances?"
+        ]
+    },
+    {
+        "id": 5683728,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Convert java.util.Date to String",
+            "I want to convert a java.util.Date object to a String in Java."
+        ]
+    },
+    {
+        "id": 5683728,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Convert java.util.Date to String",
+            "I want to convert a java.util.Date object to a String in Java."
+        ]
+    },
+    {
+        "id": 21242110,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Convert java.util.Date to java.time.LocalDate",
+            "What is the best way to convert a java.util.Date object to the new JDK 8/JSR-310 java.time.LocalDate?"
+        ]
+    },
+    {
+        "id": 21242110,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Convert java.util.Date to java.time.LocalDate",
+            "What is the best way to convert a java.util.Date object to the new JDK 8/JSR-310 java.time.LocalDate?"
+        ]
+    },
+    {
+        "id": 388461,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How can I pad a String in Java?",
+            "Is there some easy way to pad Strings in Java?"
+        ]
+    },
+    {
+        "id": 388461,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How can I pad a String in Java?",
+            "Is there some easy way to pad Strings in Java?"
+        ]
+    },
+    {
+        "id": 388461,
+        "developer need type": "Alternative Solution",
+        "sentences": [
+            "How can I pad a String in Java?",
+            "Is there some easy way to pad Strings in Java?",
+            "Seems like something that should be in some StringUtil-like API, but I can't find anything that does this."
+        ]
+    },
+    {
+        "id": 4662215,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to extract a substring using regex",
+            "How can I write a regex to extract \"the data i want\" from the following text?"
+        ]
+    },
+    {
+        "id": 5585779,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I convert a String to an int in Java?",
+            "My String contains only numbers, and I want to return the number it represents.",
+            "For example, given the string \"1234\" the result should be the number 1234.",
+            "How can I convert a String to an int in Java?"
+        ]
+    },
+    {
+        "id": 5585779,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How do I convert a String to an int in Java?",
+            "How can I convert a String to an int in Java?"
+        ]
+    },
+    {
+        "id": 6330260,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Finish all previous activities",
+            "I want that when user clicks on the log out button(from any screen), all the screens will be finished and a new screen Log in will open ."
+        ]
+    },
+    {
+        "id": 223918,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Iterating through a Collection, avoiding ConcurrentModificationException when removing objects in a loop",
+            "How can I remove an item from the collection in a loop without throwing this exception?"
+        ]
+    },
+    {
+        "id": 1005073,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "Initialization of an ArrayList in one line",
+            "I want to create a list of options for testing purposes.",
+            "Then I refactored the code as follows: -CODE- .",
+            "Is there a better way to do this?",
+            "At first, I did this: -CODE- ."
+        ]
+    },
+    {
+        "id": 1005073,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Initialization of an ArrayList in one line",
+            "I want to create a list of options for testing purposes."
+        ]
+    },
+    {
+        "id": 1005073,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Initialization of an ArrayList in one line"
+        ]
+    },
+    {
+        "id": 17576922,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Why can I throw null in Java?",
+            "Why can I throw null in Java, and why does it upcast it to a NullPointerException? (Actually, I don't know if it is an \"upcast\", given I'm throwing null)"
+        ]
+    },
+    {
+        "id": 1026723,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to convert a Map to List in Java?",
+            "What is the best way to convert a Map<key,value> to a List<value>?"
+        ]
+    },
+    {
+        "id": 1026723,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to convert a Map to List in Java?",
+            "What is the best way to convert a Map<key,value> to a List<value>?"
+        ]
+    },
+    {
+        "id": 442747,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Getting the name of the currently executing method",
+            "Is there a way to get the name of the currently executing method in Java?"
+        ]
+    },
+    {
+        "id": 4502605,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to programmatically set drawableLeft on Android button?"
+        ]
+    },
+    {
+        "id": 2302802,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "object references an unsaved transient instance - save the transient instance before flushing",
+            "I receive following error when I save the object using Hibernate -CODE- ."
+        ]
+    },
+    {
+        "id": 5839359,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "java.lang.OutOfMemoryError: GC overhead limit exceeded",
+            "I am getting this error in a program that creates several (hundreds of thousands) HashMap objects with a few (15-20) text entries each."
+        ]
+    },
+    {
+        "id": 10710193,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to preserve insertion order in HashMap?",
+            "But the data was inserted in a specific order, and I need to preserve the insertion order."
+        ]
+    },
+    {
+        "id": 10710193,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to preserve insertion order in HashMap?"
+        ]
+    },
+    {
+        "id": 9619030,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "Resolving javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed Error?",
+            "When App1 connects to App2 I get the above error.",
+            "For more information this is how I am making the connection: -CODE- .",
+            "I am getting this error: -CODE- ."
+        ]
+    },
+    {
+        "id": 2422468,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to upload files to server using JSP/Servlet?",
+            "How can I upload files to server using JSP/Servlet?"
+        ]
+    },
+    {
+        "id": 2422468,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "How to upload files to server using JSP/Servlet?",
+            "I tried this: -CODE- .",
+            "However, I only get the file name, not the file content.",
+            "How can I upload files to server using JSP/Servlet?"
+        ]
+    },
+    {
+        "id": 2422468,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "I tried this: -CODE- .",
+            "Unfortunately, the servlet threw an exception without a clear message and cause.",
+            "During research I stumbled upon Apache Common FileUpload.",
+            "Here is the stacktrace: -CODE- ."
+        ]
+    },
+    {
+        "id": 13395114,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to initialize List<String> object in Java?",
+            "How can I instantiate List<String>?"
+        ]
+    },
+    {
+        "id": 13395114,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to initialize List<String> object in Java?",
+            "How can I instantiate List<String>?"
+        ]
+    },
+    {
+        "id": 13395114,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "How to initialize List<String> object in Java?",
+            "I face the following error: -CODE- .",
+            "I can not initialize a List as in the following code: -CODE- .",
+            "How can I instantiate List<String>?"
+        ]
+    },
+    {
+        "id": 858980,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "File to byte[] in Java",
+            "How do I convert a java.io.File to a byte[]?"
+        ]
+    },
+    {
+        "id": 858980,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "File to byte[] in Java",
+            "How do I convert a java.io.File to a byte[]?"
+        ]
+    },
+    {
+        "id": 6343166,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "How do I fix android.os.NetworkOnMainThreadException?",
+            "And it shows the below error: -CODE- .",
+            "Code: -CODE- .",
+            "I got an error while running my Android project for RssReader."
+        ]
+    },
+    {
+        "id": 1264709,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Convert InputStream to byte array in Java",
+            "How do I read an entire InputStream into a byte array?"
+        ]
+    },
+    {
+        "id": 1264709,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Convert InputStream to byte array in Java",
+            "How do I read an entire InputStream into a byte array?"
+        ]
+    },
+    {
+        "id": 11757487,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to tell Jackson to ignore a field during serialization if its value is null?",
+            "How can Jackson be configured to ignore a field value during serialization if that field's value is null."
+        ]
+    },
+    {
+        "id": 308683,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How can I get the current date and time in UTC or GMT in Java?",
+            "How can I get the current date and time in GMT?"
+        ]
+    },
+    {
+        "id": 308683,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "How can I get the current date and time in UTC or GMT in Java?",
+            "When I create a new Date object, it is initialized to the current time but in the local timezone.",
+            "How can I get the current date and time in GMT?"
+        ]
+    },
+    {
+        "id": 7655127,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "How to convert a char array back to a string?",
+            "My current solution is to do -CODE- .",
+            "But surely there is a better way of doing this?"
+        ]
+    },
+    {
+        "id": 7655127,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to convert a char array back to a string?"
+        ]
+    },
+    {
+        "id": 7655127,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to convert a char array back to a string?"
+        ]
+    },
+    {
+        "id": 1049228,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "CharSequence VS String in Java?",
+            "What are the main differences, and what issues are expected, while using them, and converting from one to another?"
+        ]
+    },
+    {
+        "id": 1049228,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Why is that?",
+            "What is the benefit, and what are the main impacts of using CharSequence over String?"
+        ]
+    },
+    {
+        "id": 2298208,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I discover memory usage of my application in Android?",
+            "How can I find the memory used on my Android application, programmatically?"
+        ]
+    },
+    {
+        "id": 2298208,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Plus, how do I get the free memory of the phone too?"
+        ]
+    },
+    {
+        "id": 15182496,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Why does this code using random strings print \"hello world\"?"
+        ]
+    },
+    {
+        "id": 4105331,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "How do I convert from int to String?",
+            "I'm working on a project where all conversions from int to String are done like this: -CODE- ."
+        ]
+    },
+    {
+        "id": 4105331,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How do I convert from int to String?"
+        ]
+    },
+    {
+        "id": 4105331,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I convert from int to String?"
+        ]
+    },
+    {
+        "id": 724043,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "HTTP URL Address Encoding in Java"
+        ]
+    },
+    {
+        "id": 724043,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "But, what I want is -CODE- . (space replaced by %20)",
+            "returns me: -CODE- .",
+            "Example: -CODE- ."
+        ]
+    },
+    {
+        "id": 1099300,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "What's the difference between getPath(), getAbsolutePath(), and getCanonicalPath() in Java?"
+        ]
+    },
+    {
+        "id": 1099300,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "And when do I use each one?"
+        ]
+    },
+    {
+        "id": 1066589,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Iterate through a HashMap",
+            "What's the best way to iterate over the items in a HashMap?"
+        ]
+    },
+    {
+        "id": 1066589,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Iterate through a HashMap",
+            "What's the best way to iterate over the items in a HashMap?"
+        ]
+    },
+    {
+        "id": 1538755,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to convert String object to Boolean Object?",
+            "How to convert String object to Boolean object?"
+        ]
+    },
+    {
+        "id": 1538755,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to convert String object to Boolean Object?",
+            "How to convert String object to Boolean object?"
+        ]
+    },
+    {
+        "id": 869033,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I copy an object in Java?",
+            "So, is there any way to create a fresh copy of dum and assign it to dumtwo?",
+            "So, I want to copy the dum to dumtwo and change dum without affecting the dumtwo."
+        ]
+    },
+    {
+        "id": 869033,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "How do I copy an object in Java?",
+            "So, I want to copy the dum to dumtwo and change dum without affecting the dumtwo.",
+            "When I change something in dum, the same change is happening in dumtwo also.",
+            "Consider the code below: -CODE- .",
+            "So, is there any way to create a fresh copy of dum and assign it to dumtwo?",
+            "I guess, when I say dumtwo = dum, Java copies the reference only."
+        ]
+    },
+    {
+        "id": 9902968,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Why does Math.round(0.49999999999999994) return 1?"
+        ]
+    },
+    {
+        "id": 9902968,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "Why does Math.round(0.49999999999999994) return 1?",
+            "In the following program you can see that each value slightly less than .5 is rounded down, except for 0.5."
+        ]
+    },
+    {
+        "id": 3325387,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "Infinite Recursion with Jackson JSON and Hibernate JPA issue",
+            "When trying to convert a JPA object that has a bi-directional association into JSON, I keep getting -CODE- ."
+        ]
+    },
+    {
+        "id": 1096650,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Why doesn't JUnit provide assertNotEquals methods?",
+            "Does anybody know why JUnit 4 provides assertEquals(foo,bar) but not assertNotEqual(foo,bar) methods?"
+        ]
+    },
+    {
+        "id": 716597,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "Array or List in Java.",
+            "Which is faster?",
+            "I have to keep thousands of strings in memory to be accessed serially in Java."
+        ]
+    },
+    {
+        "id": 716597,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Since arrays keep all the data in a contiguous chunk of memory (unlike Lists), would the use of an array to store thousands of strings cause problems ?"
+        ]
+    },
+    {
+        "id": 8881291,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Why is char[] preferred over String for passwords?"
+        ]
+    },
+    {
+        "id": 8881291,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Why does String pose a threat to security when it comes to passwords?"
+        ]
+    },
+    {
+        "id": 510632,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "What's the difference between ConcurrentHashMap and Collections.synchronizedMap(Map)?",
+            "What are the differences between Maps returned by Collections.synchronizedMap(Map) and ConcurrentHashMaps?",
+            "I have a Map which is to be modified by several threads concurrently."
+        ]
+    },
+    {
+        "id": 2808535,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Round a double to 2 decimal places"
+        ]
+    },
+    {
+        "id": 225337,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I split a string with any whitespace chars as delimiters?",
+            "What regex pattern would need I to pass to the java.lang.String.split() method to split a String into an Array of substrings using all whitespace characters (' ', '\\t', '\\n', etc.) as delimiters?"
+        ]
+    },
+    {
+        "id": 225337,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "What regex pattern would need I to pass to the java.lang.String.split() method to split a String into an Array of substrings using all whitespace characters (' ', '\\t', '\\n', etc.) as delimiters?"
+        ]
+    },
+    {
+        "id": 4591206,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "ArithmeticException: \"Non-terminating decimal expansion; no exact representable decimal result\"",
+            "-- -CODE- .",
+            "-CODE- ."
+        ]
+    },
+    {
+        "id": 52353,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "In Java, what is the best way to determine the size of an object?",
+            "Is there an easy way to find out the size of that object programmatically?"
+        ]
+    },
+    {
+        "id": 52353,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Is there a reference that defines how large primitive types and object references are for a VM?"
+        ]
+    },
+    {
+        "id": 106770,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "Standard concise way to copy a file in Java?",
+            "It has always bothered me that the only way to copy a file in Java involves opening streams, declaring a buffer, reading in one file, looping through it, and writing it out to the other steam.",
+            "Perhaps in some reliable open source utility package, that would at least obscure this underlying implementation and provide a one line solution?",
+            "Is there a better way that stays within the bounds of the Java language (meaning does not involve exec-ing OS specific commands)?"
+        ]
+    },
+    {
+        "id": 106770,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Standard concise way to copy a file in Java?"
+        ]
+    },
+    {
+        "id": 16252269,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to sort an ArrayList?",
+            "I have a List of doubles in java and I want to sort ArrayList in descending order."
+        ]
+    },
+    {
+        "id": 16252269,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to sort an ArrayList?",
+            "I have a List of doubles in java and I want to sort ArrayList in descending order."
+        ]
+    },
+    {
+        "id": 3758606,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to convert byte size into human readable format in java?",
+            "How to convert byte size into human-readable format in Java?"
+        ]
+    },
+    {
+        "id": 26684562,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "What's the difference between map and flatMap methods in Java 8?",
+            "In Java 8, what's the difference between Stream.map and Stream.flatMap methods?"
+        ]
+    },
+    {
+        "id": 2020088,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "Sending Email in Android using JavaMail API without using the default/built-in app",
+            "This will launch the built-in Android application; I'm trying to send the mail on button click directly without using this application.",
+            "I am trying to create a mail sending application in Android.",
+            "If I use: -CODE- ."
+        ]
+    },
+    {
+        "id": 43157,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Easy way to write contents of a Java InputStream to an OutputStream",
+            "So, given an InputStream in and an OutputStream out, is there a simpler way to write the following?",
+            "I was surprised to find today that I couldn't track down any simple way to write the contents of an InputStream to an OutputStream in Java."
+        ]
+    },
+    {
+        "id": 43157,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Easy way to write contents of a Java InputStream to an OutputStream",
+            "I was surprised to find today that I couldn't track down any simple way to write the contents of an InputStream to an OutputStream in Java."
+        ]
+    },
+    {
+        "id": 43157,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "Easy way to write contents of a Java InputStream to an OutputStream",
+            "So, given an InputStream in and an OutputStream out, is there a simpler way to write the following?",
+            "-CODE- .",
+            "I was surprised to find today that I couldn't track down any simple way to write the contents of an InputStream to an OutputStream in Java."
+        ]
+    },
+    {
+        "id": 21163108,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Custom thread pool in Java 8 parallel stream",
+            "Is it possible to specify a custom thread pool for Java 8 parallel stream?"
+        ]
+    },
+    {
+        "id": 26574328,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "Changing EditText bottom line color with appcompat v7",
+            "However I cannot figure out how to change the bottom line color and the accent color for EditTexts.",
+            "I have tried to define a custom android:editTextStyle (cf. below)",
+            "but I only succeeded to change the full background color or text color but not the bottom line nor the accent color.",
+            "Therefore, I have tried to override these properties in the previous style definition but it has no effect."
+        ]
+    },
+    {
+        "id": 26574328,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Changing EditText bottom line color with appcompat v7",
+            "However I cannot figure out how to change the bottom line color and the accent color for EditTexts."
+        ]
+    },
+    {
+        "id": 8215308,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "Using context in a fragment",
+            "How can I get the context in a fragment?",
+            "I need to use my database whose constructor takes in the context, but getApplicationContext() and FragmentClass.this don't work so what can I do?"
+        ]
+    },
+    {
+        "id": 8215308,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How can I get the context in a fragment?"
+        ]
+    },
+    {
+        "id": 6841333,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Why is subtracting these two times (in 1927) giving a strange result?"
+        ]
+    },
+    {
+        "id": 6841333,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "Why is subtracting these two times (in 1927) giving a strange result?",
+            "If I run the following program, which parses two date strings referencing times 1 second apart and compares them: -CODE- .",
+            "The output is: -CODE- .",
+            "Why is ld4-ld3 not 1 (as I would expect from the one-second difference in the times), but 353?"
+        ]
+    },
+    {
+        "id": 23699371,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Java 8 Distinct by property",
+            "In Java 8 how can I filter a collection using the Stream API by checking the distinctness of a property of each object?"
+        ]
+    },
+    {
+        "id": 2736389,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to pass an object from one activity to another on Android",
+            "I want to send its object from one Activity to another and then display the data on the other Activity.",
+            "I am trying to work on sending an object of my customer class from one Activity and display it in another Activity."
+        ]
+    },
+    {
+        "id": 139076,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to pretty print XML from Java?",
+            "I would like to turn it into a String with nicely formatted XML."
+        ]
+    },
+    {
+        "id": 139076,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "I would like to turn it into a String with nicely formatted XML."
+        ]
+    },
+    {
+        "id": 779519,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Delete directories recursively in Java",
+            "Is there a way to delete entire directories recursively in Java?",
+            "How do you delete entire directories with contents in Java?"
+        ]
+    },
+    {
+        "id": 1250643,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "How to wait for all threads to finish, using ExecutorService?",
+            "What are better solutions not involving infinite loops?",
+            "For now I can't think about anything better than setting some global task counter and decrease it at the end of every task, then monitor in infinite loop this counter to become 0; or get a list of Futures and in infinite loop monitor isDone for all of them."
+        ]
+    },
+    {
+        "id": 1250643,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to wait for all threads to finish, using ExecutorService?",
+            "How can I get notified once all of them are complete?"
+        ]
+    },
+    {
+        "id": 1250643,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to wait for all threads to finish, using ExecutorService?"
+        ]
+    },
+    {
+        "id": 2414105,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Why is it bad practice to call System.gc()?",
+            "So the question is actually double: Why is or isn't it bad practice to call System.gc()?"
+        ]
+    },
+    {
+        "id": 2414105,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Where's the threshold?"
+        ]
+    },
+    {
+        "id": 3571223,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I get the file extension of a file in Java?"
+        ]
+    },
+    {
+        "id": 8430805,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "Clicking the back button twice to exit an activity",
+            "Of course, I can think about a few ways to achieve the same functionality quite easily (the easiest is probably to keep a boolean in the activity that indicates whether the user already clicked once...) but I was wondering if there's something already here."
+        ]
+    },
+    {
+        "id": 8430805,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Clicking the back button twice to exit an activity"
+        ]
+    },
+    {
+        "id": 2784514,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Sort ArrayList of custom Objects by property",
+            "I wanted to sort an ArrayList of custom objects by one of their properties: a Date object (getStartDay())."
+        ]
+    },
+    {
+        "id": 2784514,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Sort ArrayList of custom Objects by property",
+            "I wanted to sort an ArrayList of custom objects by one of their properties: a Date object (getStartDay())."
+        ]
+    },
+    {
+        "id": 999489,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "\"Invalid signature file\" when attempting to run a .jar",
+            "My code compiles fine, but running the jar leads to the following error: Exception in thread \"main\" java.lang.SecurityException: Invalid signature file digest for Manifest main attributes I've googled for over an hour searching for an explanation and found very little of value.",
+            "My java program is packaged in a jar file and makes use of an external jar library, bouncy castle."
+        ]
+    },
+    {
+        "id": 7488643,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to convert comma-separated String to ArrayList?",
+            "Is there any built-in method in Java which allows us to convert comma separated String to some container (e.g array, List or Vector)?"
+        ]
+    },
+    {
+        "id": 7488643,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to convert comma-separated String to ArrayList?",
+            "Is there any built-in method in Java which allows us to convert comma separated String to some container (e.g array, List or Vector)?"
+        ]
+    },
+    {
+        "id": 454908,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "Split Java String by New Line",
+            "Code: -CODE- .",
+            "However, this does not work and I also tried by \\r\\n|\\r|n and many other combination of regexes.",
+            "I'm trying to split text in a JTextArea using a regex to split the String by \\n"
+        ]
+    },
+    {
+        "id": 454908,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Split Java String by New Line",
+            "I'm trying to split text in a JTextArea using a regex to split the String by \\n"
+        ]
+    },
+    {
+        "id": 454908,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Split Java String by New Line",
+            "I'm trying to split text in a JTextArea using a regex to split the String by \\n"
+        ]
+    },
+    {
+        "id": 5673260,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Downloading a file from spring controllers",
+            "However, my main problem is how do I allow the user to download a file through a Spring Controller?",
+            "I have a requirement where I need to download a PDF from the website."
+        ]
+    },
+    {
+        "id": 469695,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Decode Base64 data in Java",
+            "What is the best way to decode that in Java?"
+        ]
+    },
+    {
+        "id": 521171,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "A Java collection of value pairs? (tuples?)",
+            "What I'm looking for is a type of collection where each element in the collection is a pair of values.",
+            "Essentially I want to be able to define an ARRAY of type <String,Integer> or any other 2 types."
+        ]
+    },
+    {
+        "id": 1035008,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "What is the difference between Set and List?",
+            "What is the fundamental difference between the Set<E> and List<E> interfaces?"
+        ]
+    },
+    {
+        "id": 2010284,
+        "developer need type": "Alternative Solution",
+        "sentences": [
+            "Equivalent of C#'s DateTime.Now in Java?",
+            "In C# it is DateTime.Now.",
+            "How do I get the current date in Java?"
+        ]
+    },
+    {
+        "id": 2010284,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I get the current date in Java?"
+        ]
+    },
+    {
+        "id": 421280,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I find the caller of a method using stacktrace or reflection?",
+            "I need to find the caller of a method.",
+            "Is it possible using stacktrace or reflection?"
+        ]
+    },
+    {
+        "id": 3930210,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "Java int to String - Integer.toString(i) vs new Integer(i).toString()",
+            "Integer.toString(i) new Integer(i).toString()",
+            "I have a huge amount of int initializations to make."
+        ]
+    },
+    {
+        "id": 3930210,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Java int to String - Integer.toString(i) vs new Integer(i).toString()"
+        ]
+    },
+    {
+        "id": 3930210,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Java int to String - Integer.toString(i) vs new Integer(i).toString()"
+        ]
+    },
+    {
+        "id": 5192512,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How can I clear or empty a StringBuilder?",
+            "I'm using a StringBuilder in a loop and every x iterations I want to empty it and start with an empty StringBuilder, but I can't see any method similar to the .NET StringBuilder.Clear in the documentation, just the delete method which seems overly complicated.",
+            "So what is the best way to clean out a StringBuilder in Java?"
+        ]
+    },
+    {
+        "id": 5192512,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How can I clear or empty a StringBuilder?",
+            "I'm using a StringBuilder in a loop and every x iterations I want to empty it and start with an empty StringBuilder, but I can't see any method similar to the .NET StringBuilder.Clear in the documentation, just the delete method which seems overly complicated.",
+            "So what is the best way to clean out a StringBuilder in Java?"
+        ]
+    },
+    {
+        "id": 5192512,
+        "developer need type": "Alternative Solution",
+        "sentences": [
+            "How can I clear or empty a StringBuilder?",
+            "So what is the best way to clean out a StringBuilder in Java?",
+            "I'm using a StringBuilder in a loop and every x iterations I want to empty it and start with an empty StringBuilder, but I can't see any method similar to the .NET StringBuilder.Clear in the documentation, just the delete method which seems overly complicated."
+        ]
+    },
+    {
+        "id": 1414755,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Can enums be subclassed to add new elements?"
+        ]
+    },
+    {
+        "id": 473282,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How can I pad an integer with zeros on the left?",
+            "How do you left pad an int with zeros when converting to a String in java?"
+        ]
+    },
+    {
+        "id": 7569335,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Reverse a string in Java",
+            "I need to print it, but reversed."
+        ]
+    },
+    {
+        "id": 7569335,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Reverse a string in Java"
+        ]
+    },
+    {
+        "id": 4576352,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Remove all occurrences of char from string",
+            "Is there a way to remove all occurrences of character X from a String in Java?"
+        ]
+    },
+    {
+        "id": 4576352,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Remove all occurrences of char from string",
+            "Is there a way to remove all occurrences of character X from a String in Java?"
+        ]
+    },
+    {
+        "id": 4576352,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "Remove all occurrences of char from string",
+            "I tried this and is not what I want: str.replace('X',' '); //replace with space",
+            "Is there a way to remove all occurrences of character X from a String in Java?",
+            "I can use this: -CODE- ."
+        ]
+    },
+    {
+        "id": 520328,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Can you find all classes in a package using reflection?",
+            "Is it possible to find all classes or interfaces in a given package? (Quickly looking at e.g. Package, it would seem like no.)"
+        ]
+    },
+    {
+        "id": 361975,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "Setting the default Java character encoding?",
+            "And the property gets set, but it doesn't seem to cause the final getBytes call below to use UTF8: -CODE- .",
+            "How do I properly set the default character encoding used by the JVM (1.5.x) programmatically?",
+            "I have tried: -CODE- ."
+        ]
+    },
+    {
+        "id": 361975,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Setting the default Java character encoding?",
+            "How do I properly set the default character encoding used by the JVM (1.5.x) programmatically?"
+        ]
+    },
+    {
+        "id": 2592501,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to compare dates in Java?",
+            "How do I verify if today's date is in between date1 and date 3?",
+            "How do I compare dates in between in Java?"
+        ]
+    },
+    {
+        "id": 1128723,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I determine whether an array contains a particular value in Java?",
+            "Given String s, is there a good way of testing whether VALUES contains s?"
+        ]
+    },
+    {
+        "id": 921262,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to download and save a file from Internet using Java?",
+            "I know there are several methods for grabbing and reading online files (URLs) line-by-line, but is there a way to just download and save the file using Java?"
+        ]
+    },
+    {
+        "id": 599161,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "Best way to convert an ArrayList to a string",
+            "I have an ArrayList that I want to output completely as a String.",
+            "Is there any fast way to do this?",
+            "You could loop through it (or remove each element) and concatenate it to a String but I think this will be very slow."
+        ]
+    },
+    {
+        "id": 599161,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Best way to convert an ArrayList to a string",
+            "I have an ArrayList that I want to output completely as a String."
+        ]
+    },
+    {
+        "id": 599161,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Best way to convert an ArrayList to a string",
+            "I have an ArrayList that I want to output completely as a String."
+        ]
+    },
+    {
+        "id": 1295424,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "How to convert float to int with Java",
+            "When a = -7.65f, the result is : -7 (It should be -8)",
+            "I used the following line to convert float to int, but it's not as accurate as I'd like: -CODE- .",
+            "The result is : 8 (It should be 9)"
+        ]
+    },
+    {
+        "id": 1295424,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to convert float to int with Java"
+        ]
+    },
+    {
+        "id": 5245840,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to convert jsonString to JSONObject in Java",
+            "I have String variable called jsonString: -CODE- .",
+            "Now I want to convert it into JSON Object."
+        ]
+    },
+    {
+        "id": 5245840,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to convert jsonString to JSONObject in Java"
+        ]
+    },
+    {
+        "id": 1104975,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "A 'for' loop to iterate over an enum in Java",
+            "How can I write a for loop that iterates through each of these enum values?"
+        ]
+    },
+    {
+        "id": 4205980,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Java - sending HTTP parameters via POST method easily",
+            "Now I may need to send the parameters (i.e. param1, param2, param3) via POST method because they are very long.",
+            "How can I change the code above as little as possible to be able to send paramters either via GET or POST?"
+        ]
+    },
+    {
+        "id": 4205980,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "Java - sending HTTP parameters via POST method easily",
+            "How can I change the code above as little as possible to be able to send paramters either via GET or POST?",
+            "I am successfully using this code to send HTTP requests with some parameters via GET method -CODE- .",
+            "Now I may need to send the parameters (i.e. param1, param2, param3) via POST method because they are very long."
+        ]
+    },
+    {
+        "id": 11746499,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "How to solve the \u201cfailed to lazily initialize a collection of role\u201d Hibernate exception",
+            "Here is the model: -CODE- .",
+            "The jsp-page looks li the following: -CODE- .",
+            "I have this problem: -CODE- .",
+            "Exception is rised, when viewing jsp. In the line with c:forEach loop",
+            "The controller, which calls model looks like the following: -CODE- ."
+        ]
+    },
+    {
+        "id": 7693324,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to convert String to long in Java?",
+            "I got a simple question in Java: How can I convert a String that was obtained by Long.toString() to long?"
+        ]
+    },
+    {
+        "id": 7693324,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to convert String to long in Java?",
+            "I got a simple question in Java: How can I convert a String that was obtained by Long.toString() to long?"
+        ]
+    },
+    {
+        "id": 41107,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to generate a random alpha-numeric string?",
+            "I've been looking for a simple Java algorithm to generate a pseudo-random alpha-numeric string."
+        ]
+    },
+    {
+        "id": 617414,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to create a temporary directory/folder in Java?",
+            "Is there a standard and reliable way of creating a temporary directory inside a Java application?"
+        ]
+    },
+    {
+        "id": 9102318,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Cast Double to Integer in Java",
+            "Any way to cast java.lang.Double to java.lang.Integer?"
+        ]
+    },
+    {
+        "id": 9102318,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Cast Double to Integer in Java",
+            "Any way to cast java.lang.Double to java.lang.Integer?"
+        ]
+    },
+    {
+        "id": 9102318,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "Cast Double to Integer in Java",
+            "It throws an exception -CODE- .",
+            "Any way to cast java.lang.Double to java.lang.Integer?"
+        ]
+    },
+    {
+        "id": 4759570,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Finding Number of Cores in Java",
+            "How can I find the number of cores available to my application from within Java code?"
+        ]
+    },
+    {
+        "id": 960431,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to convert List<Integer> to int[] in Java?",
+            "This is similar to this question: How to convert int[] to Integer[] in Java?",
+            "How can i convert a List<Integer> to int[] in Java?"
+        ]
+    },
+    {
+        "id": 960431,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to convert List<Integer> to int[] in Java?",
+            "This is similar to this question: How to convert int[] to Integer[] in Java?",
+            "How can i convert a List<Integer> to int[] in Java?"
+        ]
+    },
+    {
+        "id": 960431,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "How to convert List<Integer> to int[] in Java?",
+            "How can i convert a List<Integer> to int[] in Java?",
+            "Right now I'm using a loop to do so: -CODE- .",
+            "I'm sure there's a better way to do this."
+        ]
+    },
+    {
+        "id": 207947,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I get a platform-dependent new line character?",
+            "How do I get a platform-dependent newline in Java?"
+        ]
+    },
+    {
+        "id": 835889,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "java.util.Date to XMLGregorianCalendar",
+            "Isn't there a convenient way of getting from a java.util.Date to a XMLGregorianCalendar?"
+        ]
+    },
+    {
+        "id": 835889,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "java.util.Date to XMLGregorianCalendar",
+            "Isn't there a convenient way of getting from a java.util.Date to a XMLGregorianCalendar?"
+        ]
+    },
+    {
+        "id": 513832,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I compare strings in Java?"
+        ]
+    },
+    {
+        "id": 4042434,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Converting 'ArrayList<String> to 'String[]' in Java",
+            "How might I convert an ArrayList<String> object to a String[] array in Java?"
+        ]
+    },
+    {
+        "id": 4042434,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Converting 'ArrayList<String> to 'String[]' in Java",
+            "How might I convert an ArrayList<String> object to a String[] array in Java?"
+        ]
+    },
+    {
+        "id": 2275004,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "In Java, how do I check if a string contains a substring (ignoring case)?",
+            "How do I check if str2 is contained within str1, ignoring case?"
+        ]
+    },
+    {
+        "id": 1770010,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I measure time elapsed in Java?"
+        ]
+    },
+    {
+        "id": 671049,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do you kill a Thread in Java?",
+            "How do you kill a java.lang.Thread in Java?"
+        ]
+    },
+    {
+        "id": 671049,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How do you kill a Thread in Java?",
+            "How do you kill a java.lang.Thread in Java?"
+        ]
+    },
+    {
+        "id": 2062020,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How can I tell if I'm running in 64-bit JVM or 32-bit JVM (from within a program)?",
+            "Specifically, what function or preference do I access to detect this within the program?",
+            "How can I tell if the JVM my application runs in is 32 bit or 64-bit?"
+        ]
+    },
+    {
+        "id": 140131,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "Convert a string representation of a hex dump to a byte array using Java?",
+            "I am looking for a way to convert a long string (from a dump), that represents hex values into a byte array.",
+            "I am a Java novice and ended up using BigInteger and watching out for leading hex zeros.",
+            "But I think it is ugly and I am sure I am missing something simple."
+        ]
+    },
+    {
+        "id": 140131,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Convert a string representation of a hex dump to a byte array using Java?",
+            "I am looking for a way to convert a long string (from a dump), that represents hex values into a byte array."
+        ]
+    },
+    {
+        "id": 8725387,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Why is there no SortedList in Java?"
+        ]
+    },
+    {
+        "id": 9655181,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to convert a byte array to a hex string in Java?"
+        ]
+    },
+    {
+        "id": 35842,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How can a Java program get its own process ID?",
+            "How do I get the id of my Java process?"
+        ]
+    },
+    {
+        "id": 5694385,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Getting the filenames of all files in a folder",
+            "I want to store them in a ArrayList with [000,012,013] as values.",
+            "I need to create a list with all names of the files in a folder."
+        ]
+    },
+    {
+        "id": 4157972,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to update a value, given a key in a java hashmap?",
+            "How do I update (increment) the integer-value of the string-key for each existence of the string I find?"
+        ]
+    },
+    {
+        "id": 4157972,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to update a value, given a key in a java hashmap?"
+        ]
+    },
+    {
+        "id": 4157972,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "In the latter case, what happens if there is a hashcode collision with a new key I am trying to insert?"
+        ]
+    },
+    {
+        "id": 367706,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I parse command line arguments in Java?",
+            "What is a good way of parsing command line arguments in Java?"
+        ]
+    },
+    {
+        "id": 3634853,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to create a directory in Java?",
+            "How do I create Directory/folder?"
+        ]
+    },
+    {
+        "id": 1429860,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Easiest way to convert a List to a Set in Java",
+            "What is the easiest way to convert a List to a Set in Java?"
+        ]
+    },
+    {
+        "id": 1429860,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Easiest way to convert a List to a Set in Java",
+            "What is the easiest way to convert a List to a Set in Java?"
+        ]
+    },
+    {
+        "id": 1751844,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Java: convert List<String> to a String"
+        ]
+    },
+    {
+        "id": 1751844,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Java: convert List<String> to a String"
+        ]
+    },
+    {
+        "id": 1751844,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "Java: convert List<String> to a String",
+            "I know I can cobble something up myself with StringBuilder: -CODE- .",
+            "...but there's no point in doing this if something like it is already part of the JDK."
+        ]
+    },
+    {
+        "id": 1751844,
+        "developer need type": "Alternative Solution",
+        "sentences": [
+            "JavaScript has Array.join() -CODE- ."
+        ]
+    },
+    {
+        "id": 322715,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "When to use LinkedList over ArrayList in Java?",
+            "When should LinkedList be used over ArrayList and vice-versa?"
+        ]
+    },
+    {
+        "id": 2795833,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Check orientation on Android phone",
+            "How can I check if the Android phone is in Landscape or Portrait?"
+        ]
+    },
+    {
+        "id": 415953,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How can I generate an MD5 hash?",
+            "Is there any method to generate MD5 hash of a string in Java?"
+        ]
+    },
+    {
+        "id": 24885223,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Why doesn't RecyclerView have onItemClickListener()?",
+            "I was exploring RecyclerView and I was surprised to see that RecyclerView does not have onItemClickListener().",
+            "But still I want to know why Google removed onItemClickListener()?"
+        ]
+    },
+    {
+        "id": 24885223,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Is there a performance issue or something else?"
+        ]
+    },
+    {
+        "id": 141284,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "The difference between the Runnable and Callable interfaces in Java",
+            "What is the difference between using the Runnable and Callable interfaces when designing a concurrent thread in Java, why would you choose one over the other?"
+        ]
+    },
+    {
+        "id": 34413,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "Why am I getting a NoClassDefFoundError in Java?",
+            "I am getting a NoClassDefFoundError when I run my Java application."
+        ]
+    },
+    {
+        "id": 3598770,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Check whether a string is not null and not empty",
+            "How can I check whether a string is not null and not empty?"
+        ]
+    },
+    {
+        "id": 18552005,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "Is there a concise way to iterate over a stream with indices in Java 8?",
+            "Is there a more concise way?",
+            "Is there a concise way to iterate over a stream whilst having access to the index in the stream?",
+            "-CODE- .",
+            "which seems rather disappointing compared to the LINQ example given there -CODE- ."
+        ]
+    },
+    {
+        "id": 18552005,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Is there a concise way to iterate over a stream with indices in Java 8?",
+            "Is there a concise way to iterate over a stream whilst having access to the index in the stream?"
+        ]
+    },
+    {
+        "id": 2839321,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "Connect Java to a MySQL database",
+            "Or -CODE- .",
+            "When I try, I get -CODE- ."
+        ]
+    },
+    {
+        "id": 2839321,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Connect Java to a MySQL database",
+            "How do you connect to a MySQL database in Java?"
+        ]
+    },
+    {
+        "id": 18571223,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "How to convert Java String into byte[]?",
+            "and I'm getting separate outputs.",
+            "-CODE- .",
+            "The second is an address.",
+            "Is there any way to convert Java String to a byte[] (not the boxed Byte[])?",
+            "In trying this: -CODE- .",
+            "Unable to display 1st output as it is a gzip string.",
+            "I need the result in a byte[] to feed it to gzip decompressor, which is as follows."
+        ]
+    },
+    {
+        "id": 18571223,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to convert Java String into byte[]?",
+            "Is there any way to convert Java String to a byte[] (not the boxed Byte[])?"
+        ]
+    },
+    {
+        "id": 18571223,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to convert Java String into byte[]?",
+            "Is there any way to convert Java String to a byte[] (not the boxed Byte[])?"
+        ]
+    },
+    {
+        "id": 30125296,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to sum a list of integers with java streams?",
+            "I want to sum a list of integers."
+        ]
+    },
+    {
+        "id": 30125296,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "How to sum a list of integers with java streams?",
+            "Could the code be optimized?",
+            "-CODE- .",
+            "I want to sum a list of integers."
+        ]
+    },
+    {
+        "id": 30969455,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "Android changing Floating Action Button color",
+            "I have also tried the solutions in the \"duplicate question\", but none of them works, button remained green and also became a square.",
+            "or -CODE- .",
+            "Been trying for hours to change Material's Floating Action Button color, but without success.",
+            "I have tried to add -CODE- .",
+            "or via code -CODE- ."
+        ]
+    },
+    {
+        "id": 30969455,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Android changing Floating Action Button color",
+            "Been trying for hours to change Material's Floating Action Button color, but without success."
+        ]
+    },
+    {
+        "id": 30969455,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "It would be also nice to know how to add ripple effect, couldn't understand that either."
+        ]
+    },
+    {
+        "id": 2506488,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "When is the finalize() method called in Java?"
+        ]
+    },
+    {
+        "id": 2506488,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Can anybody tell me the reason why it is not executing?",
+            "I need to know when the finalize() method is called in the JVM."
+        ]
+    },
+    {
+        "id": 11411022,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to check if current thread is not main thread",
+            "I need to check if the thread running a certain piece of code is the main (UI) thread or not."
+        ]
+    },
+    {
+        "id": 27581,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "What issues should be considered when overriding equals and hashCode in Java?",
+            "What issues / pitfalls must be considered when overriding equals and hashCode?"
+        ]
+    },
+    {
+        "id": 1073919,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to convert int[] into List<Integer> in Java?",
+            "How do I convert int[] into List<Integer> in Java?"
+        ]
+    },
+    {
+        "id": 1073919,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to convert int[] into List<Integer> in Java?",
+            "How do I convert int[] into List<Integer> in Java?"
+        ]
+    },
+    {
+        "id": 1073919,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "How to convert int[] into List<Integer> in Java?",
+            "How do I convert int[] into List<Integer> in Java?",
+            "Of course, I'm interested in any other answer than doing it in a loop, item by item."
+        ]
+    },
+    {
+        "id": 13102045,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "Scanner is skipping nextLine() after using next() or nextFoo()?",
+            "The problem is that after entering the numerical value, the first input.nextLine() is skipped and the second input.nextLine() is executed, so that my output looks like this: -CODE- .",
+            "It looks like this: -CODE- .",
+            "I am using the Scanner methods nextInt() and nextLine() for reading input."
+        ]
+    },
+    {
+        "id": 5175728,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to get the current date/time in Java",
+            "What's the best way to get the current date/time in Java?"
+        ]
+    },
+    {
+        "id": 2279030,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "Type List vs type ArrayList in Java",
+            "Also, how often (and can I please get an example) does the situation actually require using (1) over (2) (i.e. where (2) wouldn't suffice..aside coding to interfaces and best practices etc.)"
+        ]
+    },
+    {
+        "id": 1119385,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "JUnit test for System.out.println()",
+            "Is there any way to assert console output in JUnit?"
+        ]
+    },
+    {
+        "id": 10786042,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "Java URL encoding of query string parameters",
+            "I tried URLEncoder and creating URI/URL objects but none of them come out quite right.",
+            "I want the result to be a properly encoded URL: -CODE- ."
+        ]
+    },
+    {
+        "id": 6698354,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Where to get \"UTF-8\" string literal in Java?",
+            "Do you know where I can find such a variable in JDK?"
+        ]
+    },
+    {
+        "id": 2982748,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Create a GUID in Java",
+            "What are some of the best ways to create a GUID in Java?"
+        ]
+    },
+    {
+        "id": 158174,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Why would you ever implement finalize()?",
+            "So my question is, what use cases are there for implementing finalize() that cannot be handled more reliably via another process or syntax within the language?"
+        ]
+    },
+    {
+        "id": 625433,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to convert Milliseconds to \"X mins, x seconds\" in Java?",
+            "When he finishes, I will subtract the current System.currentTimeMillis() from the start variable, and I want to show them the time elapsed using a human readable format such as \"XX hours, XX mins, XX seconds\" or even \"XX mins, XX seconds\" because its not likely to take someone an hour."
+        ]
+    },
+    {
+        "id": 46898,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I efficiently iterate over each entry in a Java Map?",
+            "If I have an object implementing the Map interface in Java and I wish to iterate over every pair contained within it, what is the most efficient way of going through the map?"
+        ]
+    },
+    {
+        "id": 46898,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How do I efficiently iterate over each entry in a Java Map?",
+            "If I have an object implementing the Map interface in Java and I wish to iterate over every pair contained within it, what is the most efficient way of going through the map?"
+        ]
+    },
+    {
+        "id": 46898,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Will the ordering of elements depend on the specific map implementation that I have for the interface?"
+        ]
+    },
+    {
+        "id": 1404210,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "Java Date vs Calendar",
+            "When writing new code, is it best to always favour Calendar over Date, or are there circumstances where Date is the more appropriate datatype?"
+        ]
+    },
+    {
+        "id": 6667243,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Using Enum values as String literals",
+            "What is the best way to use the values stored in an Enum as String literals?"
+        ]
+    },
+    {
+        "id": 122105,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "What is the best way to filter a Java Collection?",
+            "I want to filter a java.util.Collection based on a predicate."
+        ]
+    },
+    {
+        "id": 122105,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "What is the best way to filter a Java Collection?",
+            "I want to filter a java.util.Collection based on a predicate."
+        ]
+    },
+    {
+        "id": 683041,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How do I use a PriorityQueue?",
+            "How do I get a PriorityQueue to sort on what I want it to sort on?"
+        ]
+    },
+    {
+        "id": 683041,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I get a PriorityQueue to sort on what I want it to sort on?"
+        ]
+    },
+    {
+        "id": 683041,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "Also, is there a difference between the offer and add methods?"
+        ]
+    },
+    {
+        "id": 86780,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to check if a String contains another String in a case insensitive manner in Java?"
+        ]
+    },
+    {
+        "id": 86780,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "How to check if a String contains another String in a case insensitive manner in Java?",
+            "I am pretty sure that contains() is case sensitive, however I can't determine this for sure from reading the documentation.",
+            "I can do this with: -CODE- .",
+            "All this aside, is there another (possibly better) way to accomplish this without caring about case-sensitivity?",
+            "If it is then I suppose my best method would be something like: -CODE- ."
+        ]
+    },
+    {
+        "id": 3028306,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Download a file with Android, and showing the progress in a ProgressDialog",
+            "For this I need a simple function that can download a file and show the current progress in a ProgressDialog.",
+            "I know how to do the ProgressDialog, but I'm not sure how to display the current progress and how to download the file in the first place."
+        ]
+    },
+    {
+        "id": 3028306,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Download a file with Android, and showing the progress in a ProgressDialog",
+            "For this I need a simple function that can download a file and show the current progress in a ProgressDialog."
+        ]
+    },
+    {
+        "id": 23353173,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "Unfortunately MyApp has stopped.",
+            "I am developing an application, and everytime I run it, I get the message: -CODE- ."
+        ]
+    },
+    {
+        "id": 228477,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I programmatically determine operating system in Java?",
+            "I would like to determine the operating system of the host that my Java program is running programmatically (for example: I would like to be able to load different properties based on whether I am on a Windows or Unix platform)."
+        ]
+    },
+    {
+        "id": 1463284,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "Hashset vs Treeset",
+            "In which cases should I use a HashSet over a TreeSet?"
+        ]
+    },
+    {
+        "id": 3064423,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to convert an Array to a Set in Java",
+            "I would like to convert an array to a Set in Java."
+        ]
+    },
+    {
+        "id": 3064423,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to convert an Array to a Set in Java",
+            "I would like to convert an array to a Set in Java."
+        ]
+    },
+    {
+        "id": 3064423,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "How to convert an Array to a Set in Java",
+            "I would like to convert an array to a Set in Java.",
+            "but I would like something a bit neater, something like: -CODE- .",
+            "There are some obvious ways of doing this (i.e. with a loop) but I would like something a bit neater, something like:"
+        ]
+    },
+    {
+        "id": 10382929,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "How to fix java.lang.UnsupportedClassVersionError: Unsupported major.minor version",
+            "When I run my \"Hello world\" in Notepad++, I get this message: -CODE- ."
+        ]
+    },
+    {
+        "id": 9572795,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Convert list to array in Java",
+            "I need to populate the array tiendas with the values of tiendasList.",
+            "How can I convert a List to an Array in Java?"
+        ]
+    },
+    {
+        "id": 9572795,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Convert list to array in Java",
+            "How can I convert a List to an Array in Java?"
+        ]
+    },
+    {
+        "id": 604424,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to get an enum value from a string value in Java?",
+            "Is the Enum.valueOf() the method I need?",
+            "and I would like to find the enum value of a string, for example \"a\" which would be Blah.A."
+        ]
+    },
+    {
+        "id": 3481828,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to split a string in Java",
+            "I have a string, \"004-034556\", that I want to split into two strings: -CODE- ."
+        ]
+    },
+    {
+        "id": 3481828,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "I also want to check if the string has '-' in it."
+        ]
+    },
+    {
+        "id": 1386275,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Why is Java Vector (and Stack) class considered obsolete or deprecated?",
+            "Why is Java Vector considered a legacy class, obsolete or deprecated?"
+        ]
+    },
+    {
+        "id": 1386275,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "And if I don't want to manually synchronize objects and just want to use a thread-safe collection without needing to make fresh copies of the underlying array (as CopyOnWriteArrayList does), then is it fine to use Vector?"
+        ]
+    },
+    {
+        "id": 1386275,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "Isn't its use valid when working with concurrency?"
+        ]
+    },
+    {
+        "id": 4216745,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Java string to date conversion",
+            "What is the best way to convert a String in the format 'January 2, 2010' to a Date in Java?"
+        ]
+    },
+    {
+        "id": 4216745,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Java string to date conversion",
+            "What is the best way to convert a String in the format 'January 2, 2010' to a Date in Java?"
+        ]
+    },
+    {
+        "id": 1359689,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to send HTTP request in java?",
+            "In Java, How to compose a HTTP request message and send it to a HTTP WebServer?"
+        ]
+    },
+    {
+        "id": 3591784,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "View's getWidth() and getHeight() returns 0",
+            "I am trying to get the width and height of a button so that I can rotate that button around.",
+            "However, it returns 0.",
+            "Here is my current code: -CODE- ."
+        ]
+    },
+    {
+        "id": 6349421,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to use Jackson to deserialise an array of objects"
+        ]
+    },
+    {
+        "id": 6349421,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to use Jackson to deserialise an array of objects"
+        ]
+    },
+    {
+        "id": 7421612,
+        "developer need type": "Error Handling",
+        "sentences": [
+            "SLF4J: Failed to load class \"org.slf4j.impl.StaticLoggerBinder\"",
+            "However, when I deploy in WebSphere I get a java.lang.NoClassDefFoundError: org.slf4j.impl.StaticLoggerBinder.",
+            "The application works fine in tcServer except for the following error: -CODE- ."
+        ]
+    },
+    {
+        "id": 275944,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I count the number of occurrences of a char in a String?",
+            "I want to count the occurrences of '.' in an idiomatic way, preferably a one-liner. (Previously I had expressed this constraint as \"without a loop\", in case you're wondering why everyone's trying to answer without using a loop)."
+        ]
+    },
+    {
+        "id": 275944,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How do I count the number of occurrences of a char in a String?"
+        ]
+    },
+    {
+        "id": 40471,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "Differences between HashMap and Hashtable?",
+            "What are the differences between a HashMap and a Hashtable in Java?",
+            "Which is more efficient for non-threaded applications?"
+        ]
+    },
+    {
+        "id": 2662531,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Launching Google Maps Directions via an intent on Android",
+            "My app needs to show Google Maps directions from A to B, but I don't want to put the Google Maps into my application - instead, I want to launch it using an Intent."
+        ]
+    },
+    {
+        "id": 2885173,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I create a file and write to it in Java?",
+            "What's the simplest way to create and write to a (text) file in Java?"
+        ]
+    },
+    {
+        "id": 2607289,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "Converting array to list in Java",
+            "on 1.4.2 returns a list containing the elements 1, 2, 3 on 1.5.0+ returns a list containing the array spam",
+            "I used the Arrays.asList() but the behavior (and signature) somehow changed from Java SE 1.4.2 (docs now in archive) to 8 and most snippets I found on the web use the 1.4.2 behaviour.",
+            "How do I convert an array to a list in Java?"
+        ]
+    },
+    {
+        "id": 2607289,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I convert an array to a list in Java?"
+        ]
+    },
+    {
+        "id": 2607289,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How do I convert an array to a list in Java?"
+        ]
+    },
+    {
+        "id": 2990799,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "Difference between FetchType LAZY and EAGER in Java Persistence API?",
+            "What is the difference between FetchType.LAZY and FetchType.EAGER in Java Persistence API?"
+        ]
+    },
+    {
+        "id": 1457863,
+        "developer need type": "Rationale Analysis",
+        "sentences": [
+            "What causes and what are the differences between NoClassDefFoundError and ClassNotFoundException?",
+            "What causes them to be thrown?"
+        ]
+    },
+    {
+        "id": 1457863,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "What causes and what are the differences between NoClassDefFoundError and ClassNotFoundException?",
+            "What is the difference between NoClassDefFoundError and ClassNotFoundException?"
+        ]
+    },
+    {
+        "id": 23932061,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Convert Iterable to Stream using Java 8 JDK",
+            "Any idea how to use the Iterable as a Stream without converting it to List?"
+        ]
+    },
+    {
+        "id": 23932061,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "Convert Iterable to Stream using Java 8 JDK",
+            "Any idea how to use the Iterable as a Stream without converting it to List?"
+        ]
+    },
+    {
+        "id": 1710476,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to print a query string with parameter values when using Hibernate",
+            "Is it possible in Hibernate to print generated SQL queries with real values instead of question marks?"
+        ]
+    },
+    {
+        "id": 1710476,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How would you suggest to print queries with real values if it is not possible with Hibernate API?"
+        ]
+    },
+    {
+        "id": 1915166,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to get the insert ID in JDBC?",
+            "I want to INSERT a record in a database (which is Microsoft SQL Server in my case) using JDBC in Java.",
+            "At the same time, I want to obtain the insert ID."
+        ]
+    },
+    {
+        "id": 2041778,
+        "developer need type": "Non-Functional Improvement",
+        "sentences": [
+            "How to initialize HashSet values by construction?",
+            "Is there a way to do this in one line of code?",
+            "-CODE- .",
+            "I need to create a Set with initial values."
+        ]
+    },
+    {
+        "id": 2041778,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to initialize HashSet values by construction?",
+            "Is there a way to do this in one line of code?",
+            "I need to create a Set with initial values."
+        ]
+    },
+    {
+        "id": 2041778,
+        "developer need type": "API Usage Learning",
+        "sentences": [
+            "How to initialize HashSet values by construction?",
+            "I need to create a Set with initial values."
+        ]
+    },
+    {
+        "id": 160970,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How do I invoke a Java method when given the method name as a string?",
+            "Without knowing the class of obj, how can I call the method identified by methodName on it?"
+        ]
+    },
+    {
+        "id": 240546,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "Remove HTML tags from a String",
+            "Is there a good way to remove HTML from a Java string?"
+        ]
+    },
+    {
+        "id": 240546,
+        "developer need type": "Functional Improvement",
+        "sentences": [
+            "Remove HTML tags from a String",
+            "Is there a good way to remove HTML from a Java string?",
+            "A simple regex like -CODE- .",
+            "will work, but things like & wont be converted correctly and non-HTML between the two angle brackets will be removed (i.e. the .*? in the regex will disappear)."
+        ]
+    },
+    {
+        "id": 351565,
+        "developer need type": "API Comparison",
+        "sentences": [
+            "System.currentTimeMillis vs System.nanoTime",
+            "What I would like to know is whether I should use System.currentTimeMillis() or System.nanoTime() when updating my object's positions in my game?"
+        ]
+    },
+    {
+        "id": 1892765,
+        "developer need type": "Functionality Implementation",
+        "sentences": [
+            "How to capitalize the first character of each word in a string",
+            "Is there a function built into Java that capitalizes the first character of each word in a String, and does not affect the others?"
+        ]
+    }
+]

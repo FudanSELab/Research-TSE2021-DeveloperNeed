@@ -1,0 +1,501 @@
+Unnamed: 0,url,title,annotator_1,annotator_2,arbitration
+1,https://stackoverflow.com/questions/355089,Difference between StringBuilder and StringBuffer,1,1,1
+2,https://stackoverflow.com/questions/1069066,Get current stack trace in Java,1,1,1
+3,https://stackoverflow.com/questions/10766492,What is the Simplest Way to Reverse an ArrayList?,1,1,1
+6,https://stackoverflow.com/questions/1196192,How to read the value of a private field from a different class in Java?,1,1,1
+7,https://stackoverflow.com/questions/1816673,How do I check if a file exists in Java?,1,1,1
+9,https://stackoverflow.com/questions/3072173,How to call a method after a delay in Android,1,1,1
+19,https://stackoverflow.com/questions/275711,Add leading zeroes to number in Java?,1,1,1
+20,https://stackoverflow.com/questions/2889777,"Difference between HashMap, LinkedHashMap and TreeMap",1,1,1
+28,https://stackoverflow.com/questions/1306727,Way to get number of digits in an int?,1,1,1
+37,https://stackoverflow.com/questions/20945049,Is a Java string really immutable?,1,1,1
+38,https://stackoverflow.com/questions/4645020,When to use StringBuilder in Java,1,1,1
+43,https://stackoverflow.com/questions/409784,What's the simplest way to print a Java array?,1,1,1
+51,https://stackoverflow.com/questions/7485670,Error: Could not find or load main class,1,1,1
+56,https://stackoverflow.com/questions/3301635,Change private static final field using Java reflection,1,1,1
+57,https://stackoverflow.com/questions/51438,Getting A File's Mime Type In Java,1,1,1
+60,https://stackoverflow.com/questions/2965747,Why do I get an UnsupportedOperationException when trying to remove an element from a List?,1,1,1
+66,https://stackoverflow.com/questions/7438612,How to remove the last character from a string?,1,1,1
+68,https://stackoverflow.com/questions/338206,Why can't I use switch statement on a String?,1,1,1
+72,https://stackoverflow.com/questions/299304,Why does Java's hashCode() in String use 31 as a multiplier?,1,1,1
+73,https://stackoverflow.com/questions/18448671,"How to avoid ""ConcurrentModificationException"" while removing elements from `ArrayList` while iterating it?",1,1,1
+79,https://stackoverflow.com/questions/6416706,Easy way to convert Iterable to Collection,1,1,1
+89,https://stackoverflow.com/questions/2986296,What are the differences between ArrayList and Vector?,1,1,1
+90,https://stackoverflow.com/questions/3342651,I get exception when using Thread.sleep(x) or wait(),1,1,1
+102,https://stackoverflow.com/questions/20363719,"Java 8 List<V> into Map<K, V>",1,1,1
+105,https://stackoverflow.com/questions/1036754,Difference between wait() and sleep(),1,1,1
+110,https://stackoverflow.com/questions/299495,How to add an image to a JPanel?,1,1,1
+136,https://stackoverflow.com/questions/1978933,A quick and easy way to join array elements with a separator (the opposite of split) in Java,1,1,1
+138,https://stackoverflow.com/questions/1348199,What is the difference between the HashMap and Map objects in Java?,1,1,1
+144,https://stackoverflow.com/questions/156275,"What is the equivalent of the C++ Pair<L,R> in Java?",1,1,1
+158,https://stackoverflow.com/questions/3695230,How to use java.String.change_data_into_doccano_format in Scala?,1,1,1
+164,https://stackoverflow.com/questions/817856,When and how should I use a ThreadLocal variable?,1,1,1
+182,https://stackoverflow.com/questions/2329358,Is there anything like .NET's NotImplementedException in Java?,1,1,1
+400,https://stackoverflow.com/questions/2793150,How to use java.net.URLConnection to fire and handle HTTP requests,1,1,1
+441,https://stackoverflow.com/questions/13375357,Proper use cases for Android UserManager.isUserAGoat()?,1,1,1
+333,https://stackoverflow.com/questions/2536829,Hibernate show real SQL,0,0,0
+323,https://stackoverflow.com/questions/7642456,IntelliJ - Convert a Java project/module into a Maven project/module,0,0,0
+47,https://stackoverflow.com/questions/442564,Avoid synchronized(this) in Java?,0,1,0
+423,https://stackoverflow.com/questions/3881,IllegalArgumentException or NullPointerException for a null parameter?,1,1,1
+474,https://stackoverflow.com/questions/1464291,How to really read text file from classpath in Java,1,1,1
+406,https://stackoverflow.com/questions/6481627,Java Security: Illegal key size or default parameters?,1,1,1
+426,https://stackoverflow.com/questions/19431234,Converting between java.time.LocalDateTime and java.util.Date,1,1,1
+88,https://stackoverflow.com/questions/5374311,Convert ArrayList<String> to String[] array,1,1,1
+289,https://stackoverflow.com/questions/43574426,How to resolve java.lang.NoClassDefFoundError: javax/xml/bind/JAXBException in Java 9,1,1,1
+44,https://stackoverflow.com/questions/5071040,Java - Convert integer to string,1,1,1
+444,https://stackoverflow.com/questions/50683786,"Why does array[idx++]+=""a"" increase idx once in Java 8 but twice in Java 9 and 10?",0,0,0
+197,https://stackoverflow.com/questions/4709175,What are enums and why are they useful?,1,1,1
+206,https://stackoverflow.com/questions/197474,JPA and Hibernate - Criteria vs. JPQL or HQL,0,0,0
+366,https://stackoverflow.com/questions/785973,What is the most appropriate way to store user settings in Android application,1,1,1
+224,https://stackoverflow.com/questions/154577,Polymorphism vs Overriding vs Overloading,0,0,0
+348,https://stackoverflow.com/questions/4955635,How to add local jar files to a Maven project?,0,0,0
+459,https://stackoverflow.com/questions/2305973,java.util.Date vs java.sql.Date,1,1,1
+371,https://stackoverflow.com/questions/18122336,Cannot change version of project facet Dynamic Web Module to 3.0?,0,0,0
+64,https://stackoverflow.com/questions/41233,Java and SQLite,0,0,0
+242,https://stackoverflow.com/questions/6802483,How to directly initialize a HashMap (in a literal way)?,1,1,1
+120,https://stackoverflow.com/questions/19896870,Why is my Spring @Autowired field null?,0,0,0
+344,https://stackoverflow.com/questions/1844688,How to read all files in a folder from Java?,1,1,1
+350,https://stackoverflow.com/questions/683518,Java Class that implements Map and keeps insertion order?,1,1,1
+467,https://stackoverflow.com/questions/3076078,Check if at least two out of three booleans are true,0,0,0
+332,https://stackoverflow.com/questions/5915992,How to reference a method in javadoc?,0,0,0
+425,https://stackoverflow.com/questions/13883166,Uncatchable ChuckNorrisException,0,0,0
+496,https://stackoverflow.com/questions/2663115,How to detect a loop in a linked list?,0,0,0
+503,https://stackoverflow.com/questions/1235179,Simple way to repeat a String in java,1,1,1
+11,https://stackoverflow.com/questions/18144660,What is path of JDK on Mac ?,0,0,0
+91,https://stackoverflow.com/questions/162187,"What does the ""static"" modifier after ""import"" mean?",0,0,0
+140,https://stackoverflow.com/questions/35531369,Why is (a*b != 0) faster than (a != 0 && b != 0) in Java?,0,0,0
+353,https://stackoverflow.com/questions/6784463,Error - trustAnchors parameter must be non-empty,0,1,1
+283,https://stackoverflow.com/questions/5878952,Cast Int to enum in Java,1,1,1
+246,https://stackoverflow.com/questions/320542,How to get the path of a running JAR file?,1,1,1
+84,https://stackoverflow.com/questions/16232833,How to respond with HTTP 400 error in a Spring MVC @ResponseBody method returning String?,0,0,0
+396,https://stackoverflow.com/questions/1998544,Method has the same erasure as another method in type,0,0,0
+361,https://stackoverflow.com/questions/243274,How to unit test abstract classes: extend with stubs?,0,0,0
+227,https://stackoverflow.com/questions/1154008,Any way to declare an array in-line?,1,1,1
+217,https://stackoverflow.com/questions/40352684,What is the equivalent of Java static methods in Kotlin?,0,0,0
+339,https://stackoverflow.com/questions/6952363,Replace a character at a specific index in a string?,1,1,1
+370,https://stackoverflow.com/questions/23318109,Is it possible to use Java 8 for Android development?,0,0,0
+480,https://stackoverflow.com/questions/857420,What are the reasons why Map.get(Object key) is not (fully) generic,1,1,1
+12,https://stackoverflow.com/questions/4732544,Why are only final variables accessible in anonymous class?,0,0,0
+87,https://stackoverflow.com/questions/178479,PreparedStatement IN clause alternatives?,1,0,0
+365,https://stackoverflow.com/questions/3831341,Why does this go into an infinite loop?,1,0,0
+269,https://stackoverflow.com/questions/304268,Getting a File's MD5 Checksum in Java,1,1,1
+488,https://stackoverflow.com/questions/285793,What is a serialVersionUID and why should I use it?,0,1,1
+329,https://stackoverflow.com/questions/1383797,Java Hashmap: How to get key from value?,1,1,1
+26,https://stackoverflow.com/questions/23079003,How to Convert a Java 8 Stream to an Array?,1,1,1
+462,https://stackoverflow.com/questions/8892360,Convert Set to List without creating new List,1,1,1
+334,https://stackoverflow.com/questions/13950338,How to make an Android device vibrate?,1,1,1
+504,https://stackoverflow.com/questions/5887709,Getting random numbers in Java,1,1,1
+367,https://stackoverflow.com/questions/1590831,Safely casting long to int in Java,1,1,1
+409,https://stackoverflow.com/questions/693997,How to set HttpResponse timeout for Android in Java,1,1,1
+296,https://stackoverflow.com/questions/1082580,How to build jars from IntelliJ properly?,0,0,0
+239,https://stackoverflow.com/questions/70689,What is an efficient way to implement a singleton pattern in Java?,0,0,0
+275,https://stackoverflow.com/questions/509076,How do I address unchecked cast warnings?,0,0,0
+381,https://stackoverflow.com/questions/20375176,Should I always use a parallel stream when possible?,0,1,1
+315,https://stackoverflow.com/questions/3988788,"What is a stack trace, and how can I use it to debug my application errors?",0,0,0
+380,https://stackoverflow.com/questions/14014086,What is difference between CrudRepository and JpaRepository interfaces in Spring Data JPA?,1,1,1
+162,https://stackoverflow.com/questions/15202997,"What is the difference between canonical name, simple name and class name in Java Class?",0,1,0
+263,https://stackoverflow.com/questions/16626810,Can Android Studio be used to run standard Java projects?,0,0,0
+118,https://stackoverflow.com/questions/2447880,"Change Name of Import in Java, or import two classes with the same name",0,0,0
+286,https://stackoverflow.com/questions/2487485,What is a Maven artifact?,0,0,0
+178,https://stackoverflow.com/questions/508665,Difference between parseInt and valueOf in java?,1,1,1
+517,https://stackoverflow.com/questions/2201925,Converting ISO 8601-compliant String to java.util.Date,1,1,1
+41,https://stackoverflow.com/questions/309424,How do I read / convert an InputStream into a String in Java?,1,1,1
+135,https://stackoverflow.com/questions/13670991,Interview: Can we instantiate abstract class?,0,0,0
+489,https://stackoverflow.com/questions/24511052,How to convert an iterator to a stream?,1,1,1
+129,https://stackoverflow.com/questions/9554636,The Use of Multiple JFrames: Good or Bad Practice?,0,0,0
+313,https://stackoverflow.com/questions/19154202,Data access object (DAO) in Java,0,0,0
+385,https://stackoverflow.com/questions/1689242,Conditionally ignoring tests in JUnit 4,0,0,0
+448,https://stackoverflow.com/questions/10268583,Downloading Java JDK on Linux via wget is shown license page instead,0,0,0
+515,https://stackoverflow.com/questions/81346,Most efficient way to increment a Map value in Java,1,1,1
+167,https://stackoverflow.com/questions/3158730,"Java, 3 dots in parameters",0,0,0
+310,https://stackoverflow.com/questions/3177733,How to avoid Java code in JSP files?,0,0,0
+183,https://stackoverflow.com/questions/574240,Is there an advantage to use a Synchronized Method instead of a Synchronized Block?,0,0,0
+264,https://stackoverflow.com/questions/4279420,Does use of final keyword in Java improve the performance?,0,0,0
+450,https://stackoverflow.com/questions/1114026,Maven Modules + Building a Single Specific Module,0,0,0
+469,https://stackoverflow.com/questions/147454,Why is using a wild card with a Java import statement bad?,0,0,0
+522,https://stackoverflow.com/questions/7229226,Should I avoid the use of set(Preferred|Maximum|Minimum)Size methods in Java Swing?,1,1,1
+130,https://stackoverflow.com/questions/6115896,Java: checked vs unchecked exception explanation,0,0,0
+210,https://stackoverflow.com/questions/512877,Why can't I define a static method in a Java interface?,0,0,0
+461,https://stackoverflow.com/questions/180158,How do I time a method's execution in Java?,1,1,1
+225,https://stackoverflow.com/questions/279507,What is meant by immutable?,1,1,1
+13,https://stackoverflow.com/questions/687833,How to get the last value of an ArrayList,1,1,1
+447,https://stackoverflow.com/questions/1163173,Why use Gradle instead of Ant or Maven?,0,0,0
+18,https://stackoverflow.com/questions/1102891,How to check if a String is numeric in Java,1,1,1
+218,https://stackoverflow.com/questions/2276271,How to make mock to void methods with mockito,0,0,0
+247,https://stackoverflow.com/questions/965690,Java optional parameters,0,0,0
+524,https://stackoverflow.com/questions/703396,How to nicely change_data_into_doccano_format floating numbers to String without unnecessary decimal 0?,1,1,1
+455,https://stackoverflow.com/questions/171952,Is there a destructor for Java?,0,0,0
+463,https://stackoverflow.com/questions/4716503,Reading a plain text file in Java,1,1,1
+471,https://stackoverflow.com/questions/1555262,Calculating the difference between two Java date instances,1,1,1
+80,https://stackoverflow.com/questions/3907929,Should I declare Jackson's ObjectMapper as a static field?,1,1,1
+405,https://stackoverflow.com/questions/3395286,Remove last character of a StringBuilder?,1,1,1
+103,https://stackoverflow.com/questions/858572,How to make a new List in Java,1,1,1
+281,https://stackoverflow.com/questions/271526,Avoiding != null statements,0,0,0
+453,https://stackoverflow.com/questions/53452713,Why is 2 * (i * i) faster than 2 * i * i in Java?,0,0,0
+451,https://stackoverflow.com/questions/25147094,How can I turn a List of Lists into a List in Java 8?,1,1,1
+203,https://stackoverflow.com/questions/2642777,Trusting all certificates using HttpClient over HTTPS,1,1,1
+148,https://stackoverflow.com/questions/299659,What's the difference between SoftReference and WeakReference in Java?,1,1,1
+298,https://stackoverflow.com/questions/3826905,Singletons vs. Application Context in Android?,0,0,0
+260,https://stackoverflow.com/questions/10839131,Implements vs extends: When to use? What's the difference?,0,0,0
+419,https://stackoverflow.com/questions/6178583,Maven does not find JUnit tests to run,0,0,0
+27,https://stackoverflow.com/questions/15655012,"How does the ""final"" keyword in Java work? (I can still modify an object.)",0,0,0
+54,https://stackoverflow.com/questions/157944,Create ArrayList from array,1,1,1
+297,https://stackoverflow.com/questions/541912,Interface naming in Java,0,0,0
+150,https://stackoverflow.com/questions/295579,Fastest way to determine if an integer's square root is an integer,0,0,0
+512,https://stackoverflow.com/questions/4234985,How to for each the hashmap?,1,1,1
+352,https://stackoverflow.com/questions/65035,Does a finally block always get executed in Java?,0,0,0
+317,https://stackoverflow.com/questions/1129795,"What is SuppressWarnings (""unchecked"") in Java?",0,0,0
+174,https://stackoverflow.com/questions/6992608,Why there is no ConcurrentHashSet against ConcurrentHashMap,1,1,1
+428,https://stackoverflow.com/questions/216894,Get an OutputStream into a String,1,1,1
+523,https://stackoverflow.com/questions/153724,How to round a number to n decimal places in Java,1,1,1
+394,https://stackoverflow.com/questions/4493001,Good use case for Akka,0,0,0
+106,https://stackoverflow.com/questions/6615516,IntelliJ show JavaDocs tooltip on mouse over,0,0,0
+63,https://stackoverflow.com/questions/1085709,What does 'synchronized' mean?,0,0,0
+170,https://stackoverflow.com/questions/4240080,Generating all permutations of a given string,1,1,1
+507,https://stackoverflow.com/questions/4334970,Hibernate cannot simultaneously fetch multiple bags,1,1,1
+121,https://stackoverflow.com/questions/1196586,Calling remove in foreach loop in Java,1,1,1
+113,https://stackoverflow.com/questions/47605,"String concatenation: concat() vs ""+"" operator",0,0,0
+418,https://stackoverflow.com/questions/3802893,Number of days between two dates in Joda-Time,1,1,1
+107,https://stackoverflow.com/questions/5683728,Convert java.util.Date to String,1,1,1
+55,https://stackoverflow.com/questions/21242110,Convert java.util.Date to java.time.LocalDate,1,1,1
+330,https://stackoverflow.com/questions/388461,How can I pad a String in Java?,1,1,1
+395,https://stackoverflow.com/questions/1619662,How can I get the latest JRE / JDK as a zip file rather than EXE or MSI installer?,0,0,0
+223,https://stackoverflow.com/questions/4662215,How to extract a substring using regex,1,1,1
+284,https://stackoverflow.com/questions/2950319,Is null check needed before calling instanceof?,1,1,0
+475,https://stackoverflow.com/questions/66066,What is the best way to implement constants in Java?,0,0,0
+211,https://stackoverflow.com/questions/5585779,How do I convert a String to an int in Java?,1,1,1
+506,https://stackoverflow.com/questions/6330260,Finish all previous activities,1,1,1
+351,https://stackoverflow.com/questions/16635398,Java 8 Iterable.forEach() vs foreach loop,0,0,0
+134,https://stackoverflow.com/questions/17197636,Is it possible to declare a variable in Gradle usable in Java?,0,0,0
+478,https://stackoverflow.com/questions/223918,"Iterating through a Collection, avoiding ConcurrentModificationException when removing objects in a loop",1,1,1
+364,https://stackoverflow.com/questions/1005073,Initialization of an ArrayList in one line,1,1,1
+235,https://stackoverflow.com/questions/1051640,Correct way to add external jars (lib/*.jar) to an IntelliJ IDEA project,0,0,0
+230,https://stackoverflow.com/questions/17576922,Why can I throw null in Java?,1,1,1
+123,https://stackoverflow.com/questions/1612334,"Difference between DTO, VO, POJO, JavaBeans?",0,0,0
+154,https://stackoverflow.com/questions/1026723,How to convert a Map to List in Java?,1,1,1
+33,https://stackoverflow.com/questions/5181578,"What is the point of ""final class"" in Java?",0,0,0
+22,https://stackoverflow.com/questions/1873995,Run a single test method with maven,0,0,0
+83,https://stackoverflow.com/questions/442747,Getting the name of the currently executing method,1,1,1
+327,https://stackoverflow.com/questions/20938095,Difference between final and effectively final,0,0,0
+53,https://stackoverflow.com/questions/450807,How do I make the method return type generic?,0,0,0
+384,https://stackoverflow.com/questions/14970516,Use Mockito to mock some methods but not others,0,0,0
+257,https://stackoverflow.com/questions/4502605,How to programmatically set drawableLeft on Android button?,1,1,1
+383,https://stackoverflow.com/questions/3106452,"How do servlets work? Instantiation, sessions, shared variables and multithreading",0,0,0
+200,https://stackoverflow.com/questions/2302802,object references an unsaved transient instance - save the transient instance before flushing,1,1,1
+126,https://stackoverflow.com/questions/5839359,java.lang.OutOfMemoryError: GC overhead limit exceeded,1,1,1
+285,https://stackoverflow.com/questions/10710193,How to preserve insertion order in HashMap?,1,1,1
+518,https://stackoverflow.com/questions/9619030,Resolving javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed Error?,1,1,1
+401,https://stackoverflow.com/questions/2422468,How to upload files to server using JSP/Servlet?,1,1,1
+314,https://stackoverflow.com/questions/1594667,.war vs .ear file,0,0,0
+202,https://stackoverflow.com/questions/156503,How do you assert that a certain exception is thrown in JUnit 4 tests?,0,0,0
+288,https://stackoverflow.com/questions/13395114,How to initialize List<String> object in Java?,1,1,1
+160,https://stackoverflow.com/questions/1249973,decompiling DEX into Java sourcecode,0,0,0
+108,https://stackoverflow.com/questions/19655184,No compiler is provided in this environment. Perhaps you are running on a JRE rather than a JDK?,0,0,0
+483,https://stackoverflow.com/questions/2737328,"Why should I not wrap every block in ""try""-""catch""?",0,1,0
+209,https://stackoverflow.com/questions/858980,File to byte[] in Java,1,1,1
+39,https://stackoverflow.com/questions/7352493,Failed to load the JNI shared Library (JDK),0,0,0
+117,https://stackoverflow.com/questions/6343166,How do I fix android.os.NetworkOnMainThreadException?,1,1,1
+413,https://stackoverflow.com/questions/14788345,How to install the JDK on Ubuntu Linux,0,0,0
+97,https://stackoverflow.com/questions/2857376,Difference between Java SE/EE/ME?,0,0,0
+253,https://stackoverflow.com/questions/1264709,Convert InputStream to byte array in Java,1,1,1
+199,https://stackoverflow.com/questions/11547458,"What is the difference between JVM, JDK, JRE & OpenJDK?",0,0,0
+93,https://stackoverflow.com/questions/17193365,What in the world are Spring beans?,0,0,0
+458,https://stackoverflow.com/questions/11757487,How to tell Jackson to ignore a field during serialization if its value is null?,1,1,1
+119,https://stackoverflow.com/questions/1729054,Including dependencies in a jar with Maven,0,0,0
+466,https://stackoverflow.com/questions/878573,Java multiline string,0,0,0
+487,https://stackoverflow.com/questions/308683,How can I get the current date and time in UTC or GMT in Java?,1,1,1
+403,https://stackoverflow.com/questions/7655127,How to convert a char array back to a string?,1,1,1
+157,https://stackoverflow.com/questions/1049228,CharSequence VS String in Java?,1,1,1
+300,https://stackoverflow.com/questions/541920,Multiple line code example in Javadoc comment,0,0,0
+440,https://stackoverflow.com/questions/1296235,JSP tricks to make templating easier?,0,0,0
+81,https://stackoverflow.com/questions/2298208,How do I discover memory usage of my application in Android?,1,1,1
+151,https://stackoverflow.com/questions/15182496,"Why does this code using random strings print ""hello world""?",1,1,1
+21,https://stackoverflow.com/questions/299068,How slow are Java exceptions?,0,1,0
+411,https://stackoverflow.com/questions/19998454,Interface with default methods vs Abstract class in Java 8,0,0,0
+262,https://stackoverflow.com/questions/4105331,How do I convert from int to String?,1,1,1
+526,https://stackoverflow.com/questions/724043,HTTP URL Address Encoding in Java,1,1,1
+252,https://stackoverflow.com/questions/5901378,What exactly is a Maven Snapshot and why do we need it?,0,0,0
+195,https://stackoverflow.com/questions/541487,"""implements Runnable"" vs ""extends Thread"" in Java",0,0,0
+363,https://stackoverflow.com/questions/1099300,"What's the difference between getPath(), getAbsolutePath(), and getCanonicalPath() in Java?",1,1,1
+416,https://stackoverflow.com/questions/19820297,Why does changing the sum order returns a different result?,0,0,0
+356,https://stackoverflow.com/questions/122407,What's the nearest substitute for a function pointer in Java?,0,0,0
+431,https://stackoverflow.com/questions/1079114,Where does the @Transactional annotation belong?,0,0,0
+404,https://stackoverflow.com/questions/407255,Difference between declaring variables before or in loop?,0,0,0
+472,https://stackoverflow.com/questions/5554217,Google Gson - deserialize list<class> object? (generic type),0,1,0
+369,https://stackoverflow.com/questions/1066589,Iterate through a HashMap,1,1,1
+325,https://stackoverflow.com/questions/30727515,Why is executing Java code in comments with certain Unicode characters allowed?,0,0,0
+116,https://stackoverflow.com/questions/2925054,MVC pattern on Android,0,0,0
+346,https://stackoverflow.com/questions/3280353,How to import a jar in Eclipse,0,0,0
+166,https://stackoverflow.com/questions/1538755,How to convert String object to Boolean Object?,1,1,1
+156,https://stackoverflow.com/questions/869033,How do I copy an object in Java?,1,1,1
+212,https://stackoverflow.com/questions/9902968,Why does Math.round(0.49999999999999994) return 1?,1,1,1
+341,https://stackoverflow.com/questions/3325387,Infinite Recursion with Jackson JSON and Hibernate JPA issue,1,1,1
+229,https://stackoverflow.com/questions/1096650,Why doesn't JUnit provide assertNotEquals methods?,1,1,1
+23,https://stackoverflow.com/questions/29888592,Error:java: javacTask: source release 8 requires target release 1.8,0,0,0
+421,https://stackoverflow.com/questions/716597,Array or List in Java. Which is faster?,1,1,1
+271,https://stackoverflow.com/questions/8881291,Why is char[] preferred over String for passwords?,1,1,1
+155,https://stackoverflow.com/questions/510632,What's the difference between ConcurrentHashMap and Collections.synchronizedMap(Map)?,1,1,1
+173,https://stackoverflow.com/questions/2808535,Round a double to 2 decimal places,1,1,1
+141,https://stackoverflow.com/questions/389741,"What is the ""continue"" keyword and how does it work in Java?",0,0,0
+70,https://stackoverflow.com/questions/2095397,"What is the difference between JSF, Servlet and JSP?",0,0,0
+142,https://stackoverflow.com/questions/1673841,Examples of GoF Design Patterns in Java's core libraries,0,0,0
+16,https://stackoverflow.com/questions/225337,How do I split a string with any whitespace chars as delimiters?,1,1,1
+29,https://stackoverflow.com/questions/997482,Does Java support default parameter values?,0,0,0
+25,https://stackoverflow.com/questions/11053144,How to see JavaDoc in IntelliJ IDEA?,0,0,0
+301,https://stackoverflow.com/questions/1348842,What should I set JAVA_HOME to on OSX,0,0,0
+4,https://stackoverflow.com/questions/12900373,IDEA: javac: source release 1.7 requires target release 1.7,0,0,0
+417,https://stackoverflow.com/questions/1906445,What is the difference between JDK and JRE?,0,0,0
+133,https://stackoverflow.com/questions/2943556,Static Block in Java,0,0,0
+375,https://stackoverflow.com/questions/4591206,"ArithmeticException: ""Non-terminating decimal expansion; no exact representable decimal result""",1,1,1
+500,https://stackoverflow.com/questions/52353,"In Java, what is the best way to determine the size of an object?",1,1,1
+509,https://stackoverflow.com/questions/106770,Standard concise way to copy a file in Java?,1,1,1
+326,https://stackoverflow.com/questions/16252269,How to sort an ArrayList?,1,1,1
+470,https://stackoverflow.com/questions/12462079,Potential heap pollution via varargs parameter,0,0,0
+94,https://stackoverflow.com/questions/3758606,How to convert byte size into human readable change_data_into_doccano_format in java?,1,1,1
+347,https://stackoverflow.com/questions/5905896,"IntelliJ inspection gives ""Cannot resolve symbol"" but still compiles code",0,0,0
+277,https://stackoverflow.com/questions/26684562,What's the difference between map and flatMap methods in Java 8?,1,1,1
+311,https://stackoverflow.com/questions/2223386,Why doesn't Java allow overriding of static methods?,0,0,0
+52,https://stackoverflow.com/questions/1820908,How to turn off the Eclipse code formatter for certain sections of Java code?,0,0,0
+187,https://stackoverflow.com/questions/2020088,Sending Email in Android using JavaMail API without using the default/built-in app,1,1,1
+324,https://stackoverflow.com/questions/1568091,Why use getters and setters/accessors?,0,0,0
+479,https://stackoverflow.com/questions/43157,Easy way to write contents of a Java InputStream to an OutputStream,1,1,1
+201,https://stackoverflow.com/questions/2814805,Java Interfaces/Implementation naming convention,0,0,0
+205,https://stackoverflow.com/questions/355167,How are Anonymous (inner) classes used in Java?,0,0,0
+272,https://stackoverflow.com/questions/21163108,Custom thread pool in Java 8 parallel stream,1,1,1
+244,https://stackoverflow.com/questions/6470651,Creating a memory leak with Java,0,0,0
+226,https://stackoverflow.com/questions/11359187,Why not use java.util.logging?,0,0,0
+456,https://stackoverflow.com/questions/198577,"Real differences between ""java -server"" and ""java -client""?",0,0,0
+497,https://stackoverflow.com/questions/26574328,Changing EditText bottom line color with appcompat v7,1,1,1
+181,https://stackoverflow.com/questions/8215308,Using context in a fragment,1,1,1
+505,https://stackoverflow.com/questions/6841333,Why is subtracting these two times (in 1927) giving a strange result?,1,1,1
+452,https://stackoverflow.com/questions/23699371,Java 8 Distinct by property,1,1,1
+422,https://stackoverflow.com/questions/1097527,Rethrowing exceptions in Java without losing the stack trace,0,0,0
+372,https://stackoverflow.com/questions/23453287,"Why is ""final"" not allowed in Java 8 interface methods?",0,0,0
+386,https://stackoverflow.com/questions/18198176,Java 8 Lambda function that throws exception?,0,0,0
+58,https://stackoverflow.com/questions/2736389,How to pass an object from one activity to another on Android,1,1,1
+198,https://stackoverflow.com/questions/24437564,Update Eclipse with Android development tools v. 23,0,0,0
+429,https://stackoverflow.com/questions/139076,How to pretty print XML from Java?,1,1,1
+307,https://stackoverflow.com/questions/779519,Delete directories recursively in Java,1,1,1
+331,https://stackoverflow.com/questions/1250643,"How to wait for all threads to finish, using ExecutorService?",1,1,1
+312,https://stackoverflow.com/questions/15826202,Where is Java Installed on Mac OS X?,0,0,0
+519,https://stackoverflow.com/questions/2414105,Why is it bad practice to call System.gc()?,0,1,1
+355,https://stackoverflow.com/questions/3571223,How do I get the file extension of a file in Java?,1,1,1
+213,https://stackoverflow.com/questions/2671496,Java: when to use static methods,0,0,0
+490,https://stackoverflow.com/questions/8430805,Clicking the back button twice to exit an activity,1,1,1
+382,https://stackoverflow.com/questions/3153546,How does autowiring work in Spring?,0,0,0
+268,https://stackoverflow.com/questions/103564,The performance impact of using instanceof in Java,0,1,0
+391,https://stackoverflow.com/questions/52264638,Is main a valid Java identifier?,0,0,0
+308,https://stackoverflow.com/questions/2784514,Sort ArrayList of custom Objects by property,1,1,1
+445,https://stackoverflow.com/questions/77718,Why doesn't Java offer operator overloading?,0,0,0
+184,https://stackoverflow.com/questions/727844,javax vs java package,0,0,0
+514,https://stackoverflow.com/questions/999489,"""Invalid signature file"" when attempting to run a .jar",1,1,1
+267,https://stackoverflow.com/questions/7488643,How to convert comma-separated String to ArrayList?,1,1,1
+128,https://stackoverflow.com/questions/12757558,Installed Java 7 on Mac OS X but Terminal is still using version 6,0,0,0
+481,https://stackoverflow.com/questions/454908,Split Java String by New Line,1,1,1
+74,https://stackoverflow.com/questions/5673260,Downloading a file from spring controllers,1,1,1
+266,https://stackoverflow.com/questions/574594,How can I create an executable JAR with dependencies using Maven?,0,0,0
+492,https://stackoverflow.com/questions/469695,Decode Base64 data in Java,1,1,1
+525,https://stackoverflow.com/questions/521171,A Java collection of value pairs? (tuples?),1,1,1
+192,https://stackoverflow.com/questions/1035008,What is the difference between Set and List?,1,1,1
+291,https://stackoverflow.com/questions/2010284,Equivalent of C#'s DateTime.Now in Java?,1,1,1
+196,https://stackoverflow.com/questions/328496,When would you use the Builder Pattern?,0,0,0
+61,https://stackoverflow.com/questions/3295496,What is a JavaBean exactly?,0,0,0
+143,https://stackoverflow.com/questions/297586,How to call a SOAP web service on Android,0,1,0
+345,https://stackoverflow.com/questions/421280,How do I find the caller of a method using stacktrace or reflection?,1,1,1
+250,https://stackoverflow.com/questions/3930210,Java int to String - Integer.toString(i) vs new Integer(i).toString(),1,1,1
+137,https://stackoverflow.com/questions/3320400,"To prevent a memory leak, the JDBC Driver has been forcibly unregistered",0,0,0
+207,https://stackoverflow.com/questions/5192512,How can I clear or empty a StringBuilder?,1,1,1
+104,https://stackoverflow.com/questions/11938253,What's the difference between @JoinColumn and mappedBy when using a JPA @OneToMany association,0,0,0
+499,https://stackoverflow.com/questions/1414755,Can enums be subclassed to add new elements?,1,1,1
+112,https://stackoverflow.com/questions/6033905,Create the perfect JPA entity,0,0,0
+15,https://stackoverflow.com/questions/22358071,Differences between Oracle JDK and OpenJDK,0,0,0
+45,https://stackoverflow.com/questions/473282,How can I pad an integer with zeros on the left?,1,1,1
+127,https://stackoverflow.com/questions/18410035,Ways to iterate over a list in Java,0,0,0
+460,https://stackoverflow.com/questions/7569335,Reverse a string in Java,1,1,1
+435,https://stackoverflow.com/questions/31215452,Intellij Idea: Importing Gradle project - getting JAVA_HOME not defined yet,0,0,0
+261,https://stackoverflow.com/questions/4576352,Remove all occurrences of char from string,1,1,1
+40,https://stackoverflow.com/questions/520328,Can you find all classes in a package using reflection?,1,1,1
+493,https://stackoverflow.com/questions/138948,How to get UTF-8 working in Java webapps?,0,0,0
+76,https://stackoverflow.com/questions/3404301,What's wrong with overridable method calls in constructors?,0,0,0
+502,https://stackoverflow.com/questions/361975,Setting the default Java character encoding?,1,1,1
+415,https://stackoverflow.com/questions/2592501,How to compare dates in Java?,1,1,1
+65,https://stackoverflow.com/questions/1128723,How do I determine whether an array contains a particular value in Java?,1,1,1
+437,https://stackoverflow.com/questions/8490852,"Spring @Transactional - isolation, propagation",0,0,0
+388,https://stackoverflow.com/questions/921262,How to download and save a file from Internet using Java?,1,1,1
+46,https://stackoverflow.com/questions/221379,Hibernate: hbm2ddl.auto=update in production?,0,0,0
+48,https://stackoverflow.com/questions/413898,What does the 'static' keyword do in a class?,0,0,0
+85,https://stackoverflow.com/questions/14076296,@Nullable annotation usage,0,0,0
+335,https://stackoverflow.com/questions/767372,String.equals versus ==,0,0,0
+273,https://stackoverflow.com/questions/599161,Best way to convert an ArrayList to a string,1,1,1
+516,https://stackoverflow.com/questions/1295424,How to convert float to int with Java,1,1,1
+62,https://stackoverflow.com/questions/430346,Why doesn't Java support unsigned ints?,0,0,0
+215,https://stackoverflow.com/questions/5245840,How to convert jsonString to JSONObject in Java,1,1,1
+258,https://stackoverflow.com/questions/1104975,A 'for' loop to iterate over an enum in Java,1,1,1
+407,https://stackoverflow.com/questions/25706216,"What does a ""Cannot find symbol"" compilation error mean?",0,0,0
+336,https://stackoverflow.com/questions/4205980,Java - sending HTTP parameters via POST method easily,1,1,1
+31,https://stackoverflow.com/questions/239732,Things possible in IntelliJ that aren't possible in Eclipse?,0,0,0
+287,https://stackoverflow.com/questions/11746499,How to solve the 鈥渇ailed to lazily initialize a collection of role鈥?Hibernate exception,1,1,1
+237,https://stackoverflow.com/questions/7693324,How to convert String to long in Java?,1,1,1
+172,https://stackoverflow.com/questions/654037,What does $NON-NLS-1$ mean?,0,0,0
+34,https://stackoverflow.com/questions/41107,How to generate a random alpha-numeric string?,1,1,1
+222,https://stackoverflow.com/questions/617414,How to create a temporary directory/folder in Java?,1,1,1
+243,https://stackoverflow.com/questions/9102318,Cast Double to Integer in Java,1,1,1
+169,https://stackoverflow.com/questions/3179216,What is the convention for word separator in Java package names?,0,0,0
+340,https://stackoverflow.com/questions/10165693,Eclipse cannot load SWT libraries,0,0,0
+147,https://stackoverflow.com/questions/3697287,Eclipse: Set maximum line length for auto formatting?,0,0,0
+251,https://stackoverflow.com/questions/21947452,"Why is printing ""B"" dramatically slower than printing ""#""?",0,0,0
+476,https://stackoverflow.com/questions/4759570,Finding Number of Cores in Java,1,1,1
+454,https://stackoverflow.com/questions/960431,How to convert List<Integer> to int[] in Java?,1,1,1
+359,https://stackoverflow.com/questions/4093504,@Resource vs @Autowired,0,0,0
+270,https://stackoverflow.com/questions/146576,Why is the Java main method static?,0,0,0
+256,https://stackoverflow.com/questions/207947,How do I get a platform-dependent new line character?,1,1,1
+77,https://stackoverflow.com/questions/835889,java.util.Date to XMLGregorianCalendar,1,1,1
+420,https://stackoverflow.com/questions/513832,How do I compare strings in Java?,1,1,1
+392,https://stackoverflow.com/questions/4042434,Converting 'ArrayList<String> to 'String[]' in Java,1,1,1
+390,https://stackoverflow.com/questions/2275004,"In Java, how do I check if a string contains a substring (ignoring case)?",1,1,1
+219,https://stackoverflow.com/questions/2745265,Is List<Dog> a subclass of List<Animal>? Why are Java generics not implicitly polymorphic?,0,0,0
+125,https://stackoverflow.com/questions/1770010,How do I measure time elapsed in Java?,1,1,1
+145,https://stackoverflow.com/questions/924285,"Efficiency of Java ""Double Brace Initialization""?",0,0,0
+318,https://stackoverflow.com/questions/671049,How do you kill a Thread in Java?,1,1,1
+149,https://stackoverflow.com/questions/20001427,:: (double colon) operator in Java 8,0,0,0
+402,https://stackoverflow.com/questions/2062020,How can I tell if I'm running in 64-bit JVM or 32-bit JVM (from within a program)?,0,1,1
+208,https://stackoverflow.com/questions/140131,Convert a string representation of a hex dump to a byte array using Java?,1,1,1
+501,https://stackoverflow.com/questions/8725387,Why is there no SortedList in Java?,1,1,1
+75,https://stackoverflow.com/questions/4112686,How to use Servlets and Ajax?,0,0,0
+214,https://stackoverflow.com/questions/9655181,How to convert a byte array to a hex string in Java?,1,1,1
+368,https://stackoverflow.com/questions/2758224,"What does the Java assert keyword do, and when should it be used?",0,0,0
+232,https://stackoverflow.com/questions/11461607,Can't start Eclipse - Java was started but returned exit code=13,0,0,0
+236,https://stackoverflow.com/questions/35842,How can a Java program get its own process ID?,1,1,1
+220,https://stackoverflow.com/questions/5694385,Getting the filenames of all files in a folder,1,1,1
+511,https://stackoverflow.com/questions/4157972,"How to update a value, given a key in a java hashmap?",1,1,1
+131,https://stackoverflow.com/questions/260666,Can an abstract class have a constructor?,0,0,0
+259,https://stackoverflow.com/questions/367706,How do I parse command line arguments in Java?,1,1,1
+165,https://stackoverflow.com/questions/1082050,Linking to an external URL in Javadoc?,0,0,0
+379,https://stackoverflow.com/questions/212614,Should we @Override an interface's method implementation?,0,0,0
+387,https://stackoverflow.com/questions/3634853,How to create a directory in Java?,1,1,1
+82,https://stackoverflow.com/questions/1429860,Easiest way to convert a List to a Set in Java,1,1,1
+122,https://stackoverflow.com/questions/1532461,StringBuilder vs String concatenation in toString() in Java,0,0,0
+231,https://stackoverflow.com/questions/3017695,How to configure encoding in Maven?,0,0,0
+176,https://stackoverflow.com/questions/162551,How to find unused/dead code in java projects,0,0,0
+185,https://stackoverflow.com/questions/1751844,Java: convert List<String> to a String,1,1,1
+240,https://stackoverflow.com/questions/21083170,How to configure port for a Spring Boot application,0,0,0
+189,https://stackoverflow.com/questions/37628,What is reflection and why is it useful?,0,1,0
+378,https://stackoverflow.com/questions/15156857,Mockito test a void method throws an exception,0,0,0
+432,https://stackoverflow.com/questions/7026507,Why are static variables considered evil?,0,0,0
+17,https://stackoverflow.com/questions/22697,What's the best mock framework for Java?,0,0,0
+309,https://stackoverflow.com/questions/12438786,Try-finally block prevents StackOverflowError,0,0,0
+124,https://stackoverflow.com/questions/4459058,Alarm Manager Example,0,0,0
+249,https://stackoverflow.com/questions/4076601,How do I import the javax.servlet API in my Eclipse project?,0,0,0
+279,https://stackoverflow.com/questions/322715,When to use LinkedList over ArrayList in Java?,1,1,1
+78,https://stackoverflow.com/questions/2795833,Check orientation on Android phone,1,1,1
+342,https://stackoverflow.com/questions/5871053,Difference between jar and war in Java,0,0,0
+408,https://stackoverflow.com/questions/147181,How can I convert my Java program to an .exe file?,0,0,0
+49,https://stackoverflow.com/questions/415953,How can I generate an MD5 hash?,1,1,1
+473,https://stackoverflow.com/questions/24885223,Why doesn't RecyclerView have onItemClickListener()?,1,1,1
+30,https://stackoverflow.com/questions/3584113,Why are you not able to declare a class as static in Java?,0,0,0
+465,https://stackoverflow.com/questions/141284,The difference between the Runnable and Callable interfaces in Java,1,1,1
+373,https://stackoverflow.com/questions/34413,Why am I getting a NoClassDefFoundError in Java?,1,1,1
+99,https://stackoverflow.com/questions/3598770,Check whether a string is not null and not empty,1,1,1
+238,https://stackoverflow.com/questions/3423262,What is @ModelAttribute in Spring MVC?,0,0,0
+101,https://stackoverflow.com/questions/45912510,Does Java JIT cheat when running JDK code?,0,0,0
+303,https://stackoverflow.com/questions/18552005,Is there a concise way to iterate over a stream with indices in Java 8?,1,1,1
+520,https://stackoverflow.com/questions/586363,Why is super.super.method(); not allowed in Java?,1,0,0
+186,https://stackoverflow.com/questions/2839321,Connect Java to a MySQL database,1,1,1
+464,https://stackoverflow.com/questions/18571223,How to convert Java String into byte[]?,1,1,1
+8,https://stackoverflow.com/questions/1061717,What exactly is Spring Framework for?,0,0,0
+71,https://stackoverflow.com/questions/504103,How do I write a correct micro-benchmark in Java?,0,0,0
+302,https://stackoverflow.com/questions/30125296,How to sum a list of integers with java streams?,1,1,1
+293,https://stackoverflow.com/questions/908489,Eclipse/Java code completion not working,0,0,0
+299,https://stackoverflow.com/questions/7142622,What is the difference between @Inject and @Autowired in Spring Framework? Which one to use under what condition?,0,0,0
+374,https://stackoverflow.com/questions/30969455,Android changing Floating Action Button color,1,1,1
+412,https://stackoverflow.com/questions/2506488,When is the finalize() method called in Java?,1,1,1
+362,https://stackoverflow.com/questions/11411022,How to check if current thread is not main thread,1,1,1
+221,https://stackoverflow.com/questions/27581,What issues should be considered when overriding equals and hashCode in Java?,1,1,1
+188,https://stackoverflow.com/questions/1073919,How to convert int[] into List<Integer> in Java?,1,1,1
+477,https://stackoverflow.com/questions/860187,Access restriction on class due to restriction on required library rt.jar?,0,0,0
+343,https://stackoverflow.com/questions/335311,What is the difference between a static and a non-static initialization code block,0,0,0
+228,https://stackoverflow.com/questions/13102045,Scanner is skipping nextLine() after using next() or nextFoo()?,1,1,1
+98,https://stackoverflow.com/questions/5175728,How to get the current date/time in Java,1,1,1
+389,https://stackoverflow.com/questions/2279030,Type List vs type ArrayList in Java,1,1,1
+282,https://stackoverflow.com/questions/2059431,Get source JARs from Maven repository,0,0,0
+510,https://stackoverflow.com/questions/13604703,How do I define a method which takes a lambda as a parameter in Java 8?,0,0,0
+115,https://stackoverflow.com/questions/3652090,Difference between applicationContext.xml and spring-servlet.xml in Spring Framework,0,0,0
+278,https://stackoverflow.com/questions/1119385,JUnit test for System.out.println(),1,1,1
+179,https://stackoverflow.com/questions/1028858,Useful Eclipse Java Code Templates,0,0,0
+443,https://stackoverflow.com/questions/8845186,What exactly is Apache Camel?,0,0,0
+306,https://stackoverflow.com/questions/10786042,Java URL encoding of query string parameters,1,1,1
+328,https://stackoverflow.com/questions/6698354,"Where to get ""UTF-8"" string literal in Java?",1,1,1
+171,https://stackoverflow.com/questions/25242321,Difference between spring @Controller and @RestController annotation,0,0,0
+204,https://stackoverflow.com/questions/2982748,Create a GUID in Java,1,1,1
+109,https://stackoverflow.com/questions/158174,Why would you ever implement finalize()?,1,1,1
+468,https://stackoverflow.com/questions/3495926,Can I catch multiple Java exceptions in the same catch clause?,0,0,0
+193,https://stackoverflow.com/questions/625433,"How to convert Milliseconds to ""X mins, x seconds"" in Java?",1,1,1
+397,https://stackoverflow.com/questions/2684630,How can I make a method return an argument that was passed to it?,0,1,0
+424,https://stackoverflow.com/questions/46898,How do I efficiently iterate over each entry in a Java Map?,1,1,1
+319,https://stackoverflow.com/questions/1404210,Java Date vs Calendar,1,1,1
+159,https://stackoverflow.com/questions/70324,Java inner class and static nested class,0,0,0
+233,https://stackoverflow.com/questions/6667243,Using Enum values as String literals,1,1,1
+305,https://stackoverflow.com/questions/122105,What is the best way to filter a Java Collection?,1,1,1
+486,https://stackoverflow.com/questions/683041,How do I use a PriorityQueue?,1,1,1
+132,https://stackoverflow.com/questions/7486012,Static Classes In Java,0,0,0
+190,https://stackoverflow.com/questions/86780,How to check if a String contains another String in a case insensitive manner in Java?,1,1,1
+322,https://stackoverflow.com/questions/3028306,"Download a file with Android, and showing the progress in a ProgressDialog",1,1,1
+434,https://stackoverflow.com/questions/23353173,Unfortunately MyApp has stopped. How can I solve this?,1,1,1
+265,https://stackoverflow.com/questions/228477,How do I programmatically determine operating system in Java?,1,1,1
+410,https://stackoverflow.com/questions/16574189,"Android Studio installation on Windows 7 fails, no JDK found",0,0,0
+35,https://stackoverflow.com/questions/272535,"How do I ""decompile"" Java class files?",0,0,0
+234,https://stackoverflow.com/questions/1463284,Hashset vs Treeset,1,1,1
+86,https://stackoverflow.com/questions/520585,Connection pooling options with JDBC: DBCP vs C3P0,0,0,0
+24,https://stackoverflow.com/questions/3541077,Design Patterns web based applications,0,0,0
+338,https://stackoverflow.com/questions/4343202,Difference between <? super T> and <? extends T> in Java,0,0,0
+414,https://stackoverflow.com/questions/4685563,How to pass a function as a parameter in Java?,0,0,0
+139,https://stackoverflow.com/questions/3064423,How to convert an Array to a Set in Java,1,1,1
+377,https://stackoverflow.com/questions/10382929,How to fix java.lang.UnsupportedClassVersionError: Unsupported major.minor version,1,1,1
+349,https://stackoverflow.com/questions/26777083,Best practice for REST token-based authentication with JAX-RS and Jersey,0,0,0
+36,https://stackoverflow.com/questions/94361,When do you use Java's @Override annotation and why?,0,0,0
+100,https://stackoverflow.com/questions/9572795,Convert list to array in Java,1,1,1
+59,https://stackoverflow.com/questions/604424,How to get an enum value from a string value in Java?,1,1,1
+320,https://stackoverflow.com/questions/496928,What is the difference between instanceof and Class.isAssignableFrom(...)?,0,1,0
+10,https://stackoverflow.com/questions/3481828,How to split a string in Java,1,1,1
+484,https://stackoverflow.com/questions/1386275,Why is Java Vector (and Stack) class considered obsolete or deprecated?,1,1,1
+67,https://stackoverflow.com/questions/745756,Java Generics Wildcarding With Multiple Classes,0,0,0
+449,https://stackoverflow.com/questions/4216745,Java string to date conversion,1,1,1
+430,https://stackoverflow.com/questions/1359689,How to send HTTP request in java?,1,1,1
+513,https://stackoverflow.com/questions/3591784,View's getWidth() and getHeight() returns 0,1,1,1
+42,https://stackoverflow.com/questions/7520432,What is the difference between == and equals() in Java?,0,0,0
+153,https://stackoverflow.com/questions/2378402,Jackson Vs. Gson,0,0,0
+146,https://stackoverflow.com/questions/6349421,How to use Jackson to deserialise an array of objects,1,1,1
+491,https://stackoverflow.com/questions/7421612,"SLF4J: Failed to load class ""org.slf4j.impl.StaticLoggerBinder""",1,1,1
+255,https://stackoverflow.com/questions/373833,Best XML parser for Java,0,0,0
+304,https://stackoverflow.com/questions/275944,How do I count the number of occurrences of a char in a String?,1,1,1
+248,https://stackoverflow.com/questions/3693626,How to run test methods in specific order in JUnit4?,0,0,0
+357,https://stackoverflow.com/questions/8275499,How to call getClass() from a static method in Java?,0,1,0
+427,https://stackoverflow.com/questions/3852091,Is it safe to use Project Lombok?,0,0,0
+5,https://stackoverflow.com/questions/288861,Eclipse Optimize Imports to Include Static Imports,0,0,0
+354,https://stackoverflow.com/questions/40471,Differences between HashMap and Hashtable?,1,1,1
+32,https://stackoverflow.com/questions/2662531,Launching Google Maps Directions via an intent on Android,1,1,1
+358,https://stackoverflow.com/questions/2885173,How do I create a file and write to it in Java?,1,1,1
+360,https://stackoverflow.com/questions/2723397,What is PECS (Producer Extends Consumer Super)?,0,0,0
+14,https://stackoverflow.com/questions/20252727,Is not an enclosing class Java,0,0,0
+521,https://stackoverflow.com/questions/2607289,Converting array to list in Java,1,1,1
+177,https://stackoverflow.com/questions/2990799,Difference between FetchType LAZY and EAGER in Java Persistence API?,1,1,1
+114,https://stackoverflow.com/questions/285177,How do I call one constructor from another in Java?,0,1,0
+393,https://stackoverflow.com/questions/1457863,What causes and what are the differences between NoClassDefFoundError and ClassNotFoundException?,1,1,1
+280,https://stackoverflow.com/questions/23932061,Convert Iterable to Stream using Java 8 JDK,1,1,1
+254,https://stackoverflow.com/questions/14763079,What are the Xms and Xmx parameters when starting JVMs?,0,0,0
+92,https://stackoverflow.com/questions/1710476,How to print a query string with parameter values when using Hibernate,1,1,1
+69,https://stackoverflow.com/questions/1915166,How to get the insert ID in JDBC?,1,1,1
+442,https://stackoverflow.com/questions/15886209,Maven is not working in Java 8 when Javadoc tags are incomplete,0,0,0
+457,https://stackoverflow.com/questions/2041778,How to initialize HashSet values by construction?,1,1,1
+194,https://stackoverflow.com/questions/1678122,'Must Override a Superclass Method' Errors after importing a project into Eclipse,0,0,0
+292,https://stackoverflow.com/questions/85190,How does the Java 'for each' loop work?,0,0,0
+438,https://stackoverflow.com/questions/18093928,"What does ""Could not find or load main class"" mean?",0,0,0
+446,https://stackoverflow.com/questions/20295578,"Difference between @Before, @BeforeClass, @BeforeEach and @BeforeAll",0,0,0
+398,https://stackoverflow.com/questions/19533528,Installing Java on OS X 10.9 (Mavericks),0,0,0
+294,https://stackoverflow.com/questions/160970,How do I invoke a Java method when given the method name as a string?,1,1,1
+316,https://stackoverflow.com/questions/4166966,What is the point of the diamond operator in Java 7?,0,0,0
+216,https://stackoverflow.com/questions/240546,Remove HTML tags from a String,1,1,1
+321,https://stackoverflow.com/questions/351565,System.currentTimeMillis vs System.nanoTime,1,1,1
+433,https://stackoverflow.com/questions/13578062,How to increase IDE memory limit in IntelliJ IDEA on Mac?,0,0,0
+276,https://stackoverflow.com/questions/2129044,"Java heap terminology: young, old and permanent generations?",0,0,0
+95,https://stackoverflow.com/questions/1892765,How to capitalize the first character of each word in a string,1,1,1

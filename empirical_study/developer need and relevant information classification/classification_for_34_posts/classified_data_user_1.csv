@@ -1,0 +1,173 @@
+id,text,post_id,functionality_implementation+desired_functionality,non-functional_improvement+implemented_functionality,non-functional_improvement+suboptimal_implementation,non-functional_improvement+improvement,functional_improvement+expect_result,functional_improvement+actual_result,functional_improvement+insufficient_implementation,error_handling+error type,error_handling+error occasion,error_handling+erroneous_implementation,rationale_analysis+rationale_question,api_comparision+comparision_subjects,api_comparision+comparision_scenario,alternative_api+current_solution,alternative_api+alternative_description,api_usage_learning+used subject,api_usage_learning+usage_scenario,others
+0,When and how should I use a ThreadLocal variable?,817856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1,When should I use a ThreadLocal variable?,817856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,How is it used?,817856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,Difference between StringBuilder and StringBuffer,355089,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+4,What is the main difference between StringBuffer and StringBuilder?,355089,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+5,Is there any performance issues when deciding on any one of these?,355089,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,"Difference between HashMap, LinkedHashMap and TreeMap",2889777,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+7,"What is the difference between HashMap, LinkedHashMap and TreeMap in Java?",2889777,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+8,I don't see any difference in the output as all the three has keySet and values.,2889777,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+9,What are Hashtables?,2889777,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,-CODE- .,2889777,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,What are the differences between ArrayList and Vector?,2986296,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+12,"What are the differences between the two data structures ArrayList and Vector, and where should you use each of them?",2986296,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+13,Difference between wait() and sleep(),1036754,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+14,What is the difference between a wait() and sleep() in Threads?,1036754,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+15,Is my understanding that a wait()-ing Thread is still in running mode and uses CPU cycles but a sleep()-ing does not consume any CPU cycles correct?,1036754,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,Why do we have both wait() and sleep(): how does their implementation vary at a lower level?,1036754,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+17,: how does their implementation vary at a lower level?,1036754,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+18,What is the difference between the HashMap and Map objects in Java?,1348199,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+19,"What is the difference between the following maps I create (in another question, people answered using them seemingly interchangeably and I'm wondering if/how they are different): -CODE- .",1348199,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+20,What is the Simplest Way to Reverse an ArrayList?,10766492,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,What is the simplest way to reverse this ArrayList?,10766492,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,-CODE- .,10766492,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,How to read the value of a private field from a different class in Java?,1196192,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,I have a poorly designed class in a 3rd-party JAR and I need to access one of its private fields.,1196192,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,and I need to access one of its private fields.,1196192,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+26,"For example, why should I need to choose private field is it necessary?",1196192,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,-CODE- .,1196192,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,How can I use reflection to get the value of stuffIWant?,1196192,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,"What is the equivalent of the C++ Pair<L,R> in Java?",156275,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+30,"Is there a good reason why there is no Pair<L,R> in Java?",156275,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+31,What would be the equivalent of this C++ construct?,156275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+32,I would rather avoid reimplementing my own.,156275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+33,"It seems that 1.6 is providing something similar (AbstractMap.SimpleEntry<K,V>), but this looks quite convoluted.",156275,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+34,Is there anything like .NET's NotImplementedException in Java?,2329358,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+35,Is there anything like .NET's NotImplementedException in Java?,2329358,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+36,Way to get number of digits in an int?,1306727,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Is there a neater way for getting the length of an int than this method? -CODE- .,1306727,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Java 8,20363719,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,"List<V> into Map<K, V>",20363719,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,I want to translate a List of objects into a Map using Java 8's streams and lambdas.,20363719,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,This is how I would write it in Java 7 and below.,20363719,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,-CODE- .,20363719,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,I can accomplish this easily using Java 8 and Guava,20363719,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,but I would like to know how to do this without Guava.,20363719,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,In Guava: -CODE- .,20363719,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,And Guava with Java 8 lambdas.,20363719,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+47,-CODE- .,20363719,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,How to add an image to a JPanel?,299495,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,I have a JPanel to which I'd like to add JPEG and PNG images that I generate on the fly.,299495,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,"All the examples I've seen so far in the Swing Tutorials, specially in the Swing examples use ImageIcons.",299495,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,"I'm generating these images as byte arrays, and they are usually larger than the common icon they use in the examples, at 640x480.",299495,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,Is there any (performance or other) problem in using the ImageIcon class to display an image that size in a JPanel?,299495,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+53,What's the usual way of doing it?,299495,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+54,How to add an image to a JPanel without using the ImageIcon class?,299495,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,Edit: A more careful examination of the tutorials and the API,299495,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+56,shows that you cannot add an ImageIcon directly to a JPanel.,299495,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+57,"Instead, they achieve the same effect by setting the image as an icon of a JLabel.",299495,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+58,This just doesn't feel right...,299495,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+59,A quick and easy way to join array elements with a separator (the opposite of split) in Java,1978933,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,"See Related .NET question I'm looking for a quick and easy way to do exactly the opposite of split so that it will cause [""a"",""b"",""c""] to become ""a,b,c"" Iterating through an array requires either adding a condition (if this is not the last element, add the seperator) or using substring to remove the last separator.",1978933,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,"question I'm looking for a quick and easy way to do exactly the opposite of split so that it will cause [""a"",""b"",""c""] to become ""a,b,c",1978933,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+62,""" Iterating through an array requires either adding a condition (if this is not the last element, add the seperator) or using substring to remove the last separator.",1978933,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,"I'm sure there is a certified, efficient way to do it (Apache Commons?) How do you prefer doing it in your projects?",1978933,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,(Apache Commons?) How do you prefer doing it in your projects?,1978933,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+65,Add leading zeroes to number in Java?,275711,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,Is there a better way of getting this result?,275711,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,"This function fails if num has more digits than digits, and I feel like it should be in the library somewhere",275711,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+68,"(like Integer.toString(x,""%3d"") or something)",275711,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+69,-CODE- .,275711,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+70,What's the simplest way to print a Java array?,409784,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71,"In Java, arrays don't override toString(), so if you try to print one directly, you get the className + @ + the hex of the hashCode of the array, as defined by Object.toString(): -CODE- .",409784,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72,"+ the hex of the hashCode of the array, as defined by Object.toString(): -CODE- .",409784,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+73,"But usually we'd actually want something more like [1, 2, 3, 4, 5].",409784,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,What's the simplest way of doing that?,409784,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+75,Here are some example inputs and outputs: -CODE- .,409784,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+76,Getting A File's Mime Type In Java,51438,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+77,I was just wondering how most people fetch a mime type from a file in Java?,51438,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+78,So far I've tried two utils: JMimeMagic & Mime-Util.,51438,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+79,"The first gave me memory exceptions, the second doesn't close its streams off properly.",51438,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+80,I was just wondering if anyone else had a method/library that they used and worked correctly?,51438,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,How to remove the last character from a string?,7438612,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,I want to remove the last character from a string.,7438612,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,I've tried doing this: -CODE- .,7438612,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+84,"Getting the length of the string - 1 and replacing the last letter with nothing (deleting it), but every time I run the program, it deletes middle letters that are the same as the last letter.",7438612,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,"(deleting it), but every time I run the program, it deletes middle letters that are the same as the last letter.",7438612,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+86,"For example, the word is ""admirer""; after I run the method, I get ""admie."" I want it to return the word admire.",7438612,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+87,""" I want it to return the word admire.",7438612,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+88,Easy way to convert Iterable to Collection,6416706,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+89,In my application I use 3rd party library (Spring Data for MongoDB to be exact).,6416706,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90,"Methods of this library return Iterable<T>, while the rest of my code expects Collection<T>.",6416706,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+91,Is there any utility method somewhere that will let me quickly convert one to the other?,6416706,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+92,that will let me quickly convert one to the other?,6416706,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+93,I would like to avoid creating a bunch of foreach loops in my code for such a simple thing.,6416706,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,Is a Java string really immutable?,20945049,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+95,"We all know that String is immutable in Java, but check the following code: -CODE- .",20945049,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+96,Why does this program operate like this?,20945049,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+97,"And why is the value of s1 and s2 changed, but not s3?",20945049,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+98,When to use StringBuilder in Java,4645020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+99,It is supposed to be generally preferable to use a StringBuilder for string concatenation in Java.,4645020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+100,Is this always the case?,4645020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+101,"What I mean is this: Is the overhead of creating a StringBuilder object, calling the append() method and finally toString() already smaller then concatenating existing strings with the + operator for two strings, or is it only advisable for more (than two) strings?",4645020,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+102,"If there is such a threshold, what does it depend on (perhaps the string length, but in which way)?",4645020,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+103,"And finally, would you trade the readability and conciseness of the + concatenation for the performance of the StringBuilder in smaller cases like two, three or four strings?",4645020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104,Explicit use of StringBuilder for regular concatenations is being mentioned as obsolete at obsolete Java optimization tips as well as at Java urban myths.,4645020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+105,Why can't I use switch statement on a String?,338206,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+106,Is this functionality going to be put into a later Java version?,338206,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+107,"Can someone explain why I can't do this, as in, the technical way Java's switch statement works?",338206,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+108,Why does Java's hashCode() in String use 31 as a multiplier?,299304,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+109,"Per the Java documentation, the hash code for a String object is computed as: -CODE- .",299304,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+110,Why is 31 used as a multiplier?,299304,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+111,I understand that the multiplier should be a relatively large prime number.,299304,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+112,"So why not 29, or 37, or even 97?",299304,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+113,Error: Could not find or load main class,7485670,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+114,"I am having trouble compiling and running my Java code, intended to allow me to interface Java with a shared object for Vensim, a simulation modeling package.",7485670,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+115,The following code compiles without error: -CODE- .,7485670,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+116,"However, when I try to run the following: -CODE- .",7485670,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+117,"I get the following error: ""Error: Could not find or load main class SpatialModel "".",7485670,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+118,"My SpatialModel.java code does contain a 'main' method (below), so I'm not sure what the problem is - can anyone please help me out?",7485670,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+119,Thanks.,7485670,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+120,-CODE- .,7485670,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+121,Change private static final field using Java reflection,3301635,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+122,"I have a class with a private static final field that, unfortunately, I need to change at run-time.",3301635,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+123,Using reflection I get this error: java.lang.IllegalAccessException: Can not set static final boolean field,3301635,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+124,I get this error: java.lang.IllegalAccessException,3301635,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+125,: Can not set static final boolean field,3301635,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+126,Is there any way to change the value?,3301635,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+127,-CODE- .,3301635,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+128,Why do I get an UnsupportedOperationException when trying to remove an element from a List?,2965747,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+129,I have this code: -CODE- .,2965747,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+130,I get this: -CODE- .,2965747,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+131,How would be this the correct way?,2965747,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+132,Java.15,2965747,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+133,"How to avoid ""ConcurrentModificationException"" while removing elements from `ArrayList` while iterating it?",18448671,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+134,I'm trying to remove some elements from an ArrayList while iterating it like this: -CODE- .,18448671,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+135,"Of course, I get a ConcurrentModificationException when trying to remove items from the list at the same time when iterating myArrayList.",18448671,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+136,Is there some simple solution to solve this problem?,18448671,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+137,I get exception when using Thread.sleep(x) or wait(),3342651,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+138,"I have tried to delay - or put to sleep - my Java program, but an error occurs.",3342651,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+139,I'm unable to use Thread.sleep(x) or wait().,3342651,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+140,The same error message appears: -CODE- .,3342651,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+141,Is there any step required before using the Thread.sleep() or wait() methods?,3342651,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+142,How to use java.String.change_data_into_doccano_format in Scala?,3695230,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+143,I am trying to use a .change_data_into_doccano_format method of a string.,3695230,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+144,"But if I place %1, %2, etc. in the string, java.util.UnknownFormatConversionException is thrown pointing to a confusing Java source code piece: -CODE- .",3695230,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0
+145,"in the string, java.util.UnknownFormatConversionException is thrown pointing to a confusing Java source code piece: -CODE- .",3695230,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+146,From this I understand that % char is forbidden.,3695230,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+147,"If so, then what should I use for argument placeholders?",3695230,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+148,I use Scala 2.8.,3695230,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+149,How to use java.net.URLConnection to fire and handle HTTP requests,2793150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+150,"Use of java.net.URLConnection is asked about pretty often here, and the Oracle tutorial is too concise about it.",2793150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+151,That tutorial basically only shows how to fire a GET request and read the response.,2793150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+152,"It doesn't explain anywhere how to use it to among others perform a POST request, set request headers, read response headers, deal with cookies, submit a HTML form, upload a file, etc.",2793150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+153,"So, how can I use java.net.URLConnection to fire and handle ""advanced"" HTTP requests?",2793150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+154,Proper use cases for Android UserManager.isUserAGoat()?,13375357,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+155,I was looking at the new APIs introduced in Android 4.2.,13375357,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+156,While looking at the UserManager class I came across the following method: -CODE- .,13375357,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+157,How and when should this be used?,13375357,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+158,Get current stack trace in Java,1069066,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+159,"How do I get the current stack trace in Java, like how in .NET you can do Environment.StackTrace?",1069066,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+160,"BTW, Thread.dumpStack() is not what I want - I want to get the stack trace back, not print it out.",1069066,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+161,How do I check if a file exists in Java?,1816673,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+162,"How can I check whether a file exists, before opening it for reading in Java?",1816673,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+163,(equivalent of Perl's -e $filename).,1816673,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+164,The only similar question on SO deals with writing the file and was thus answered using FileWriter which is obviously not applicable here.,1816673,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+165,"If possible I'd prefer a real API call returning true/false as opposed to some ""Call API to open a file and catch when it throws an exception which you check for 'no file' in text"", but I can live with the latter.",1816673,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+166,How to call a method after a delay in Android,3072173,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+167,I want to be able to call the following method after a specified delay.,3072173,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+168,In objective c there was something like: -CODE- .,3072173,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+169,Is there an equivalent of this method in android with java?,3072173,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+170,For example I need to be able to call a method after 5 seconds.,3072173,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+171,-CODE- .,3072173,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1

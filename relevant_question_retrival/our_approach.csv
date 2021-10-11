@@ -1,0 +1,641 @@
+,id,query,related_url,title,arbitration
+0,22216398,Can BufferedReader read bytes?,https://stackoverflow.com/questions/20838244,Difference between buffered reader and file reader and scanner class,1
+1,22216398,Can BufferedReader read bytes?,https://stackoverflow.com/questions/28977308,Read all lines with BufferedReader,1
+2,22216398,Can BufferedReader read bytes?,https://stackoverflow.com/questions/17174752,BufferedReader input attempt from System.in throwing exceptions,0
+3,22216398,Can BufferedReader read bytes?,https://stackoverflow.com/questions/5086549,buffered reader and scanner,0
+4,22216398,Can BufferedReader read bytes?,https://stackoverflow.com/questions/18749947,Convert BufferedReader to InputStream,0
+5,22216398,Can BufferedReader read bytes?,https://stackoverflow.com/questions/15849929,Buffered Reader Change,0
+6,22216398,Can BufferedReader read bytes?,https://stackoverflow.com/questions/31824567,read() method of BufferedReader and InputStreamReader,1
+7,22216398,Can BufferedReader read bytes?,https://stackoverflow.com/questions/15055732,Error using Buffered Reader,0
+8,22216398,Can BufferedReader read bytes?,https://stackoverflow.com/questions/31687813,How do I use BufferedReader to read lines from a txt file into an array,0
+9,22216398,Can BufferedReader read bytes?,https://stackoverflow.com/questions/6993218,Java 7: What charset shall I use when calling Files.newBufferedReader?,0
+10,6190127,How do I write logs and display them real-time in a Java Swing application?,https://stackoverflow.com/questions/10601676,Display a webpage inside a swing application,0
+11,6190127,How do I write logs and display them real-time in a Java Swing application?,https://stackoverflow.com/questions/34412364,Display webpage inside swing application,0
+12,6190127,How do I write logs and display them real-time in a Java Swing application?,https://stackoverflow.com/questions/5329635,Desktop application on Java,0
+13,6190127,How do I write logs and display them real-time in a Java Swing application?,https://stackoverflow.com/questions/651470,How to convert a Swing Application to an Applet?,0
+14,6190127,How do I write logs and display them real-time in a Java Swing application?,https://stackoverflow.com/questions/15149728,Java Web Services: Getting HTTP 400 with generated client code in simple app,0
+15,6190127,How do I write logs and display them real-time in a Java Swing application?,https://stackoverflow.com/questions/11852942,Add an image to a Swing application,0
+16,6190127,How do I write logs and display them real-time in a Java Swing application?,https://stackoverflow.com/questions/17365378,Display Java System Properties with Swing,0
+17,6190127,How do I write logs and display them real-time in a Java Swing application?,https://stackoverflow.com/questions/667416,Display CMD output in my GUI (java),0
+18,6190127,How do I write logs and display them real-time in a Java Swing application?,https://stackoverflow.com/questions/18892360,How to run Java Swing Application outside IDE,0
+19,6190127,How do I write logs and display them real-time in a Java Swing application?,https://stackoverflow.com/questions/24363503,Converting a console app to a swing app,0
+20,8969497,  java.lang.NoSuchMethodError: javax.servlet.ServletContext.getEffectiveSessionTrackingModes()Ljava/util/Set; ,https://stackoverflow.com/questions/31423037,java.lang.NoSuchMethodError: org.eclipse.persistence.oxm.XMLUnmarshaller.setNamespaceResolver(Lorg/eclipse/persistence/oxm/NamespaceResolver;),0
+21,8969497,  java.lang.NoSuchMethodError: javax.servlet.ServletContext.getEffectiveSessionTrackingModes()Ljava/util/Set; ,https://stackoverflow.com/questions/22167945,java.lang.NoSuchMethodError: javax.persistence.spi.PersistenceUnitInfo.getValidationMode()Ljavax/persistence/ValidationMode;,0
+22,8969497,  java.lang.NoSuchMethodError: javax.servlet.ServletContext.getEffectiveSessionTrackingModes()Ljava/util/Set; ,https://stackoverflow.com/questions/18231134,How to avoid java.lang.NoSuchMethodError: org.apache.poi.util.IOUtils.copy(Ljava/io/InputStream;Ljava/io/OutputStream;) in Apache POI,0
+23,8969497,  java.lang.NoSuchMethodError: javax.servlet.ServletContext.getEffectiveSessionTrackingModes()Ljava/util/Set; ,https://stackoverflow.com/questions/24380857,Spring Data java.lang.NoSuchMethodError,0
+24,8969497,  java.lang.NoSuchMethodError: javax.servlet.ServletContext.getEffectiveSessionTrackingModes()Ljava/util/Set; ,https://stackoverflow.com/questions/1617042,java.lang.NoSuchMethodError: org.apache.http.protocol.BasicHttpContext: method <init>()V not found,0
+25,8969497,  java.lang.NoSuchMethodError: javax.servlet.ServletContext.getEffectiveSessionTrackingModes()Ljava/util/Set; ,https://stackoverflow.com/questions/12070514,JMock- java.lang.NoSuchMethodError: org.hamcrest.Matcher.describeMismatch(),0
+26,8969497,  java.lang.NoSuchMethodError: javax.servlet.ServletContext.getEffectiveSessionTrackingModes()Ljava/util/Set; ,https://stackoverflow.com/questions/14356013,java.lang.NoSuchMethodError: org.hibernate.SessionFactory.getCurrentSession()Lorg/hibernate/classic/Session;,0
+27,8969497,  java.lang.NoSuchMethodError: javax.servlet.ServletContext.getEffectiveSessionTrackingModes()Ljava/util/Set; ,https://stackoverflow.com/questions/4160904,Show .png image in a JFrame?,0
+28,8969497,  java.lang.NoSuchMethodError: javax.servlet.ServletContext.getEffectiveSessionTrackingModes()Ljava/util/Set; ,https://stackoverflow.com/questions/17602988,java.lang.NoSuchMethodError: org.eclipse.jdt.internal.compiler.CompilationResult,0
+29,8969497,  java.lang.NoSuchMethodError: javax.servlet.ServletContext.getEffectiveSessionTrackingModes()Ljava/util/Set; ,https://stackoverflow.com/questions/6200414,java.lang.NoSuchMethodError: java.lang.NoSuchMethodError,0
+30,15315213,Why do I keep getting java.net.ConnectException in my Android application?,https://stackoverflow.com/questions/5662283,java.net.ConnectException :connection timed out: connect?,1
+31,15315213,Why do I keep getting java.net.ConnectException in my Android application?,https://stackoverflow.com/questions/20492151,How to resolve java.net.ConnectException: /ip_address:port - Connection refused exception in android,1
+32,15315213,Why do I keep getting java.net.ConnectException in my Android application?,https://stackoverflow.com/questions/24692154,Error in my android application,0
+33,15315213,Why do I keep getting java.net.ConnectException in my Android application?,https://stackoverflow.com/questions/24116625,java.net.SocketTimeoutException vs java.net.ConnectException,1
+34,15315213,Why do I keep getting java.net.ConnectException in my Android application?,https://stackoverflow.com/questions/18472942,Android App error with my code,0
+35,15315213,Why do I keep getting java.net.ConnectException in my Android application?,https://stackoverflow.com/questions/23800525,How to connect to MySQL database using jdbc and tomcat,0
+36,15315213,Why do I keep getting java.net.ConnectException in my Android application?,https://stackoverflow.com/questions/7731673,Java URL class openStream throwing java.net.ConnectException: Connection refused: connect,1
+37,15315213,Why do I keep getting java.net.ConnectException in my Android application?,https://stackoverflow.com/questions/12522396,TCP\IP client - EHOSTUNREACH (No route to host),0
+38,15315213,Why do I keep getting java.net.ConnectException in my Android application?,https://stackoverflow.com/questions/15685686,java.rmi.ConnectException: Connection refused to host: 127.0.1.1;,0
+39,15315213,Why do I keep getting java.net.ConnectException in my Android application?,https://stackoverflow.com/questions/15289083,"The TCP/IP connection to host server.com/Db_name, port 1433 has failed",0
+40,30092041,Printing out with Byte[] Java,https://stackoverflow.com/questions/6430841,Java - Byte[] to byte[],0
+41,30092041,Printing out with Byte[] Java,https://stackoverflow.com/questions/21113404,Cannot cast from Byte to byte[] java,0
+42,30092041,Printing out with Byte[] Java,https://stackoverflow.com/questions/12944377,"how to convert byte[] to Byte[], and the other way around?",0
+43,30092041,Printing out with Byte[] Java,https://stackoverflow.com/questions/1565483,Creating a byte[] from a List<Byte>,0
+44,30092041,Printing out with Byte[] Java,https://stackoverflow.com/questions/22196892,String to Byte[] and Byte to String,1
+45,30092041,Printing out with Byte[] Java,https://stackoverflow.com/questions/32579881,What's the difference Between Character Stream and Byte Stream in Java and Char vs Byte in C?,0
+46,30092041,Printing out with Byte[] Java,https://stackoverflow.com/questions/5368704,Appending a byte[] to the end of another byte[],0
+47,30092041,Printing out with Byte[] Java,https://stackoverflow.com/questions/18571223,How to convert Java String into byte[]?,0
+48,30092041,Printing out with Byte[] Java,https://stackoverflow.com/questions/17498265,Java - Store byte array as String in DB and create byte array using String value,0
+49,30092041,Printing out with Byte[] Java,https://stackoverflow.com/questions/28150362,What is the difference between byte[] and List<Byte> in Java?,0
+50,6243242,Testing API which returns multiple values with JUnit,https://stackoverflow.com/questions/28954710,Junit testing method which returns nothing and has service call to other system,0
+51,6243242,Testing API which returns multiple values with JUnit,https://stackoverflow.com/questions/10140517,JUnit: Testing for an exception of certain type,0
+52,6243242,Testing API which returns multiple values with JUnit,https://stackoverflow.com/questions/5794036,JUnit - How to test a method with different values?,1
+53,6243242,Testing API which returns multiple values with JUnit,https://stackoverflow.com/questions/1410172,Testing for multiple exceptions with JUnit 4 annotations,1
+54,6243242,Testing API which returns multiple values with JUnit,https://stackoverflow.com/questions/7809268,Junit multiple threads,0
+55,6243242,Testing API which returns multiple values with JUnit,https://stackoverflow.com/questions/11858832,Getting started with guava,0
+56,6243242,Testing API which returns multiple values with JUnit,https://stackoverflow.com/questions/10858990,Why use JUnit for testing?,0
+57,6243242,Testing API which returns multiple values with JUnit,https://stackoverflow.com/questions/24487146,Testing writing into a csv file using JUnit,0
+58,6243242,Testing API which returns multiple values with JUnit,https://stackoverflow.com/questions/21585892,Comparing dates with JUnit testing,0
+59,6243242,Testing API which returns multiple values with JUnit,https://stackoverflow.com/questions/18874371,testing a synchronous api using junit,0
+60,9457900,How to get JScrollPanes within a JScrollPane to follow parent's resizing,https://stackoverflow.com/questions/22951719,How to get a JScrollPane to resize with its parent JPanel,1
+61,9457900,How to get JScrollPanes within a JScrollPane to follow parent's resizing,https://stackoverflow.com/questions/8066815,Resizing a JPanel inside of a JScrollPane clears the things I've drawn on the JPanel,1
+62,9457900,How to get JScrollPanes within a JScrollPane to follow parent's resizing,https://stackoverflow.com/questions/6523974,Shrink JScroll Pane to same Height as JTable,1
+63,9457900,How to get JScrollPanes within a JScrollPane to follow parent's resizing,https://stackoverflow.com/questions/3049400,Resize JTable in JScrollPane by dragging,1
+64,9457900,How to get JScrollPanes within a JScrollPane to follow parent's resizing,https://stackoverflow.com/questions/280106,JEditorPane inside JScrollPane not resizing as needed,1
+65,9457900,How to get JScrollPanes within a JScrollPane to follow parent's resizing,https://stackoverflow.com/questions/9156069,make a jscrollpane (containing a jtable) fill its container,1
+66,9457900,How to get JScrollPanes within a JScrollPane to follow parent's resizing,https://stackoverflow.com/questions/8385856,How to get the component inside a JScrollPane,0
+67,9457900,How to get JScrollPanes within a JScrollPane to follow parent's resizing,https://stackoverflow.com/questions/19212126,How can we add JScrollPane on JTextArea in java?,0
+68,9457900,How to get JScrollPanes within a JScrollPane to follow parent's resizing,https://stackoverflow.com/questions/13031637,Adding JPanel to JScrollPane,0
+69,9457900,How to get JScrollPanes within a JScrollPane to follow parent's resizing,https://stackoverflow.com/questions/1377887,JTextPane prevents scrolling in the parent JScrollPane,0
+70,23218025,How to convert String into DateFormat in java?,https://stackoverflow.com/questions/19492419,How to convert date to string and to date again?,1
+71,23218025,How to convert String into DateFormat in java?,https://stackoverflow.com/questions/23465919,I have date in string i want to convert it into date format but i got an error,1
+72,23218025,How to convert String into DateFormat in java?,https://stackoverflow.com/questions/10731523,converting date to string and back to date in java,1
+73,23218025,How to convert String into DateFormat in java?,https://stackoverflow.com/questions/15085771,convert string into date format in java,1
+74,23218025,How to convert String into DateFormat in java?,https://stackoverflow.com/questions/15945428,How to convert String to Date in java,1
+75,23218025,How to convert String into DateFormat in java?,https://stackoverflow.com/questions/4496359,How to parse date string to Date?,1
+76,23218025,How to convert String into DateFormat in java?,https://stackoverflow.com/questions/17399761,Cannot convert my String to Date,1
+77,23218025,How to convert String into DateFormat in java?,https://stackoverflow.com/questions/21039056,Java Date String to date same format,1
+78,23218025,How to convert String into DateFormat in java?,https://stackoverflow.com/questions/9002615,How to convert a string to date format in java?,1
+79,23218025,How to convert String into DateFormat in java?,https://stackoverflow.com/questions/18721046,How to convert a UTC date format String to Date format in java?,1
+80,18575022,Calculating time diffrence,https://stackoverflow.com/questions/9707938,Calculating time difference in Milliseconds,1
+81,18575022,Calculating time diffrence,https://stackoverflow.com/questions/15444016,Calculate Date Ranges Diffrence in C#or Java,1
+82,18575022,Calculating time diffrence,https://stackoverflow.com/questions/19835041,wrong time calculating in Java,0
+83,18575022,Calculating time diffrence,https://stackoverflow.com/questions/453388,Calculating difference in dates in Java,1
+84,18575022,Calculating time diffrence,https://stackoverflow.com/questions/19754633,calculating time difference between a server and a client with different time zones,1
+85,18575022,Calculating time diffrence,https://stackoverflow.com/questions/24619687,Java Computing Time Difference Not Working,1
+86,18575022,Calculating time diffrence,https://stackoverflow.com/questions/4532202,How to calculate the time difference between two events in Java?,1
+87,18575022,Calculating time diffrence,https://stackoverflow.com/questions/21059072,Java calculate time difference error,1
+88,18575022,Calculating time diffrence,https://stackoverflow.com/questions/18608831,Calculating the time difference with seconds,1
+89,18575022,Calculating time diffrence,https://stackoverflow.com/questions/9735426,Android/Java Time difference ISO 8601 with Now,1
+90,26747283,WMQ JMS API SSL Sun JDK and SSL_RSA_WITH_AES_128_CBC_SHA,https://stackoverflow.com/questions/13851621,Switch from open jdk to Sun jdk,0
+91,26747283,WMQ JMS API SSL Sun JDK and SSL_RSA_WITH_AES_128_CBC_SHA,https://stackoverflow.com/questions/19082265,How to ensure only one instance of a java program can be executed?,0
+92,26747283,WMQ JMS API SSL Sun JDK and SSL_RSA_WITH_AES_128_CBC_SHA,https://stackoverflow.com/questions/10663291,Wondering whether I need to installll JDK 1.6 & 1.7 together?,0
+93,26747283,WMQ JMS API SSL Sun JDK and SSL_RSA_WITH_AES_128_CBC_SHA,https://stackoverflow.com/questions/3683302,How to find out what algorithm [ encryption ] are supported by my JVM?,0
+94,26747283,WMQ JMS API SSL Sun JDK and SSL_RSA_WITH_AES_128_CBC_SHA,https://stackoverflow.com/questions/351729,Understanding the Sun JVM,0
+95,26747283,WMQ JMS API SSL Sun JDK and SSL_RSA_WITH_AES_128_CBC_SHA,https://stackoverflow.com/questions/15260446,difference between Sun JDK and open JDK,0
+96,26747283,WMQ JMS API SSL Sun JDK and SSL_RSA_WITH_AES_128_CBC_SHA,https://stackoverflow.com/questions/2182089,JMS catching when a JMS server goes away,0
+97,26747283,WMQ JMS API SSL Sun JDK and SSL_RSA_WITH_AES_128_CBC_SHA,https://stackoverflow.com/questions/115184,Does it matter which vendor's JDK you build with?,0
+98,26747283,WMQ JMS API SSL Sun JDK and SSL_RSA_WITH_AES_128_CBC_SHA,https://stackoverflow.com/questions/22539779,How to tell if JRE or JDK is installed,0
+99,26747283,WMQ JMS API SSL Sun JDK and SSL_RSA_WITH_AES_128_CBC_SHA,https://stackoverflow.com/questions/21057365,Oracle's Server JRE Contains JDK?,0
+100,23479882,Reason for java.lang.Integer.IntegerCache between -128 and 127?,https://stackoverflow.com/questions/3934291,Extending java Integer cache,1
+101,23479882,Reason for java.lang.Integer.IntegerCache between -128 and 127?,https://stackoverflow.com/questions/28453730,Equivalent of the Groovy's DefaultGroovyMethods#asType in Java (in a third party jar),0
+102,23479882,Reason for java.lang.Integer.IntegerCache between -128 and 127?,https://stackoverflow.com/questions/13098143,Why does the behavior of the Integer constant pool change at 127?,1
+103,23479882,Reason for java.lang.Integer.IntegerCache between -128 and 127?,https://stackoverflow.com/questions/11184010,Set greater than 127 int byte variable in java,0
+104,23479882,Reason for java.lang.Integer.IntegerCache between -128 and 127?,https://stackoverflow.com/questions/17830844,How can i convert an integer to byte?,0
+105,23479882,Reason for java.lang.Integer.IntegerCache between -128 and 127?,https://stackoverflow.com/questions/5581913,Integer wrapper class and == operator - where is behavior specified?,1
+106,23479882,Reason for java.lang.Integer.IntegerCache between -128 and 127?,https://stackoverflow.com/questions/35322181,How to find a first even integer in ArrayList<Integer>?,0
+107,23479882,Reason for java.lang.Integer.IntegerCache between -128 and 127?,https://stackoverflow.com/questions/19434366,signed byte type and bitwise operators in Java?,0
+108,23479882,Reason for java.lang.Integer.IntegerCache between -128 and 127?,https://stackoverflow.com/questions/23672279,why integer wrapper cases instances in range of -128 to 127,1
+109,23479882,Reason for java.lang.Integer.IntegerCache between -128 and 127?,https://stackoverflow.com/questions/5269183,How to compare Integer with integer array,0
+110,13763413,JDBC Connection from play app,https://stackoverflow.com/questions/6371643,JDBC MYSQL Connection without specifying database?,1
+111,13763413,JDBC Connection from play app,https://stackoverflow.com/questions/22711290,How to release connection from JDBC connection pool in Tomcat?,1
+112,13763413,JDBC Connection from play app,https://stackoverflow.com/questions/13231606,jdbc:jtds Connection to SQL server,1
+113,13763413,JDBC Connection from play app,https://stackoverflow.com/questions/4491596,Get database connection from a connection pool,1
+114,13763413,JDBC Connection from play app,https://stackoverflow.com/questions/17675412,Applet JDBC Connection Failed on Client Machine,1
+115,13763413,JDBC Connection from play app,https://stackoverflow.com/questions/7413751,JDBC Connection pooling,1
+116,13763413,JDBC Connection from play app,https://stackoverflow.com/questions/34943541,Make an App need Internet Connection to play,0
+117,13763413,JDBC Connection from play app,https://stackoverflow.com/questions/31287876,Jdbc Odbc Connection Error,0
+118,13763413,JDBC Connection from play app,https://stackoverflow.com/questions/12404747,Can Java program establish JDBC Connection via Proxy Server,1
+119,13763413,JDBC Connection from play app,https://stackoverflow.com/questions/26770083,MySQL connection with JDBC,1
+120,5388426,JSF 2.0 set locale throughout session from browser and programmatically,https://stackoverflow.com/questions/5550519,JSF internationalization from the moment the page loads.?,1
+121,5388426,JSF 2.0 set locale throughout session from browser and programmatically,https://stackoverflow.com/questions/4332700,How to detect client locale in JSF application?,1
+122,5388426,JSF 2.0 set locale throughout session from browser and programmatically,https://stackoverflow.com/questions/12891293,How to change locale in a Struts action class?,0
+123,5388426,JSF 2.0 set locale throughout session from browser and programmatically,https://stackoverflow.com/questions/18509523,Set locale via code in Struts2,0
+124,5388426,JSF 2.0 set locale throughout session from browser and programmatically,https://stackoverflow.com/questions/26573886,Spring MVC the default Locale and Locale change doesn't work,0
+125,5388426,JSF 2.0 set locale throughout session from browser and programmatically,https://stackoverflow.com/questions/13063316,Default Session time out in JSF,0
+126,5388426,JSF 2.0 set locale throughout session from browser and programmatically,https://stackoverflow.com/questions/5880988,Deploying both JSF 1.2 and JSF 2.0 apps on same Tomcat Server,0
+127,5388426,JSF 2.0 set locale throughout session from browser and programmatically,https://stackoverflow.com/questions/4441713,Migrating from JSF 1.2 to JSF 2.0,0
+128,5388426,JSF 2.0 set locale throughout session from browser and programmatically,https://stackoverflow.com/questions/5593298,JSF Session issue in different browser windows,0
+129,5388426,JSF 2.0 set locale throughout session from browser and programmatically,https://stackoverflow.com/questions/9562411,How to invalidate the session on browser close in the JSF,0
+130,14523117,Catch-all URL rewrite on Google App Engine (Java),https://stackoverflow.com/questions/19823905,Does Google App Engine support Java Script Engine?,0
+131,14523117,Catch-all URL rewrite on Google App Engine (Java),https://stackoverflow.com/questions/13215676,Best way to write a jSON API on Google App Engine,0
+132,14523117,Catch-all URL rewrite on Google App Engine (Java),https://stackoverflow.com/questions/8139477,Google App Engine and Java Version?,0
+133,14523117,Catch-all URL rewrite on Google App Engine (Java),https://stackoverflow.com/questions/4137293,Template engine for Google App Engine,0
+134,14523117,Catch-all URL rewrite on Google App Engine (Java),https://stackoverflow.com/questions/1014034,RESTful application on Google App Engine Java?,0
+135,14523117,Catch-all URL rewrite on Google App Engine (Java),https://stackoverflow.com/questions/5128106,Are Google App Engine (java) service classes Thread-Safe?,0
+136,14523117,Catch-all URL rewrite on Google App Engine (Java),https://stackoverflow.com/questions/34044339,How to call my app url from google app engine,1
+137,14523117,Catch-all URL rewrite on Google App Engine (Java),https://stackoverflow.com/questions/11009762,Facebook Login in Google App Engine Application (Java),0
+138,14523117,Catch-all URL rewrite on Google App Engine (Java),https://stackoverflow.com/questions/24349328,Should I use sessions in Google App Engine?,0
+139,14523117,Catch-all URL rewrite on Google App Engine (Java),https://stackoverflow.com/questions/16047737,Google App Engine Java and Android Getting Started,0
+140,23057456,Is there an equivalent to ASP.NET WEB API in JAVA world?,https://stackoverflow.com/questions/5388292,What's the equivalent of ASP.NET IHttpAsyncHandler in java world?,1
+141,23057456,Is there an equivalent to ASP.NET WEB API in JAVA world?,https://stackoverflow.com/questions/862003,MVC in a Google App Engine Java world,1
+142,23057456,Is there an equivalent to ASP.NET WEB API in JAVA world?,https://stackoverflow.com/questions/11854235,Java Equivalent for ASP.NET MVC Areas,1
+143,23057456,Is there an equivalent to ASP.NET WEB API in JAVA world?,https://stackoverflow.com/questions/2556553,What is the main-stream Java alternative to ASP.NET / PHP,1
+144,23057456,Is there an equivalent to ASP.NET WEB API in JAVA world?,https://stackoverflow.com/questions/2809765,"What are the equivalent of the following .NET concepts (ASP.NET, IIS, Linq, etc.) in Java world?",1
+145,23057456,Is there an equivalent to ASP.NET WEB API in JAVA world?,https://stackoverflow.com/questions/3905898,Switching from ASP.NET MVC to Java,1
+146,23057456,Is there an equivalent to ASP.NET WEB API in JAVA world?,https://stackoverflow.com/questions/7517387,Eclipse/Java equivalent to Microsoft ASP.NET Model View Control Framework,1
+147,23057456,Is there an equivalent to ASP.NET WEB API in JAVA world?,https://stackoverflow.com/questions/25532,ASP.NET Master Pages equivalent in Java,1
+148,23057456,Is there an equivalent to ASP.NET WEB API in JAVA world?,https://stackoverflow.com/questions/18934250,Asp.net API in Java and Android,0
+149,23057456,Is there an equivalent to ASP.NET WEB API in JAVA world?,https://stackoverflow.com/questions/1833865,Which Java based MVC framework is most similar to ASP.NET MVC?,1
+150,11450727,Sending file in chunks in Java,https://stackoverflow.com/questions/24054200,Sending Large Image in chunks,1
+151,11450727,Sending file in chunks in Java,https://stackoverflow.com/questions/35427380,CFHTTP - Read data from URL transferring in chunks,0
+152,11450727,Sending file in chunks in Java,https://stackoverflow.com/questions/9194996,Skipping certain parts of a textfile while reading in java,0
+153,11450727,Sending file in chunks in Java,https://stackoverflow.com/questions/9588348,Java - Read file by chunks?,1
+154,11450727,Sending file in chunks in Java,https://stackoverflow.com/questions/32390775,File upload in chunks using jquery file upload plugin in JAVA,0
+155,11450727,Sending file in chunks in Java,https://stackoverflow.com/questions/6074516,How could I upload a large file in chunks using Java?,1
+156,11450727,Sending file in chunks in Java,https://stackoverflow.com/questions/15052518,Converting file to byte array and transmitting it with UDP. How to get file name on server from this array of bytes?,1
+157,11450727,Sending file in chunks in Java,https://stackoverflow.com/questions/5510979,Java - Read text file by chunks,0
+158,11450727,Sending file in chunks in Java,https://stackoverflow.com/questions/11098873,How to split a CSV file into multiple chunks and read those chunks in parallel in Java code,0
+159,11450727,Sending file in chunks in Java,https://stackoverflow.com/questions/31531258,How to handle processing large csv file or read large CSV file in chunks,0
+160,25428573,How to dynamically split a comma separated string into String arrays splitting on nth comma?,https://stackoverflow.com/questions/19480101,RegEx for split a string with comma ignoring comma with a space,1
+161,25428573,How to dynamically split a comma separated string into String arrays splitting on nth comma?,https://stackoverflow.com/questions/18863882,How to put Java String to array,1
+162,25428573,How to dynamically split a comma separated string into String arrays splitting on nth comma?,https://stackoverflow.com/questions/5968720,"Splitting comma separated string, ignore commas in quotes, but allow strings with one double quotation",1
+163,25428573,How to dynamically split a comma separated string into String arrays splitting on nth comma?,https://stackoverflow.com/questions/23044557,Java String: split String,1
+164,25428573,How to dynamically split a comma separated string into String arrays splitting on nth comma?,https://stackoverflow.com/questions/15815587,Best way to convert list to comma separated string in java,0
+165,25428573,How to dynamically split a comma separated string into String arrays splitting on nth comma?,https://stackoverflow.com/questions/19241010,String Tokenizer : split string by comma and ignore comma in double quotes,1
+166,25428573,How to dynamically split a comma separated string into String arrays splitting on nth comma?,https://stackoverflow.com/questions/28358388,How to split string at every nth occurrence of character in Java,1
+167,25428573,How to dynamically split a comma separated string into String arrays splitting on nth comma?,https://stackoverflow.com/questions/29690060,Parsing a string in Java and having the out put seperated by a comma,1
+168,25428573,How to dynamically split a comma separated string into String arrays splitting on nth comma?,https://stackoverflow.com/questions/26564464,Accept comma separated value in REST Webservice,0
+169,25428573,How to dynamically split a comma separated string into String arrays splitting on nth comma?,https://stackoverflow.com/questions/28030921,How to convert string ( that contains comma separated values.) to an Integer,0
+170,6343295,Java XML create,https://stackoverflow.com/questions/11626654,How to create XML dynamically (java)?,1
+171,6343295,Java XML create,https://stackoverflow.com/questions/9309072,"JAVA , Xml parsing",0
+172,6343295,Java XML create,https://stackoverflow.com/questions/19218180,Create XSD from Java bean or from XML using JAXB,0
+173,6343295,Java XML create,https://stackoverflow.com/questions/6177601,java: write to xml file,1
+174,6343295,Java XML create,https://stackoverflow.com/questions/7607327,How to create a XML object from String in Java?,1
+175,6343295,Java XML create,https://stackoverflow.com/questions/9788715,Generate XML from a class with JAVA,1
+176,6343295,Java XML create,https://stackoverflow.com/questions/9926553,How to modify XML file according to a XML Schema (.xsd file),0
+177,6343295,Java XML create,https://stackoverflow.com/questions/23520208,How to create XML file with specific structure in Java,1
+178,6343295,Java XML create,https://stackoverflow.com/questions/10267047,How to generate xml in Java?,1
+179,6343295,Java XML create,https://stackoverflow.com/questions/15981566,java best way to create and write XML,1
+180,33311144,SimpleDateFormat behaviour change in Android Marshmallow,https://stackoverflow.com/questions/24399846,Android SimpleDateFormat Parsing Error,1
+181,33311144,SimpleDateFormat behaviour change in Android Marshmallow,https://stackoverflow.com/questions/12298436,example for using YouTube Data API in Android,0
+182,33311144,SimpleDateFormat behaviour change in Android Marshmallow,https://stackoverflow.com/questions/4025369,How to change package name of an Android Application,0
+183,33311144,SimpleDateFormat behaviour change in Android Marshmallow,https://stackoverflow.com/questions/9387000,Android execute code on variable change,0
+184,33311144,SimpleDateFormat behaviour change in Android Marshmallow,https://stackoverflow.com/questions/14742152,android pass by value?,0
+185,33311144,SimpleDateFormat behaviour change in Android Marshmallow,https://stackoverflow.com/questions/19873864,Android parsing String to Date time with SimpleDateFormat,1
+186,33311144,SimpleDateFormat behaviour change in Android Marshmallow,https://stackoverflow.com/questions/4193186,Android : connecting to a webservice in Android,0
+187,33311144,SimpleDateFormat behaviour change in Android Marshmallow,https://stackoverflow.com/questions/23528550,what is the error in this java android code,0
+188,33311144,SimpleDateFormat behaviour change in Android Marshmallow,https://stackoverflow.com/questions/16884897,Eclipse / Android error,0
+189,33311144,SimpleDateFormat behaviour change in Android Marshmallow,https://stackoverflow.com/questions/22814263,How set TimeZone in android,0
+190,30459495,Java : Rounding a decimal value to HALF_EVEN,https://stackoverflow.com/questions/28134938,What is HALF_EVEN rounding for?,1
+191,30459495,Java : Rounding a decimal value to HALF_EVEN,https://stackoverflow.com/questions/12078431,Regarding rounding off a value to certain decimal point,0
+192,30459495,Java : Rounding a decimal value to HALF_EVEN,https://stackoverflow.com/questions/14316803,Rounding up to 2 decimal place,0
+193,30459495,Java : Rounding a decimal value to HALF_EVEN,https://stackoverflow.com/questions/16408253,Rounding off 2 decimal places in Java for whole number,0
+194,30459495,Java : Rounding a decimal value to HALF_EVEN,https://stackoverflow.com/questions/9714032,how to rounding the numbers after decimal point?,0
+195,30459495,Java : Rounding a decimal value to HALF_EVEN,https://stackoverflow.com/questions/21520218,Rounding to a variable number of decimal places,0
+196,30459495,Java : Rounding a decimal value to HALF_EVEN,https://stackoverflow.com/questions/8327767,Rounding a number off to certain number of places Java,0
+197,30459495,Java : Rounding a decimal value to HALF_EVEN,https://stackoverflow.com/questions/8486878,How to cut off decimal in Java WITHOUT rounding?,0
+198,30459495,Java : Rounding a decimal value to HALF_EVEN,https://stackoverflow.com/questions/7925098,Rounding a number up in Java,0
+199,30459495,Java : Rounding a decimal value to HALF_EVEN,https://stackoverflow.com/questions/6494815,Rounding to 2 decimal places,0
+200,31171489,Does collect operation on Stream close the stream and underlying resources?,https://stackoverflow.com/questions/20648611,Input/Output Stream : End of Stream?,0
+201,31171489,Does collect operation on Stream close the stream and underlying resources?,https://stackoverflow.com/questions/4953142,Stream closed exception in java,0
+202,31171489,Does collect operation on Stream close the stream and underlying resources?,https://stackoverflow.com/questions/981196,How to know if a BufferedReader Stream is closed,0
+203,31171489,Does collect operation on Stream close the stream and underlying resources?,https://stackoverflow.com/questions/3013996,Byte Stream and Character stream,0
+204,31171489,Does collect operation on Stream close the stream and underlying resources?,https://stackoverflow.com/questions/21219667,Stream and lazy evaluation,0
+205,31171489,Does collect operation on Stream close the stream and underlying resources?,https://stackoverflow.com/questions/10674551,Java Sockets: Connection but no Stream?,0
+206,31171489,Does collect operation on Stream close the stream and underlying resources?,https://stackoverflow.com/questions/17725254,Does closing the socket close the stream?,0
+207,31171489,Does collect operation on Stream close the stream and underlying resources?,https://stackoverflow.com/questions/3643939,Java Process with Input/Output Stream,0
+208,31171489,Does collect operation on Stream close the stream and underlying resources?,https://stackoverflow.com/questions/716927,Applying a regular expression to a Java I/O Stream,0
+209,31171489,Does collect operation on Stream close the stream and underlying resources?,https://stackoverflow.com/questions/12470059,JAVA: IO Exception: Reason Stream closed,0
+210,26881419,Java integer division result as double?,https://stackoverflow.com/questions/17944,How to round up the result of integer division?,1
+211,26881419,Java integer division result as double?,https://stackoverflow.com/questions/30343408,integer division to float result,1
+212,26881419,Java integer division result as double?,https://stackoverflow.com/questions/9054836,Java division for double and float without E,1
+213,26881419,Java integer division result as double?,https://stackoverflow.com/questions/3144610,Integer division: How do you produce a double?,1
+214,26881419,Java integer division result as double?,https://stackoverflow.com/questions/14454661,Why is Math.floor() used instead of integer division in BER Codec,0
+215,26881419,Java integer division result as double?,https://stackoverflow.com/questions/21286265,Double parameter is equal to 0.0 after the division,1
+216,26881419,Java integer division result as double?,https://stackoverflow.com/questions/7286681,Why does integer division code give the wrong answer?,1
+217,26881419,Java integer division result as double?,https://stackoverflow.com/questions/21549172,Float/Double calculation error in Java,0
+218,26881419,Java integer division result as double?,https://stackoverflow.com/questions/4685450,Int division: Why is the result of 1/3 == 0?,1
+219,26881419,Java integer division result as double?,https://stackoverflow.com/questions/13682838,Strange float division result,0
+220,28489322,Extract subclass elements from List of parent class,https://stackoverflow.com/questions/8134251,How to Get class of Elements that List Contains?,0
+221,28489322,Extract subclass elements from List of parent class,https://stackoverflow.com/questions/22626430,Java type casting generics list of list of child to list of list of parent,0
+222,28489322,Extract subclass elements from List of parent class,https://stackoverflow.com/questions/15340091,Java: Adding new element to List<String>,0
+223,28489322,Extract subclass elements from List of parent class,https://stackoverflow.com/questions/6231973,"Difference between List, List<?>, List<T>, List<E>, and List<Object>",0
+224,28489322,Extract subclass elements from List of parent class,https://stackoverflow.com/questions/26656481,Java List<Parent> and List<Children> method,0
+225,28489322,Extract subclass elements from List of parent class,https://stackoverflow.com/questions/20391297,Add parent object to List<? extends Parent> - Java,0
+226,28489322,Extract subclass elements from List of parent class,https://stackoverflow.com/questions/26766704,Cannot convert from List<List> to List<List<?>>,0
+227,28489322,Extract subclass elements from List of parent class,https://stackoverflow.com/questions/32969898,How to convert List<Object> to List<Dog> in Java,0
+228,28489322,Extract subclass elements from List of parent class,https://stackoverflow.com/questions/14632402,Convert List into List of Lists that contain 10 items,0
+229,28489322,Extract subclass elements from List of parent class,https://stackoverflow.com/questions/5082044,Most efficient way to cast List<SubClass> to List<BaseClass>,0
+230,9510369,Using JDBC with online MySQL DB for an Android app,https://stackoverflow.com/questions/25889354,Connecting Java App to my online database JDBC MySql,1
+231,9510369,Using JDBC with online MySQL DB for an Android app,https://stackoverflow.com/questions/22609355,How to connect to online mysql database from Java desktop app,1
+232,9510369,Using JDBC with online MySQL DB for an Android app,https://stackoverflow.com/questions/9493822,Android Java connect to online database,0
+233,9510369,Using JDBC with online MySQL DB for an Android app,https://stackoverflow.com/questions/11105529,How to connect Android with MySQL using Mysql JDBC driver,1
+234,9510369,Using JDBC with online MySQL DB for an Android app,https://stackoverflow.com/questions/27271286,Insert data from android app into mySql database,1
+235,9510369,Using JDBC with online MySQL DB for an Android app,https://stackoverflow.com/questions/11324939,How to access online mysql database in android?,1
+236,9510369,Using JDBC with online MySQL DB for an Android app,https://stackoverflow.com/questions/29835203,is it possible to connect java application to online database,1
+237,9510369,Using JDBC with online MySQL DB for an Android app,https://stackoverflow.com/questions/32276135,How to get access to an online database through an android app? (One.com host),1
+238,9510369,Using JDBC with online MySQL DB for an Android app,https://stackoverflow.com/questions/6767381,Best way to export data to mySQL database,0
+239,9510369,Using JDBC with online MySQL DB for an Android app,https://stackoverflow.com/questions/7211171,Java - trouble connecting to online MySQL database using JDBC,1
+240,6111645,Difference between TimerTask and Executors.newScheduledThreadPool(1),https://stackoverflow.com/questions/25001052,Timer and TimerTask - how to reschedule Timer from within TimerTask run,0
+241,6111645,Difference between TimerTask and Executors.newScheduledThreadPool(1),https://stackoverflow.com/questions/1453295,Timer & TimerTask versus Thread + sleep in Java,0
+242,6111645,Difference between TimerTask and Executors.newScheduledThreadPool(1),https://stackoverflow.com/questions/11197439,Will a ScheduledExecutorService create new threads as needed?,0
+243,6111645,Difference between TimerTask and Executors.newScheduledThreadPool(1),https://stackoverflow.com/questions/8074666,"When a Java TimerTask is scheduled in a Timer, is it already ""executing""?",1
+244,6111645,Difference between TimerTask and Executors.newScheduledThreadPool(1),https://stackoverflow.com/questions/13194201,Creating a Java Timer and a TimerTask?,0
+245,6111645,Difference between TimerTask and Executors.newScheduledThreadPool(1),https://stackoverflow.com/questions/12018071,Is there something like C# Task in Java?,0
+246,6111645,Difference between TimerTask and Executors.newScheduledThreadPool(1),https://stackoverflow.com/questions/3198660,Java Executors: how can I set task priority?,0
+247,6111645,Difference between TimerTask and Executors.newScheduledThreadPool(1),https://stackoverflow.com/questions/17405919,Java: Wait for TimerTask to complete before continuing execution,0
+248,6111645,Difference between TimerTask and Executors.newScheduledThreadPool(1),https://stackoverflow.com/questions/21984332,Android Timer and timerTask error,0
+249,6111645,Difference between TimerTask and Executors.newScheduledThreadPool(1),https://stackoverflow.com/questions/13716546,Preventing timer manipulation from end user with android TimerTask and Timer,0
+250,1235179,Simple way to repeat a String in java,https://stackoverflow.com/questions/2255500,Can I multiply strings in Java to repeat sequences?,1
+251,1235179,Simple way to repeat a String in java,https://stackoverflow.com/questions/1157597,Attach the Java Source Code,0
+252,1235179,Simple way to repeat a String in java,https://stackoverflow.com/questions/19781346,Does Java provide a way to repeat a string?,1
+253,1235179,Simple way to repeat a String in java,https://stackoverflow.com/questions/19198048,"How to repeat string ""n"" times in java?",1
+254,1235179,Simple way to repeat a String in java,https://stackoverflow.com/questions/21359403,Simple String Split,0
+255,1235179,Simple way to repeat a String in java,https://stackoverflow.com/questions/24762397,"GWT - SerializationException when I send Map<Object, Object>",0
+256,1235179,Simple way to repeat a String in java,https://stackoverflow.com/questions/10666537,"Shouldn't I do `String s = new String(""a new string"");` in Java, even with automatic string interning?",0
+257,1235179,Simple way to repeat a String in java,https://stackoverflow.com/questions/30143111,compare first string in second string in android,0
+258,1235179,Simple way to repeat a String in java,https://stackoverflow.com/questions/16847044,Interpret Java byte[] as a String,0
+259,1235179,Simple way to repeat a String in java,https://stackoverflow.com/questions/13549798,JSF h:selectManyCheckbox inside ui:repeat via Map entry,0
+260,302016,Accessing an SDF SQLServer Mobile file from Java,https://stackoverflow.com/questions/6641189,upload file from java application on mobile to web server,0
+261,302016,Accessing an SDF SQLServer Mobile file from Java,https://stackoverflow.com/questions/20995118,Uploading file from android (java) to server using PHP,0
+262,302016,Accessing an SDF SQLServer Mobile file from Java,https://stackoverflow.com/questions/22592168,XML and Android Java Mobile,0
+263,302016,Accessing an SDF SQLServer Mobile file from Java,https://stackoverflow.com/questions/19841236,Correct method for connecting android to SQL Server using JDBC,1
+264,302016,Accessing an SDF SQLServer Mobile file from Java,https://stackoverflow.com/questions/34346425,App not retrieving data from Azure mobile service table,0
+265,302016,Accessing an SDF SQLServer Mobile file from Java,https://stackoverflow.com/questions/8616023,Sending SMS from a pc to a mobile using java,0
+266,302016,Accessing an SDF SQLServer Mobile file from Java,https://stackoverflow.com/questions/12522396,TCP\IP client - EHOSTUNREACH (No route to host),0
+267,302016,Accessing an SDF SQLServer Mobile file from Java,https://stackoverflow.com/questions/32882975,Not able to access one database in SQL Server using Java,1
+268,302016,Accessing an SDF SQLServer Mobile file from Java,https://stackoverflow.com/questions/34120747,Connection of Android Studio with localhost timed out,0
+269,302016,Accessing an SDF SQLServer Mobile file from Java,https://stackoverflow.com/questions/15343369,Sending a string via Bluetooth from a PC as client to a mobile as server,0
+270,21781161,How can I do something every second? [LibGDX],https://stackoverflow.com/questions/29714392,Libgdx - How do i Debug my Libgdx project in Eclipse?,1
+271,21781161,How can I do something every second? [LibGDX],https://stackoverflow.com/questions/15278215,Maven project with JavaFX (with jar file in `lib`),0
+272,21781161,How can I do something every second? [LibGDX],https://stackoverflow.com/questions/23162438,Couldn't load shared library box2d for libgdx,0
+273,21781161,How can I do something every second? [LibGDX],https://stackoverflow.com/questions/14301333,Using LibGDX with Android Preferences,0
+274,21781161,How can I do something every second? [LibGDX],https://stackoverflow.com/questions/21028507,libGDX project can't load library liblwjgl.dylib,0
+275,21781161,How can I do something every second? [LibGDX],https://stackoverflow.com/questions/24261986,"About libgdx, android and IntelliJ",0
+276,21781161,How can I do something every second? [LibGDX],https://stackoverflow.com/questions/26348442,LibGDX not using Android asset folder,0
+277,21781161,How can I do something every second? [LibGDX],https://stackoverflow.com/questions/23004517,Libgdx project for iOS displaying libgdx splash when compiling through robovm on simulator?,0
+278,21781161,How can I do something every second? [LibGDX],https://stackoverflow.com/questions/23228594,Exception while running libgdx app on Android,0
+279,21781161,How can I do something every second? [LibGDX],https://stackoverflow.com/questions/4410803,a simple question about lib folder in Eclipse,0
+280,7408566,Java Double value = 0.01 changes to 0.009999999999999787,https://stackoverflow.com/questions/33971989,Comparison double value,0
+281,7408566,Java Double value = 0.01 changes to 0.009999999999999787,https://stackoverflow.com/questions/23964763,Return Muitiple Int Values From Method java,0
+282,7408566,Java Double value = 0.01 changes to 0.009999999999999787,https://stackoverflow.com/questions/20136291,Double value issue in java,1
+283,7408566,Java Double value = 0.01 changes to 0.009999999999999787,https://stackoverflow.com/questions/13187406,generic method to return object to Double or double,0
+284,7408566,Java Double value = 0.01 changes to 0.009999999999999787,https://stackoverflow.com/questions/12226757,Java : different double and Double in comparison,0
+285,7408566,Java Double value = 0.01 changes to 0.009999999999999787,https://stackoverflow.com/questions/8173844,generics in Java - instantiating T,0
+286,7408566,Java Double value = 0.01 changes to 0.009999999999999787,https://stackoverflow.com/questions/1597999,Are primitive types different in Java and C#?,0
+287,7408566,Java Double value = 0.01 changes to 0.009999999999999787,https://stackoverflow.com/questions/5178854,Convert a double array to Double ArrayList,0
+288,7408566,Java Double value = 0.01 changes to 0.009999999999999787,https://stackoverflow.com/questions/8585947,List<Double> that uses RAM of double[]?,0
+289,7408566,Java Double value = 0.01 changes to 0.009999999999999787,https://stackoverflow.com/questions/6018267,How to cast from List<Double> to double[] in Java?,0
+290,18297919,Error in OCJP exam simulation: how many objects are really created?,https://stackoverflow.com/questions/10978501,NoSuchProviderException: smtp with log4j SMTP appender,0
+291,18297919,Error in OCJP exam simulation: how many objects are really created?,https://stackoverflow.com/questions/15921540,HTTP Status 500 - Error instantiating servlet class pkg.coreServlet,0
+292,18297919,Error in OCJP exam simulation: how many objects are really created?,https://stackoverflow.com/questions/20818737,Can not find the declaration of element 'persistence',0
+293,18297919,Error in OCJP exam simulation: how many objects are really created?,https://stackoverflow.com/questions/23536074,What cause java.util.concurrentmodificationexception using Collections.synchronizedList?,0
+294,18297919,Error in OCJP exam simulation: how many objects are really created?,https://stackoverflow.com/questions/30556835,Error : This class should provide a default constructor (.....) [Instantiatable],0
+295,18297919,Error in OCJP exam simulation: how many objects are really created?,https://stackoverflow.com/questions/29058933,What is happening here ? java assignment issue OCJP,0
+296,18297919,Error in OCJP exam simulation: how many objects are really created?,https://stackoverflow.com/questions/32121031,Cannot resolve symbol NameValuePair,0
+297,18297919,Error in OCJP exam simulation: how many objects are really created?,https://stackoverflow.com/questions/32885797,JAVA : How many Objects will be created ? why?,0
+298,18297919,Error in OCJP exam simulation: how many objects are really created?,https://stackoverflow.com/questions/28362532,jfreechart: Adding a crosshair overlay to a ganttchart,0
+299,18297919,Error in OCJP exam simulation: how many objects are really created?,https://stackoverflow.com/questions/20027466,Sample exam about java classes,0
+300,2768697,Any YAML based fixture loader for Java?,https://stackoverflow.com/questions/6033314,Use Map as property of model in Play,0
+301,2768697,Any YAML based fixture loader for Java?,https://stackoverflow.com/questions/25796637,Parse a yaml file,1
+302,2768697,Any YAML based fixture loader for Java?,https://stackoverflow.com/questions/19324493,Custom Class Loader In Java,0
+303,2768697,Any YAML based fixture loader for Java?,https://stackoverflow.com/questions/27734153,Use Jackson to write yaml?,0
+304,2768697,Any YAML based fixture loader for Java?,https://stackoverflow.com/questions/26235350,Convert JSON to YAML. Parsing JSON to YAML,1
+305,2768697,Any YAML based fixture loader for Java?,https://stackoverflow.com/questions/10893568,Retrieve Nested Hashmap data from yaml file,0
+306,2768697,Any YAML based fixture loader for Java?,https://stackoverflow.com/questions/27769766,Making a class loader,0
+307,2768697,Any YAML based fixture loader for Java?,https://stackoverflow.com/questions/11658816,what class loader is used?,0
+308,2768697,Any YAML based fixture loader for Java?,https://stackoverflow.com/questions/1673256,Java class loader tutorial,0
+309,2768697,Any YAML based fixture loader for Java?,https://stackoverflow.com/questions/29494895,Is it possible to have the database ids loaded from a fixture start at a certain number?,0
+310,8464481,How to add page number in Header using itext in Java?,https://stackoverflow.com/questions/5062898,add header to pdf using iText,0
+311,8464481,How to add page number in Header using itext in Java?,https://stackoverflow.com/questions/19322553,Adding Header to existing PDF File using PDFBox,0
+312,8464481,How to add page number in Header using itext in Java?,https://stackoverflow.com/questions/8303162,Jetty Cross Origin Filter,0
+313,8464481,How to add page number in Header using itext in Java?,https://stackoverflow.com/questions/26248084,How to Display Row Header on JTable Instead of Column Header,0
+314,8464481,How to add page number in Header using itext in Java?,https://stackoverflow.com/questions/13743205,"How to add,set and get Header in request of HttpClient?",0
+315,8464481,How to add page number in Header using itext in Java?,https://stackoverflow.com/questions/26418635,How to add Header and Footer in a word document using POI api?,0
+316,8464481,How to add page number in Header using itext in Java?,https://stackoverflow.com/questions/4284691,iText add new page,0
+317,8464481,How to add page number in Header using itext in Java?,https://stackoverflow.com/questions/27213291,How to define a Header to all request using Retrofit?,0
+318,8464481,How to add page number in Header using itext in Java?,https://stackoverflow.com/questions/759909,How to add total page number on every page with iText?,1
+319,8464481,How to add page number in Header using itext in Java?,https://stackoverflow.com/questions/33394158,How to add HTML headers and footers to a page?,0
+320,27879448,android.view.InflateException: Binary XML file line #1: Error inflating class android.widget.RelativeLayout,https://stackoverflow.com/questions/21433510,android.view.InflateException: Binary XML file line #8: Error inflating class fragment,1
+321,27879448,android.view.InflateException: Binary XML file line #1: Error inflating class android.widget.RelativeLayout,https://stackoverflow.com/questions/23709303,InflateException Binary XML file at line #7: Error inflating class fragment,1
+322,27879448,android.view.InflateException: Binary XML file line #1: Error inflating class android.widget.RelativeLayout,https://stackoverflow.com/questions/20680451,InflateException: Binary XML file line #1: Error inflating class <unknown> caused by OutOfMemoryError,1
+323,27879448,android.view.InflateException: Binary XML file line #1: Error inflating class android.widget.RelativeLayout,https://stackoverflow.com/questions/22368002,Android - InflateException: Binary XML file line #7,1
+324,27879448,android.view.InflateException: Binary XML file line #1: Error inflating class android.widget.RelativeLayout,https://stackoverflow.com/questions/24263042,JAXB Unmarshalling of Tag,0
+325,27879448,android.view.InflateException: Binary XML file line #1: Error inflating class android.widget.RelativeLayout,https://stackoverflow.com/questions/20215522,java.lang.ClassCastException: android.widget.ImageButton cannot be cast to android.widget.TextView,0
+326,27879448,android.view.InflateException: Binary XML file line #1: Error inflating class android.widget.RelativeLayout,https://stackoverflow.com/questions/20641441,WARNING: No configuration found for the specified action: in namespace: Form action defaulting to 'action' attribute's literal value,0
+327,27879448,android.view.InflateException: Binary XML file line #1: Error inflating class android.widget.RelativeLayout,https://stackoverflow.com/questions/3262013,Java regular expression for binary string,0
+328,27879448,android.view.InflateException: Binary XML file line #1: Error inflating class android.widget.RelativeLayout,https://stackoverflow.com/questions/10978501,NoSuchProviderException: smtp with log4j SMTP appender,0
+329,27879448,android.view.InflateException: Binary XML file line #1: Error inflating class android.widget.RelativeLayout,https://stackoverflow.com/questions/15921540,HTTP Status 500 - Error instantiating servlet class pkg.coreServlet,0
+330,26755943,MariaDB fails to work after being idle for a period,https://stackoverflow.com/questions/24007966,Connection Timeout when application is Idle,1
+331,26755943,MariaDB fails to work after being idle for a period,https://stackoverflow.com/questions/18146781,Why cant I connect to cassandra,0
+332,26755943,MariaDB fails to work after being idle for a period,https://stackoverflow.com/questions/3439310,How to run a thread for a given time period and then return in Java?,0
+333,26755943,MariaDB fails to work after being idle for a period,https://stackoverflow.com/questions/16100764,java connecting to mysql database fails,1
+334,26755943,MariaDB fails to work after being idle for a period,https://stackoverflow.com/questions/3148092,java jdbc mysql connector: how to resolve disconnection after a long idle time,1
+335,26755943,MariaDB fails to work after being idle for a period,https://stackoverflow.com/questions/4950966,A better way to run code for a period of time,0
+336,26755943,MariaDB fails to work after being idle for a period,https://stackoverflow.com/questions/20686967,Solutions for License/Key java application,0
+337,26755943,MariaDB fails to work after being idle for a period,https://stackoverflow.com/questions/5385175,Setting session timeout period with Spring Security 3.0,0
+338,26755943,MariaDB fails to work after being idle for a period,https://stackoverflow.com/questions/18816974,Migrating from MySql: MariaDB server closing client connections unexpectedly,1
+339,26755943,MariaDB fails to work after being idle for a period,https://stackoverflow.com/questions/614227,How to detect that a PC has been idle for 30 seconds using Java?,0
+340,15781211,How to check Returned Server Code Using DOM?,https://stackoverflow.com/questions/25245355,calling args from out side the main method,0
+341,15781211,How to check Returned Server Code Using DOM?,https://stackoverflow.com/questions/769523,speech recognition in java,0
+342,15781211,How to check Returned Server Code Using DOM?,https://stackoverflow.com/questions/11284779,getting error java.io.IOException: Server returned HTTP response code: 401 for,0
+343,15781211,How to check Returned Server Code Using DOM?,https://stackoverflow.com/questions/5941515,How should I handle server timeouts and error code responses to an http post in Android App?,0
+344,15781211,How to check Returned Server Code Using DOM?,https://stackoverflow.com/questions/34867416,something wrong when server receive a file from client?,0
+345,15781211,How to check Returned Server Code Using DOM?,https://stackoverflow.com/questions/3432263,java.io.IOException: Server returned HTTP response code: 500,0
+346,15781211,How to check Returned Server Code Using DOM?,https://stackoverflow.com/questions/17147352,Checking if server is online from Java code,0
+347,15781211,How to check Returned Server Code Using DOM?,https://stackoverflow.com/questions/23759687,client-server online dictionary program in java,0
+348,15781211,How to check Returned Server Code Using DOM?,https://stackoverflow.com/questions/13229088,Apache Camel JMS - Exceptions not returned to caller with request/reply,0
+349,15781211,How to check Returned Server Code Using DOM?,https://stackoverflow.com/questions/23329580,BindException: Address already in use even with unique port,0
+350,32248366,Frequently getting exceptions in java while downloading files from third party download managers in struts2-tiles2 framework,https://stackoverflow.com/questions/24121712,How do download managers work on Android?,1
+351,32248366,Frequently getting exceptions in java while downloading files from third party download managers in struts2-tiles2 framework,https://stackoverflow.com/questions/16210894,Offer foreground download to user with possible dialog,0
+352,32248366,Frequently getting exceptions in java while downloading files from third party download managers in struts2-tiles2 framework,https://stackoverflow.com/questions/3906984,Download file from java application,0
+353,32248366,Frequently getting exceptions in java while downloading files from third party download managers in struts2-tiles2 framework,https://stackoverflow.com/questions/21934450,Liferay and struts2,1
+354,32248366,Frequently getting exceptions in java while downloading files from third party download managers in struts2-tiles2 framework,https://stackoverflow.com/questions/5335610,java code to download a file from server,0
+355,32248366,Frequently getting exceptions in java while downloading files from third party download managers in struts2-tiles2 framework,https://stackoverflow.com/questions/11860971,Streaming large files with play framework and third party API,0
+356,32248366,Frequently getting exceptions in java while downloading files from third party download managers in struts2-tiles2 framework,https://stackoverflow.com/questions/10702683,Is there a common way to download all types of files in jsp?,0
+357,32248366,Frequently getting exceptions in java while downloading files from third party download managers in struts2-tiles2 framework,https://stackoverflow.com/questions/15800565,"Spring MVC : large files for download, OutOfMemoryException",0
+358,32248366,Frequently getting exceptions in java while downloading files from third party download managers in struts2-tiles2 framework,https://stackoverflow.com/questions/2937126,How to use GWT when downloading Files with a Servlet?,0
+359,32248366,Frequently getting exceptions in java while downloading files from third party download managers in struts2-tiles2 framework,https://stackoverflow.com/questions/12921452,Android : Download a single file in many parts,0
+360,9331867,programmatically discover java unlimited encryption,https://stackoverflow.com/questions/9555023,AES-256 encryption with BouncyCastle Lightweight API,1
+361,9331867,programmatically discover java unlimited encryption,https://stackoverflow.com/questions/19960450,Java find where a class is used in the code - programmatically,0
+362,9331867,programmatically discover java unlimited encryption,https://stackoverflow.com/questions/5239974,Java JCE Unlimited strength encryption security policy files,1
+363,9331867,programmatically discover java unlimited encryption,https://stackoverflow.com/questions/29372956,How do I programmatically create XML from Java?,0
+364,9331867,programmatically discover java unlimited encryption,https://stackoverflow.com/questions/22679689,Decrypt Content Encryption Key in JSON Web Encryption,0
+365,9331867,programmatically discover java unlimited encryption,https://stackoverflow.com/questions/7215606,Encryption and decryption between PHP and Java,0
+366,9331867,programmatically discover java unlimited encryption,https://stackoverflow.com/questions/5295110,AES Encryption in Java and Decryption in C#,0
+367,9331867,programmatically discover java unlimited encryption,https://stackoverflow.com/questions/10759392,Java AES encryption and decryption,0
+368,9331867,programmatically discover java unlimited encryption,https://stackoverflow.com/questions/20796042,AES Encryption and Decryption with Java,0
+369,9331867,programmatically discover java unlimited encryption,https://stackoverflow.com/questions/31734161,AES encryption using C# and decryption in Java,0
+370,7351242,Is it such a bad idea to capture OutOfMemoryError?,https://stackoverflow.com/questions/16351843,How do I solve OutOfMemoryError: Java heap space,1
+371,7351242,Is it such a bad idea to capture OutOfMemoryError?,https://stackoverflow.com/questions/18316110,"java, OutOfMemoryError: Java heap space",1
+372,7351242,Is it such a bad idea to capture OutOfMemoryError?,https://stackoverflow.com/questions/8452153,Java - How to handle OutOfMemoryError?,1
+373,7351242,Is it such a bad idea to capture OutOfMemoryError?,https://stackoverflow.com/questions/9814664,"What is an OutOfMemoryError exception, and how can I produce it?",1
+374,7351242,Is it such a bad idea to capture OutOfMemoryError?,https://stackoverflow.com/questions/5422762,"OutOfMemoryError exception: Java heap space, how to debug...?",1
+375,7351242,Is it such a bad idea to capture OutOfMemoryError?,https://stackoverflow.com/questions/11683778,Why an OutOfMemoryError here if there is free heap space?,1
+376,7351242,Is it such a bad idea to capture OutOfMemoryError?,https://stackoverflow.com/questions/6878720,OutOfMemoryError: Java Heap Space. How can I fix this error that happens in a recursive method?,1
+377,7351242,Is it such a bad idea to capture OutOfMemoryError?,https://stackoverflow.com/questions/10327989,Does JVM terminate itself after OutOfMemoryError,1
+378,7351242,Is it such a bad idea to capture OutOfMemoryError?,https://stackoverflow.com/questions/26256393,What is the best way to handle out of memory conditions in Java?,1
+379,7351242,Is it such a bad idea to capture OutOfMemoryError?,https://stackoverflow.com/questions/2261465,Java OutOfMemoryError not throwing,1
+380,33742322,Continue to get info from scanner in catch block,https://stackoverflow.com/questions/12265001,java.nio.charset.UnsupportedCharsetException: X-MAC-ROMAN in Jsoup getting a webpage,0
+381,33742322,Continue to get info from scanner in catch block,https://stackoverflow.com/questions/22435385,try catch block (from catch block back to try block),0
+382,33742322,Continue to get info from scanner in catch block,https://stackoverflow.com/questions/11211286,Is it possible in Java to catch two exceptions in the same catch block?,1
+383,33742322,Continue to get info from scanner in catch block,https://stackoverflow.com/questions/24990185,"When exception occurs is it possible to pause my try block, execute catch block and again resume my try block",0
+384,33742322,Continue to get info from scanner in catch block,https://stackoverflow.com/questions/3861522,Do you really need the 'finally' block,0
+385,33742322,Continue to get info from scanner in catch block,https://stackoverflow.com/questions/25101575,Continue a while loop after exception,1
+386,33742322,Continue to get info from scanner in catch block,https://stackoverflow.com/questions/3109353,What comes first - finally or catch block?,0
+387,33742322,Continue to get info from scanner in catch block,https://stackoverflow.com/questions/20642881,java exception to continue code loop,0
+388,33742322,Continue to get info from scanner in catch block,https://stackoverflow.com/questions/25346591,Call return statement or System.exit on try or catch block,0
+389,33742322,Continue to get info from scanner in catch block,https://stackoverflow.com/questions/17980172,"Java - If I return in a catch block, will the finally block be executed?",0
+390,4568896,difference between Object reference and Object hash code,https://stackoverflow.com/questions/18467276,What is the difference between type T and Object?,0
+391,4568896,difference between Object reference and Object hash code,https://stackoverflow.com/questions/3700595,difference between hash code and reference or address of an object?,1
+392,4568896,difference between Object reference and Object hash code,https://stackoverflow.com/questions/18335488,Eligibility of an Object for GC,0
+393,4568896,difference between Object reference and Object hash code,https://stackoverflow.com/questions/16730109,Difference Between Object Type and Reference Type,0
+394,4568896,difference between Object reference and Object hash code,https://stackoverflow.com/questions/5126082,What exactly is an instance in Java?,0
+395,4568896,difference between Object reference and Object hash code,https://stackoverflow.com/questions/16390030,Difference between Class<?> and Class<Object> in Java,0
+396,4568896,difference between Object reference and Object hash code,https://stackoverflow.com/questions/1792501,Does Java Serialization work for cyclic references?,0
+397,4568896,difference between Object reference and Object hash code,https://stackoverflow.com/questions/29590860,Java Generic Type and Object Class,0
+398,4568896,difference between Object reference and Object hash code,https://stackoverflow.com/questions/33950745,"If an array is assigned to an Object Reference, then what does the Object Reference point to?",1
+399,4568896,difference between Object reference and Object hash code,https://stackoverflow.com/questions/2229602,"Is there any difference between ""Object[] x"" and ""Object x[]""?",0
+400,29783651,How to handle double quotes in Pattern.compile?,https://stackoverflow.com/questions/21627866,java - Regex to split a string using spaces but not considering double quotes or single quotes,1
+401,29783651,How to handle double quotes in Pattern.compile?,https://stackoverflow.com/questions/16761596,"How to represent the double quotes character ("") in regex?",1
+402,29783651,How to handle double quotes in Pattern.compile?,https://stackoverflow.com/questions/20390507,What do double quotes in a Java expression mean?,0
+403,29783651,How to handle double quotes in Pattern.compile?,https://stackoverflow.com/questions/22789293,How to get the string between double quotes in a string in Java,1
+404,29783651,How to handle double quotes in Pattern.compile?,https://stackoverflow.com/questions/5968720,"Splitting comma separated string, ignore commas in quotes, but allow strings with one double quotation",1
+405,29783651,How to handle double quotes in Pattern.compile?,https://stackoverflow.com/questions/5965452,"Replace double quotes("")",1
+406,29783651,How to handle double quotes in Pattern.compile?,https://stackoverflow.com/questions/1658538,"Regular expression, replace all commas between double quotes",1
+407,29783651,How to handle double quotes in Pattern.compile?,https://stackoverflow.com/questions/4917932,RegEx To Ignore Text Between Quotes,1
+408,29783651,How to handle double quotes in Pattern.compile?,https://stackoverflow.com/questions/18521433,java regex split text with ; but not matching within quotes(including escaped quotes within ),1
+409,29783651,How to handle double quotes in Pattern.compile?,https://stackoverflow.com/questions/21070173,Android: Parsing JSON string inside of double quotes,1
+410,17862769,"""main"" java.lang.OutOfMemoryError in Hashtable sorting and reversing",https://stackoverflow.com/questions/4333265,How to sort a Java Hashtable?,1
+411,17862769,"""main"" java.lang.OutOfMemoryError in Hashtable sorting and reversing",https://stackoverflow.com/questions/7996499,Creating Hashtable as final in java,0
+412,17862769,"""main"" java.lang.OutOfMemoryError in Hashtable sorting and reversing",https://stackoverflow.com/questions/12770780,java.lang.OutOfMemoryError: Java heap space and HashMap,1
+413,17862769,"""main"" java.lang.OutOfMemoryError in Hashtable sorting and reversing",https://stackoverflow.com/questions/17305300,Error while creating generic hash table,0
+414,17862769,"""main"" java.lang.OutOfMemoryError in Hashtable sorting and reversing",https://stackoverflow.com/questions/11530661,Using Java Dictionary...use a Hashtable?,0
+415,17862769,"""main"" java.lang.OutOfMemoryError in Hashtable sorting and reversing",https://stackoverflow.com/questions/4457623,Hashtable same Key with different value....?,0
+416,17862769,"""main"" java.lang.OutOfMemoryError in Hashtable sorting and reversing",https://stackoverflow.com/questions/2015264,main java.lang.OutOfMemoryError: Java heap space,1
+417,17862769,"""main"" java.lang.OutOfMemoryError in Hashtable sorting and reversing",https://stackoverflow.com/questions/5176771,sort hashtable by values,1
+418,17862769,"""main"" java.lang.OutOfMemoryError in Hashtable sorting and reversing",https://stackoverflow.com/questions/4621321,How to make a .NET Hashtable work just like a Java Hashtable,0
+419,17862769,"""main"" java.lang.OutOfMemoryError in Hashtable sorting and reversing",https://stackoverflow.com/questions/3674912,Hashtable with integer key in Java,0
+420,33426469,Java- How do I draw on a JFrame without losing it's existing drawing,https://stackoverflow.com/questions/9623733,Drawing window in JFrame,1
+421,33426469,Java- How do I draw on a JFrame without losing it's existing drawing,https://stackoverflow.com/questions/17798768,"Why am I not able to ""draw"" on my JFrame?",0
+422,33426469,Java- How do I draw on a JFrame without losing it's existing drawing,https://stackoverflow.com/questions/6118737,How to draw in JPanel? (Swing/graphics Java),0
+423,33426469,Java- How do I draw on a JFrame without losing it's existing drawing,https://stackoverflow.com/questions/5500680,Is it possible to draw an image or text on a JFrame?,0
+424,33426469,Java- How do I draw on a JFrame without losing it's existing drawing,https://stackoverflow.com/questions/13073828,"Image Drawing Works for JFrame, But Not JPanel",0
+425,33426469,Java- How do I draw on a JFrame without losing it's existing drawing,https://stackoverflow.com/questions/21974225,"How do I draw on a JFrame, or any JComponent?",0
+426,33426469,Java- How do I draw on a JFrame without losing it's existing drawing,https://stackoverflow.com/questions/13340450,JFrame + JDialog's to JFrame,0
+427,33426469,Java- How do I draw on a JFrame without losing it's existing drawing,https://stackoverflow.com/questions/11114156,Draw graphics beneath components,1
+428,33426469,Java- How do I draw on a JFrame without losing it's existing drawing,https://stackoverflow.com/questions/24026743,Why not to draw directly inside JFrame,0
+429,33426469,Java- How do I draw on a JFrame without losing it's existing drawing,https://stackoverflow.com/questions/18836214,can't draw on JFrame,1
+430,20064374,Parsing JSON api starting from an array - [,https://stackoverflow.com/questions/5650171,Parsing JSON Array within JSON Object,1
+431,20064374,Parsing JSON api starting from an array - [,https://stackoverflow.com/questions/19353581,Parsing JSON Array with JSON OBJECT,1
+432,20064374,Parsing JSON api starting from an array - [,https://stackoverflow.com/questions/23950549,Is there way to associate arbitrary data structure with GSON parser?,1
+433,20064374,Parsing JSON api starting from an array - [,https://stackoverflow.com/questions/28736419,Parsing JSON array and object in Android,1
+434,20064374,Parsing JSON api starting from an array - [,https://stackoverflow.com/questions/12508823,How to get the list of all tag names of json arrays within a json object in android/java,1
+435,20064374,Parsing JSON api starting from an array - [,https://stackoverflow.com/questions/9853017,Parsing JSON array with gson,1
+436,20064374,Parsing JSON api starting from an array - [,https://stackoverflow.com/questions/20057695,Parsing JSON Array using GSON,1
+437,20064374,Parsing JSON api starting from an array - [,https://stackoverflow.com/questions/34829754,Java - XML Parsing,0
+438,20064374,Parsing JSON api starting from an array - [,https://stackoverflow.com/questions/27158787,"Parsing JSON arrays, in a JSON file, into a Java ArrayList",1
+439,20064374,Parsing JSON api starting from an array - [,https://stackoverflow.com/questions/34920466,Retrofit - JSON Array Parsing,1
+440,30942605,Generic Comparable gets a compiler error,https://stackoverflow.com/questions/6452313,"How to implement a generic `max(Comparable a, Comparable b)` function in Java?",0
+441,30942605,Generic Comparable gets a compiler error,https://stackoverflow.com/questions/21544716,Implementing Comparable with a generic class,1
+442,30942605,Generic Comparable gets a compiler error,https://stackoverflow.com/questions/21664932,Interface and class with generics and Comparable,1
+443,30942605,Generic Comparable gets a compiler error,https://stackoverflow.com/questions/13026189,Comparable and Comparator Interface in Java,1
+444,30942605,Generic Comparable gets a compiler error,https://stackoverflow.com/questions/18393429,Java Questions Regarding declaring a list of Comparable objects,1
+445,30942605,Generic Comparable gets a compiler error,https://stackoverflow.com/questions/27030257,Comparable Interface Issue in Java,0
+446,30942605,Generic Comparable gets a compiler error,https://stackoverflow.com/questions/23323253,Comparable<? super T> vs. Comparable<T>,1
+447,30942605,Generic Comparable gets a compiler error,https://stackoverflow.com/questions/13038240,IDE wants class to be abstract with Comparable,0
+448,30942605,Generic Comparable gets a compiler error,https://stackoverflow.com/questions/18454854,"Casting between an object of generic type ""T"" and an object of generic type ""<T extends Comparable<T>>""",1
+449,30942605,Generic Comparable gets a compiler error,https://stackoverflow.com/questions/25779184,Explanation of generic <T extends Comparable<? super T>> in collection.sort/ comparable code?,1
+450,13252133,Out of memory while processing large number of objects in HashMap/Hashtable/ArrayList,https://stackoverflow.com/questions/14532346,Processing large amount of data in java,1
+451,13252133,Out of memory while processing large number of objects in HashMap/Hashtable/ArrayList,https://stackoverflow.com/questions/6212796,Java heap space error while creating ArrayList of large number of objects?,1
+452,13252133,Out of memory while processing large number of objects in HashMap/Hashtable/ArrayList,https://stackoverflow.com/questions/18435243,hash code HashMap,0
+453,13252133,Out of memory while processing large number of objects in HashMap/Hashtable/ArrayList,https://stackoverflow.com/questions/16162453,Most efficient key object type in a hash map?,1
+454,13252133,Out of memory while processing large number of objects in HashMap/Hashtable/ArrayList,https://stackoverflow.com/questions/32247512,Processing large number of text files in java,1
+455,13252133,Out of memory while processing large number of objects in HashMap/Hashtable/ArrayList,https://stackoverflow.com/questions/25371300,Sort list based on priority from a map,0
+456,13252133,Out of memory while processing large number of objects in HashMap/Hashtable/ArrayList,https://stackoverflow.com/questions/18323911,Heap memory vs object memory,0
+457,13252133,Out of memory while processing large number of objects in HashMap/Hashtable/ArrayList,https://stackoverflow.com/questions/32675250,Classes (not objects) in a HashMap,0
+458,13252133,Out of memory while processing large number of objects in HashMap/Hashtable/ArrayList,https://stackoverflow.com/questions/7427255,Populate default values through reflection in java,0
+459,13252133,Out of memory while processing large number of objects in HashMap/Hashtable/ArrayList,https://stackoverflow.com/questions/24217522,How to map a HashMap that contains ArrayList,0
+460,29075229,How to programmatically set error-page and etc web.xml parameters in spring,https://stackoverflow.com/questions/2175502,Spring application context : access web.xml context-params?,1
+461,29075229,How to programmatically set error-page and etc web.xml parameters in spring,https://stackoverflow.com/questions/4538846,Why do we use web.xml?,0
+462,29075229,How to programmatically set error-page and etc web.xml parameters in spring,https://stackoverflow.com/questions/22389996,How to configure spring-boot servlet like in web.xml?,1
+463,29075229,How to programmatically set error-page and etc web.xml parameters in spring,https://stackoverflow.com/questions/11014782,Adding ContextLoaderListener to web.xml in Spring MVC,0
+464,29075229,How to programmatically set error-page and etc web.xml parameters in spring,https://stackoverflow.com/questions/6451377,Loading context in Spring using web.xml,0
+465,29075229,How to programmatically set error-page and etc web.xml parameters in spring,https://stackoverflow.com/questions/9670363,How do I programmatically configure Jersey to use Jackson for JSON (de)serialization?,0
+466,29075229,How to programmatically set error-page and etc web.xml parameters in spring,https://stackoverflow.com/questions/4760683,@ResponseStatus and web.xml <error-page>,0
+467,29075229,How to programmatically set error-page and etc web.xml parameters in spring,https://stackoverflow.com/questions/8198312,Servlet Mapping using web.xml,0
+468,29075229,How to programmatically set error-page and etc web.xml parameters in spring,https://stackoverflow.com/questions/18889681,Mapping servlet in web.xml,0
+469,29075229,How to programmatically set error-page and etc web.xml parameters in spring,https://stackoverflow.com/questions/23450402,Spring Jersey: How to get rid of web.xml?,0
+470,8477682,Override equals and hashCode methods in superclass or in the sub class or override in both,https://stackoverflow.com/questions/7824714,Regarding overriding equals method in java,1
+471,8477682,Override equals and hashCode methods in superclass or in the sub class or override in both,https://stackoverflow.com/questions/20883469,Why we should Override hashcode() when overriding equals() method?,1
+472,8477682,Override equals and hashCode methods in superclass or in the sub class or override in both,https://stackoverflow.com/questions/2265503,Why do I need to override the equals and hashCode methods in Java?,1
+473,8477682,Override equals and hashCode methods in superclass or in the sub class or override in both,https://stackoverflow.com/questions/18415104,Why is there a need to override hashcode if I override the 'equals' method in Java?,1
+474,8477682,Override equals and hashCode methods in superclass or in the sub class or override in both,https://stackoverflow.com/questions/32414569,LinkedHashSet on objects without overridden hashCode() and equals(),1
+475,8477682,Override equals and hashCode methods in superclass or in the sub class or override in both,https://stackoverflow.com/questions/5396939,Hashcode and Equals for Hashset,1
+476,8477682,Override equals and hashCode methods in superclass or in the sub class or override in both,https://stackoverflow.com/questions/33106154,Overriding the hashCode( ) in java for a class that contains an array,1
+477,8477682,Override equals and hashCode methods in superclass or in the sub class or override in both,https://stackoverflow.com/questions/29736296,Why we need to override hashCode and equals?,1
+478,8477682,Override equals and hashCode methods in superclass or in the sub class or override in both,https://stackoverflow.com/questions/2707541,Why should I override hashCode() when I override equals() method?,1
+479,8477682,Override equals and hashCode methods in superclass or in the sub class or override in both,https://stackoverflow.com/questions/15130764,What is the default implementation of `hashCode`?,1
+480,33172026,At which places are JVM options hidden by STS software? How do I make the Java Hotspot MaxPermSize warning go away when using STS?,https://stackoverflow.com/questions/22634644,Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize,1
+481,33172026,At which places are JVM options hidden by STS software? How do I make the Java Hotspot MaxPermSize warning go away when using STS?,https://stackoverflow.com/questions/6003453,is there a way to make netbeans use the hotspot server vm,0
+482,33172026,At which places are JVM options hidden by STS software? How do I make the Java Hotspot MaxPermSize warning go away when using STS?,https://stackoverflow.com/questions/11488161,Why I am getting a JVM max heap space error?,1
+483,33172026,At which places are JVM options hidden by STS software? How do I make the Java Hotspot MaxPermSize warning go away when using STS?,https://stackoverflow.com/questions/7448866,What's my JVM Heap Size?,0
+484,33172026,At which places are JVM options hidden by STS software? How do I make the Java Hotspot MaxPermSize warning go away when using STS?,https://stackoverflow.com/questions/2253976,how to get the min and max heap size settings of a JVM from within a Java program,0
+485,33172026,At which places are JVM options hidden by STS software? How do I make the Java Hotspot MaxPermSize warning go away when using STS?,https://stackoverflow.com/questions/3472593,Can the JVM max heap size be dynamic?,0
+486,33172026,At which places are JVM options hidden by STS software? How do I make the Java Hotspot MaxPermSize warning go away when using STS?,https://stackoverflow.com/questions/8068717,JRockit JVM versus HotSpot JVM,0
+487,33172026,At which places are JVM options hidden by STS software? How do I make the Java Hotspot MaxPermSize warning go away when using STS?,https://stackoverflow.com/questions/6862972,Is it good to set the max and min JVM heap size the same?,1
+488,33172026,At which places are JVM options hidden by STS software? How do I make the Java Hotspot MaxPermSize warning go away when using STS?,https://stackoverflow.com/questions/20658205,How to add jvm options to tomcat on windows 7,0
+489,33172026,At which places are JVM options hidden by STS software? How do I make the Java Hotspot MaxPermSize warning go away when using STS?,https://stackoverflow.com/questions/21648822,What really is Java heap size in Eclipse,0
+490,17894598,how to give execute permission for google AppEngineFile?,https://stackoverflow.com/questions/14097472,how to upload a file from android app to google app engine using GAE,0
+491,17894598,how to give execute permission for google AppEngineFile?,https://stackoverflow.com/questions/23845710,Google app engine deploy does not work,0
+492,17894598,how to give execute permission for google AppEngineFile?,https://stackoverflow.com/questions/19823905,Does Google App Engine support Java Script Engine?,0
+493,17894598,how to give execute permission for google AppEngineFile?,https://stackoverflow.com/questions/23421460,upload a file using spring MultipartFile and google app engine,0
+494,17894598,how to give execute permission for google AppEngineFile?,https://stackoverflow.com/questions/4660646,how to provide access permission for applet to write on file system,1
+495,17894598,how to give execute permission for google AppEngineFile?,https://stackoverflow.com/questions/13215676,Best way to write a jSON API on Google App Engine,0
+496,17894598,how to give execute permission for google AppEngineFile?,https://stackoverflow.com/questions/8139477,Google App Engine and Java Version?,0
+497,17894598,how to give execute permission for google AppEngineFile?,https://stackoverflow.com/questions/11789493,Could not initialize class com.sun.jna.Native,0
+498,17894598,how to give execute permission for google AppEngineFile?,https://stackoverflow.com/questions/19404733,Deploy Failed when Deploy on google App Engine (for upload on app engine),0
+499,17894598,how to give execute permission for google AppEngineFile?,https://stackoverflow.com/questions/15696492,trying to execute a file in my jar file,0
+500,12355839,Java 6 - Creating and detecting the first double value above Long.MAX_VALUE,https://stackoverflow.com/questions/12356793,Java 6 - Creating and detecting the first Double value above Float.MAX_VALUE,1
+501,12355839,Java 6 - Creating and detecting the first double value above Long.MAX_VALUE,https://stackoverflow.com/questions/9057290,Long + Long not bigger than Long.MAX_VALUE,1
+502,12355839,Java 6 - Creating and detecting the first double value above Long.MAX_VALUE,https://stackoverflow.com/questions/7297354,Java Reading input from a text file that has multiple columns,0
+503,12355839,Java 6 - Creating and detecting the first double value above Long.MAX_VALUE,https://stackoverflow.com/questions/20136291,Double value issue in java,0
+504,12355839,Java 6 - Creating and detecting the first double value above Long.MAX_VALUE,https://stackoverflow.com/questions/24252699,Generate a Double in the Double domain,1
+505,12355839,Java 6 - Creating and detecting the first double value above Long.MAX_VALUE,https://stackoverflow.com/questions/24102895,"Importing text into JTable - Rows aren't separating, they are just creating a single very long row. - Java Swing",0
+506,12355839,Java 6 - Creating and detecting the first double value above Long.MAX_VALUE,https://stackoverflow.com/questions/18907101,Detecting Numbers in a String Variable (In Java),0
+507,12355839,Java 6 - Creating and detecting the first double value above Long.MAX_VALUE,https://stackoverflow.com/questions/16385380,Difference between creating an instance variable and creating a new object in Java?,0
+508,12355839,Java 6 - Creating and detecting the first double value above Long.MAX_VALUE,https://stackoverflow.com/questions/28919405,Java Dealing with Double values having E,0
+509,12355839,Java 6 - Creating and detecting the first double value above Long.MAX_VALUE,https://stackoverflow.com/questions/8342101,Efficient algorithm to find all the paths from A to Z?,0
+510,30155535,Java: Why won't this BigDecimal loop work?,https://stackoverflow.com/questions/20550657,Big Decimal Round to two decimals ALWAYS (even if my BigDecimal object has no decimals)?,1
+511,30155535,Java: Why won't this BigDecimal loop work?,https://stackoverflow.com/questions/16165630,BigDecimal with minimal 2 fraction digits,0
+512,30155535,Java: Why won't this BigDecimal loop work?,https://stackoverflow.com/questions/32566683,Get bigdecimal value with scale,0
+513,30155535,Java: Why won't this BigDecimal loop work?,https://stackoverflow.com/questions/10269045,"Format a BigDecimal as String with max 2 decimal digits, removing 0 on decimal part",0
+514,30155535,Java: Why won't this BigDecimal loop work?,https://stackoverflow.com/questions/29632454,new BigDecimal(double) vs new BigDecimal(String),0
+515,30155535,Java: Why won't this BigDecimal loop work?,https://stackoverflow.com/questions/35446638,How to round BigDecimal to return two decimal,0
+516,30155535,Java: Why won't this BigDecimal loop work?,https://stackoverflow.com/questions/7572309,Any neat way to limit significant figures with BigDecimal,0
+517,30155535,Java: Why won't this BigDecimal loop work?,https://stackoverflow.com/questions/29639110,Can't see why this won't work | Loop won't run,0
+518,30155535,Java: Why won't this BigDecimal loop work?,https://stackoverflow.com/questions/29816844,Why can't we add BigDecimal to TreeSet ?,0
+519,30155535,Java: Why won't this BigDecimal loop work?,https://stackoverflow.com/questions/17542378,Big Decimal periodic number,0
+520,12618915,How to implement a db listener in Java,https://stackoverflow.com/questions/13447060,Null or Dummy Object?,0
+521,12618915,How to implement a db listener in Java,https://stackoverflow.com/questions/22576251,I want to implement Key Listener on jlabel,0
+522,12618915,How to implement a db listener in Java,https://stackoverflow.com/questions/32457506,Java Hibernate Data change Listener,1
+523,12618915,How to implement a db listener in Java,https://stackoverflow.com/questions/32440873,Is it OK to add default implementations to methods of an interface which represents a listener?,0
+524,12618915,How to implement a db listener in Java,https://stackoverflow.com/questions/33115454,How to find listener in Servlet?,0
+525,12618915,How to implement a db listener in Java,https://stackoverflow.com/questions/21192950,How do you create and later access an application level resource?,0
+526,12618915,How to implement a db listener in Java,https://stackoverflow.com/questions/30747855,Center JoptionPaneMessageDialog in parent element of the source element that generated the event,0
+527,12618915,How to implement a db listener in Java,https://stackoverflow.com/questions/7211204,"C# custom database engine, how to implement SQL",0
+528,12618915,How to implement a db listener in Java,https://stackoverflow.com/questions/15290984,SOAP web service callback architecture?,0
+529,12618915,How to implement a db listener in Java,https://stackoverflow.com/questions/5274811,hsqldb from java app,0
+530,22242630,Is there a elegant and common way for converting PostgreSQL hstore to JPA 2.1 DataType?,https://stackoverflow.com/questions/17310219,Using EclipseLink JPA to store XML type to PostgreSQL,0
+531,22242630,Is there a elegant and common way for converting PostgreSQL hstore to JPA 2.1 DataType?,https://stackoverflow.com/questions/730788,Best (most efficient) DataType to use for UUIDs as JPA IDs,0
+532,22242630,Is there a elegant and common way for converting PostgreSQL hstore to JPA 2.1 DataType?,https://stackoverflow.com/questions/14770345,Convert String to appropriate DataType,0
+533,22242630,Is there a elegant and common way for converting PostgreSQL hstore to JPA 2.1 DataType?,https://stackoverflow.com/questions/11880924,How to add custom method to Spring Data JPA,0
+534,22242630,Is there a elegant and common way for converting PostgreSQL hstore to JPA 2.1 DataType?,https://stackoverflow.com/questions/21123780,Query by type in Spring Data JPA,0
+535,22242630,Is there a elegant and common way for converting PostgreSQL hstore to JPA 2.1 DataType?,https://stackoverflow.com/questions/21142168,How to specify JPA 2.1 in persistence.xml?,0
+536,22242630,Is there a elegant and common way for converting PostgreSQL hstore to JPA 2.1 DataType?,https://stackoverflow.com/questions/24517120,Is there a way to query a PostgreSQL hstore with Hibernate/JPQL?,0
+537,22242630,Is there a elegant and common way for converting PostgreSQL hstore to JPA 2.1 DataType?,https://stackoverflow.com/questions/25489359,Entity Table is not creating using JPA 2.1,0
+538,22242630,Is there a elegant and common way for converting PostgreSQL hstore to JPA 2.1 DataType?,https://stackoverflow.com/questions/3179773,Type mapping MySQL type text to Java Hibernate,0
+539,22242630,Is there a elegant and common way for converting PostgreSQL hstore to JPA 2.1 DataType?,https://stackoverflow.com/questions/32904513,Spring & Hibernate without jpa,0
+540,3135679,Android HttpClient - hostname in certificate didn't match <example.com> != <*.example.com>,https://stackoverflow.com/questions/8839541,Hostname in certificate didn't match?,1
+541,3135679,Android HttpClient - hostname in certificate didn't match <example.com> != <*.example.com>,https://stackoverflow.com/questions/22722085,Hostname in certificate didn't match on wildcard cert,1
+542,3135679,Android HttpClient - hostname in certificate didn't match <example.com> != <*.example.com>,https://stackoverflow.com/questions/14666560,Certificate java client https,0
+543,3135679,Android HttpClient - hostname in certificate didn't match <example.com> != <*.example.com>,https://stackoverflow.com/questions/6457471,"Java HttpClient error for no SSL certificate found, using certificate as String within code?",0
+544,3135679,Android HttpClient - hostname in certificate didn't match <example.com> != <*.example.com>,https://stackoverflow.com/questions/19292473,SSLHandshakeException: hostname in certificate didn't match,1
+545,3135679,Android HttpClient - hostname in certificate didn't match <example.com> != <*.example.com>,https://stackoverflow.com/questions/1666052,Java HTTPS client certificate authentication,0
+546,3135679,Android HttpClient - hostname in certificate didn't match <example.com> != <*.example.com>,https://stackoverflow.com/questions/15974516,Certificate path discovery in Java,0
+547,3135679,Android HttpClient - hostname in certificate didn't match <example.com> != <*.example.com>,https://stackoverflow.com/questions/15497372,Java HTTP post using HTTPS Confusion - javax.net.ssl.SSLException: hostname in certificate didn't match,1
+548,3135679,Android HttpClient - hostname in certificate didn't match <example.com> != <*.example.com>,https://stackoverflow.com/questions/25002819,Java Https client certificate works absolutely differently than browsers or other tools,0
+549,3135679,Android HttpClient - hostname in certificate didn't match <example.com> != <*.example.com>,https://stackoverflow.com/questions/20290387,Android Socket (Client - Server),0
+550,21398631,Fast processing of data,https://stackoverflow.com/questions/14532346,Processing large amount of data in java,0
+551,21398631,Fast processing of data,https://stackoverflow.com/questions/2480593,Processing XML file with Huge data,0
+552,21398631,Fast processing of data,https://stackoverflow.com/questions/6857248,Fast CSV parsing,1
+553,21398631,Fast processing of data,https://stackoverflow.com/questions/19658038,How to make array processing faster?,1
+554,21398631,Fast processing of data,https://stackoverflow.com/questions/20751237,Efficient and fastest way for processing and writing huge data to a file,1
+555,21398631,Fast processing of data,https://stackoverflow.com/questions/19466834,Reading large data files quickly in Java,1
+556,21398631,Fast processing of data,https://stackoverflow.com/questions/34738708,How to insert data as fast as possible with Hibernate,1
+557,21398631,Fast processing of data,https://stackoverflow.com/questions/31067741,Fast and asynchronous way of making multiple http requests in JAVA,1
+558,21398631,Fast processing of data,https://stackoverflow.com/questions/19201944,Suitable java collection for fast get and fast removal,1
+559,21398631,Fast processing of data,https://stackoverflow.com/questions/32247512,Processing large number of text files in java,1
+560,35034649,JxBrowser freezes whole application,https://stackoverflow.com/questions/11185485,Java swing GUI freezes,1
+561,35034649,JxBrowser freezes whole application,https://stackoverflow.com/questions/20707064,process hangs my application,1
+562,35034649,JxBrowser freezes whole application,https://stackoverflow.com/questions/20810398,Timer Program Freezes,0
+563,35034649,JxBrowser freezes whole application,https://stackoverflow.com/questions/25079330,Executable Jar with external jar and dependency using maven,0
+564,35034649,JxBrowser freezes whole application,https://stackoverflow.com/questions/16718198,Chat program freezes JFrame,0
+565,35034649,JxBrowser freezes whole application,https://stackoverflow.com/questions/2388634,Launch a java application from another java application,0
+566,35034649,JxBrowser freezes whole application,https://stackoverflow.com/questions/15788495,JFrame freezes during while loop,1
+567,35034649,JxBrowser freezes whole application,https://stackoverflow.com/questions/24914089,Eclipse ADT Freezes when running Android Apps,0
+568,35034649,JxBrowser freezes whole application,https://stackoverflow.com/questions/4855429,Google App Engine App with JPA deployment hangs,0
+569,35034649,JxBrowser freezes whole application,https://stackoverflow.com/questions/15222016,windows shell for java kiosk application,0
+570,5785107,"Get ""real"" class of generic type",https://stackoverflow.com/questions/32227757,Get class type of generic class,1
+571,5785107,"Get ""real"" class of generic type",https://stackoverflow.com/questions/4001938,"Why do I get ""Illegal generic type for instanceof""?",0
+572,5785107,"Get ""real"" class of generic type",https://stackoverflow.com/questions/20216411,How to return class type of a generic class with generic?,1
+573,5785107,"Get ""real"" class of generic type",https://stackoverflow.com/questions/8436055,How to get class of generic type when there is no parameter of it?,1
+574,5785107,"Get ""real"" class of generic type",https://stackoverflow.com/questions/11377248,Return Type of Java Generic Methods,0
+575,5785107,"Get ""real"" class of generic type",https://stackoverflow.com/questions/19138238,Factory with Generics when Argument type is unclear,0
+576,5785107,"Get ""real"" class of generic type",https://stackoverflow.com/questions/19677419,How to get Class<?> object of a generic type,1
+577,5785107,"Get ""real"" class of generic type",https://stackoverflow.com/questions/15912884,what is Generic . and how to make possible to get the generic type on runtime,1
+578,5785107,"Get ""real"" class of generic type",https://stackoverflow.com/questions/24671542,Generic DAO why us generic type Id,0
+579,5785107,"Get ""real"" class of generic type",https://stackoverflow.com/questions/10557102,"What does ""The type ArrayList is not generic"" mean?",0
+580,21065103,How to choose LookAndFeel from file,https://stackoverflow.com/questions/12405436,Change text color of Substance LookAndFeel,1
+581,21065103,How to choose LookAndFeel from file,https://stackoverflow.com/questions/5820757,LookAndFeel Java Synthetica in Eclipse,1
+582,21065103,How to choose LookAndFeel from file,https://stackoverflow.com/questions/10057778,Changing colors of JButtons of LookAndFeel,1
+583,21065103,How to choose LookAndFeel from file,https://stackoverflow.com/questions/17032696,How to update LookAndFeel in Java?,1
+584,21065103,How to choose LookAndFeel from file,https://stackoverflow.com/questions/7807411,How to change the background color of a JToolTip using Nimbus LookAndFeel?,1
+585,21065103,How to choose LookAndFeel from file,https://stackoverflow.com/questions/33617713,Changing Look And Feel by Swapping UIDefaults,1
+586,21065103,How to choose LookAndFeel from file,https://stackoverflow.com/questions/22261579,JButton directly painted into panel does not show background with WindowsLookAndFeel,0
+587,21065103,How to choose LookAndFeel from file,https://stackoverflow.com/questions/6520803,combining customized Java LookAndFeel classes,0
+588,21065103,How to choose LookAndFeel from file,https://stackoverflow.com/questions/33992287,How can I transplant the OSX's LookAndFeel to other type of systems in Java,0
+589,21065103,How to choose LookAndFeel from file,https://stackoverflow.com/questions/16389884,Setting FileChooserUI property in UIManager to the system's,0
+590,11397817,Get the current titlebar and border size of my window and manipulate screenshot image,https://stackoverflow.com/questions/8333187,How to check current window size in java swing?,1
+591,11397817,Get the current titlebar and border size of my window and manipulate screenshot image,https://stackoverflow.com/questions/23287329,How can I make an image the same size as the panel?,0
+592,11397817,Get the current titlebar and border size of my window and manipulate screenshot image,https://stackoverflow.com/questions/21146397,drawString prints string over a screenshot of my current window,0
+593,11397817,Get the current titlebar and border size of my window and manipulate screenshot image,https://stackoverflow.com/questions/15614700,Not Editable JComboBox Border,0
+594,11397817,Get the current titlebar and border size of my window and manipulate screenshot image,https://stackoverflow.com/questions/16550239,Kill JFrame thread in Java on windowClosing event,0
+595,11397817,Get the current titlebar and border size of my window and manipulate screenshot image,https://stackoverflow.com/questions/22276091,"How to add picture out of JFrame, attached to border",0
+596,11397817,Get the current titlebar and border size of my window and manipulate screenshot image,https://stackoverflow.com/questions/19133276,Change the GUI Window size,1
+597,11397817,Get the current titlebar and border size of my window and manipulate screenshot image,https://stackoverflow.com/questions/19946234,Java: Find image within image?,0
+598,11397817,Get the current titlebar and border size of my window and manipulate screenshot image,https://stackoverflow.com/questions/396156,Automatically size JPanel inside JFrame,0
+599,11397817,Get the current titlebar and border size of my window and manipulate screenshot image,https://stackoverflow.com/questions/8665814,Java : Take screenshot of visible area in the browser,1
+600,15353097,Generating BPEL files programmatically?,https://stackoverflow.com/questions/1074630,Generating excel documents programmatically,1
+601,15353097,Generating BPEL files programmatically?,https://stackoverflow.com/questions/28882872,Programmatically creating jar file,1
+602,15353097,Generating BPEL files programmatically?,https://stackoverflow.com/questions/13858380,Parse BPEL File to extract activities + XPath,0
+603,15353097,Generating BPEL files programmatically?,https://stackoverflow.com/questions/15994541,does axis 2 automatically create (and save) wsdl file?,0
+604,15353097,Generating BPEL files programmatically?,https://stackoverflow.com/questions/11589273,Generating files on java web server,0
+605,15353097,Generating BPEL files programmatically?,https://stackoverflow.com/questions/2447213,Generating Java classes from XML file,0
+606,15353097,Generating BPEL files programmatically?,https://stackoverflow.com/questions/251807,Programmatically generate an Eclipse project,0
+607,15353097,Generating BPEL files programmatically?,https://stackoverflow.com/questions/7216500,Dynamically generating java class from a java program,0
+608,15353097,Generating BPEL files programmatically?,https://stackoverflow.com/questions/3131285,generating Eclipse project files with Maven,0
+609,15353097,Generating BPEL files programmatically?,https://stackoverflow.com/questions/17619891,How to put message into Sent?,0
+610,6531272,"""En dash"" being garbled during http response handling or text manipulation",https://stackoverflow.com/questions/16115028,JLabel text is garbled,1
+611,6531272,"""En dash"" being garbled during http response handling or text manipulation",https://stackoverflow.com/questions/2932857,"Html, handling a JSON response",0
+612,6531272,"""En dash"" being garbled during http response handling or text manipulation",https://stackoverflow.com/questions/34083664,How does a Post request is made via a Java swing GUI,0
+613,6531272,"""En dash"" being garbled during http response handling or text manipulation",https://stackoverflow.com/questions/26110375,JSONObject within JSONArray not quite right,0
+614,6531272,"""En dash"" being garbled during http response handling or text manipulation",https://stackoverflow.com/questions/25662508,"An easy way to detect the end of http response (raw socket, java)?",0
+615,6531272,"""En dash"" being garbled during http response handling or text manipulation",https://stackoverflow.com/questions/7283223,String Manipulation,0
+616,6531272,"""En dash"" being garbled during http response handling or text manipulation",https://stackoverflow.com/questions/22929382,Json mapping with JaxB annotation using Jackson,0
+617,6531272,"""En dash"" being garbled during http response handling or text manipulation",https://stackoverflow.com/questions/10353767,Parsing text between quotes not followed by two quotes,0
+618,6531272,"""En dash"" being garbled during http response handling or text manipulation",https://stackoverflow.com/questions/22393341,"How to get text from JSON without ["" ""]",0
+619,6531272,"""En dash"" being garbled during http response handling or text manipulation",https://stackoverflow.com/questions/4016671,How to parse a string that is in a different encoding from java,1
+620,35284048,Format/Indent Java code in an Android App,https://stackoverflow.com/questions/18472942,Android App error with my code,0
+621,35284048,Format/Indent Java code in an Android App,https://stackoverflow.com/questions/13349815,if statement help on android app,0
+622,35284048,Format/Indent Java code in an Android App,https://stackoverflow.com/questions/29981252,"Run Android App Twice To Work, Why?",0
+623,35284048,Format/Indent Java code in an Android App,https://stackoverflow.com/questions/20754538,Android app package name,0
+624,35284048,Format/Indent Java code in an Android App,https://stackoverflow.com/questions/24692154,Error in my android application,0
+625,35284048,Format/Indent Java code in an Android App,https://stackoverflow.com/questions/24984116,Android App Error: java.lang.NoClassDefFoundError,0
+626,35284048,Format/Indent Java code in an Android App,https://stackoverflow.com/questions/3773516,How to close another app in Android?,0
+627,35284048,Format/Indent Java code in an Android App,https://stackoverflow.com/questions/9129109,Import Java Project in Android application?,0
+628,35284048,Format/Indent Java code in an Android App,https://stackoverflow.com/questions/25079330,Executable Jar with external jar and dependency using maven,0
+629,35284048,Format/Indent Java code in an Android App,https://stackoverflow.com/questions/11066998,JDK for android app development,0
+630,22746318,manipulating time in java swing,https://stackoverflow.com/questions/4604003,synchronized block - lock more than one object,0
+631,22746318,manipulating time in java swing,https://stackoverflow.com/questions/21203346,Manipulating GUI objects in java,0
+632,22746318,manipulating time in java swing,https://stackoverflow.com/questions/2168374,What is the Best Practice for manipulating and storing dates in Java?,1
+633,22746318,manipulating time in java swing,https://stackoverflow.com/questions/14162725,adding swing components at run time in netbeans,0
+634,22746318,manipulating time in java swing,https://stackoverflow.com/questions/20454031,Swing: moving two graphics at the same time,0
+635,22746318,manipulating time in java swing,https://stackoverflow.com/questions/9751751,Java - Updating a GUI made in Swing,1
+636,22746318,manipulating time in java swing,https://stackoverflow.com/questions/2896013,Manipulating and comparing floating points in java,0
+637,22746318,manipulating time in java swing,https://stackoverflow.com/questions/23793077,Creating thread java swing,0
+638,22746318,manipulating time in java swing,https://stackoverflow.com/questions/18632581,"Get current time, set object time, and compare",1
+639,22746318,manipulating time in java swing,https://stackoverflow.com/questions/809646,Libraries / tutorials for manipulating video in java,0
